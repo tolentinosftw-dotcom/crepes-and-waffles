@@ -5,22 +5,23 @@ describe('menu data model', () => {
   it('loads the product catalog into stable categories', () => {
     const names = sampleMenuData.map((category) => category.name)
 
-    expect(names).toContain('Jugos y Batidos')
-    expect(names).toContain('Sopas y Entradas')
+    expect(names).toContain('Crepes de Dulce')
+    expect(names).toContain('Helados')
+    expect(names).toContain('Jugos Naturales')
     expect(names).toContain('Waffles')
-    expect(sampleMenuData.reduce((total, category) => total + category.items.length, 0)).toBe(157)
+    expect(sampleMenuData.reduce((total, category) => total + category.items.length, 0)).toBe(253)
   })
 
-  it('keeps juice products away from soup categories', () => {
-    const juices = sampleMenuData.find((category) => category.name === 'Jugos y Batidos')
-    const soups = sampleMenuData.find((category) => category.name === 'Sopas y Entradas')
+  it('groups definitive products by their source category', () => {
+    const sweetCrepes = sampleMenuData.find((category) => category.name === 'Crepes de Dulce')
+    const soups = sampleMenuData.find((category) => category.name === 'Sopas')
 
-    expect(juices?.items.map((item) => item.name)).toContain('Mora')
-    expect(soups?.items.map((item) => item.name)).not.toContain('Mora')
+    expect(sweetCrepes?.items.map((item) => item.name)).toContain('Crepe de Nutella')
+    expect(soups?.items.map((item) => item.name)).not.toContain('Crepe de Nutella')
   })
 
   it('assigns default colors for category customization', () => {
-    expect(getCategoryColor('Jugos y Batidos')).toMatch(/^#[0-9a-f]{6}$/i)
+    expect(getCategoryColor('Jugos Naturales')).toMatch(/^#[0-9a-f]{6}$/i)
     expect(getCategoryColor('Waffles')).not.toBe(getCategoryColor('Bebidas'))
     expect(sampleMenuData.every((category) => Boolean(category.color))).toBe(true)
   })

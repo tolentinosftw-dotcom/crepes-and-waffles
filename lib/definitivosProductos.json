@@ -1,0 +1,2025 @@
+[{
+        "id": "product-1",
+        "name": "Crepe de Nutella",
+        "description": "Crepe de Nutella con chantilly.",
+        "price": 16900,
+        "image": "https://images.rappi.com/products/f8db2b1d-5b54-4476-aa09-7af8c6c72967.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-2",
+        "name": "Crepe Nutella Banano",
+        "description": "Crepe de Nutella con tajaditas de banano y crema chantilly.",
+        "price": 17400,
+        "image": "https://images.rappi.com/products/6d51a3f5-46cc-4206-b234-ca6b851f18b8.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-3",
+        "name": "Baby Doll",
+        "description": "Crepe con banano fresco, helado de Vainilla, nueces, chocolate caliente y crema chantilly.",
+        "price": 15400,
+        "image": "https://images.rappi.com/products/b374e624-9c8b-4a8f-9e23-9b8904b0a476.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-4",
+        "name": "Cleopatra",
+        "description": "Tajadas de banano y fresa, helado de Mora, crema chantilly y salsa de uva e inglesa.",
+        "price": 14300,
+        "image": "https://images.rappi.com/products/9e3bcc5f-2e7e-4053-a49e-16bd10a24ea9.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-5",
+        "name": "Mont Blanc",
+        "description": "Crepe de chocolate blanco con fresas y crema chantilly.",
+        "price": 17400,
+        "image": "https://images.rappi.com/products/2ecabeb6-de68-415c-ba97-eff00ba9ca3e.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-6",
+        "name": "Chocolate Fondue",
+        "description": "Crepe con chocolate sobre fresas y banano, helado de Vainilla y crema chantilly.",
+        "price": 14500,
+        "image": "https://images.rappi.com/products/2e306144-5b0a-4786-a12d-60ff2b69407e.jpeg",
+        "category": "CREPES DE DULCE"
+    },
+    {
+        "id": "product-7",
+        "name": "Vainilla Chocoalmond (470 ml)",
+        "description": "Helado de Vainilla con almendras tostadas y fudge de chocolate.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/a540a281-8b04-4968-88f2-2a46e5597a2f.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-8",
+        "name": "Maracuyá Stracciatella (470 ml)",
+        "description": "Pasión Tropical: trozos de chocolate oscuro y vetas de maracuyá.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/4b99c38e-cdfd-496d-a9b5-5257e5feedad.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-9",
+        "name": "Lulada (470 ml)",
+        "description": "Helado de Lulo en agua.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/0e009d01-b146-45c6-936f-6a729b8330f9.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-10",
+        "name": "Yogurt de Guayaba (470 ml)",
+        "description": "Helado de Yogurt con vetas de guayaba.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/96b325e0-f2e6-49a6-9319-0666ae86bf7d.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-11",
+        "name": "Dulce de Leche (470 ml)",
+        "description": "Dulce de Leche argentino con stracciatella.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/3d1dcd40-fa1a-4453-97ae-47c7a914b944.png",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-12",
+        "name": "Yogurt Griego con Amarenas (470 ml)",
+        "description": "Helado de Yogurt Griego con cerezas amarenas italianas.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/e13dce00-505e-478d-aa94-7d617e054e29.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-13",
+        "name": "Petalos de Rosa",
+        "description": "Helado de Pétalos de Rosa",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/f9058af4-63c1-4854-9989-20202ae6b54d.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-14",
+        "name": "Mango Lassi",
+        "description": "Hecho con yogurt griego y mango de azúcar es un abrazo frutal y refrescante al paladar.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/5c4e6cf1-0763-4f41-a048-30de501e44d1.jpeg",
+        "category": "HELADOS DE TEMPORADA (470 ML)"
+    },
+    {
+        "id": "product-15",
+        "name": "Jugo de Mora 11 Oz",
+        "description": "Jugo de mora natural en agua o leche 11 Oz",
+        "price": 7900,
+        "image": "https://images.rappi.com/products/97fadd9e-48a1-40ef-853d-3281305767c6.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-16",
+        "name": "Jugo de Mango 11 Oz",
+        "description": "Jugo de mango natural en agua o leche 11 Oz",
+        "price": 7900,
+        "image": "https://images.rappi.com/products/33b165d1-8fc6-4050-a728-2480a65a5953.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-17",
+        "name": "Jugo de Fresa 11 Oz",
+        "description": "Jugo de fresa natural en agua o leche 11 Oz",
+        "price": 8100,
+        "image": "https://images.rappi.com/products/96078271-ee37-4ad0-8199-18e2291173ab.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-18",
+        "name": "Jugo de Guanábana 11 Oz",
+        "description": "Jugo de guanábana natural en agua o leche 11 Oz",
+        "price": 8200,
+        "image": "https://images.rappi.com/products/dc48d9ce-9a08-4d29-9fd3-3d656a4ba74c.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-19",
+        "name": "Piña, Jengibre y Hierbabuena 11 Oz",
+        "description": "Batido con mezcla de frutas del campo 11 Oz",
+        "price": 9900,
+        "image": "https://images.rappi.com/products/2fc8aceb-b19b-4455-bb07-5a87af1f7d37.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-20",
+        "name": "Limonada Mango Biche 9 Oz",
+        "description": "Limonada de mango biche 9 Oz",
+        "price": 9600,
+        "image": "https://images.rappi.com/products/a3adc064-cafe-4495-9b36-a74a0fcfa75a.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-21",
+        "name": "Limonada Natural 11 Oz",
+        "description": "Limonada natural 11 Oz",
+        "price": 6500,
+        "image": "https://images.rappi.com/products/894b55d2-82b3-40de-899f-eb22db002c73.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-22",
+        "name": "Limonada de Coco 9 Oz",
+        "description": "Limonada con leche de coco y limón 9 Oz",
+        "price": 11300,
+        "image": "https://images.rappi.com/products/6fec5171-7811-47e5-8127-68db2e710178.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-23",
+        "name": "Limonada de Hierbabuena 9 Oz",
+        "description": "Limonada de hierbabuena 9 Oz",
+        "price": 7900,
+        "image": "https://images.rappi.com/products/f252e1ff-4291-4e21-82fe-ac5012380d6c.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-24",
+        "name": "Alegria 11 Oz",
+        "description": "Batido de mango, maracuyá y piña 11 Oz",
+        "price": 10800,
+        "image": "https://images.rappi.com/products/917037c6-35df-4461-8320-9896efa38344.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-25",
+        "name": "Bienestar 11 Oz",
+        "description": "Batidos de manzana, pera, feijoa y hierbabuena 11 Oz",
+        "price": 10800,
+        "image": "https://images.rappi.com/products/2fc8aceb-b19b-4455-bb07-5a87af1f7d37.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-26",
+        "name": "Jugo de Durazno 9 Oz",
+        "description": "Jugo natural de durazno en leche 9 Oz",
+        "price": 8900,
+        "image": "https://images.rappi.com/products/9d8e3f49-3e8c-4487-a2db-83a594de2ea2.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-27",
+        "name": "Jugo de Feijoa 11 Oz",
+        "description": "Jugo natural de feijoa en agua 11 Oz",
+        "price": 7400,
+        "image": "https://images.rappi.com/products/e144d94f-2178-452c-9eb9-72429ff71fd7.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-28",
+        "name": "Jugo de Frambuesa",
+        "description": "Jugo natural de frambuesa en agua.",
+        "price": 9900,
+        "image": "https://images.rappi.com/products/5be91f9c-4379-476a-9521-b84a04870519.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-29",
+        "name": "Jugo Mandarina 11 Oz",
+        "description": "Jugo de mandarina 11 Oz",
+        "price": 9900,
+        "image": "https://images.rappi.com/products/cbdf2a8f-d441-4314-8eac-07c230cbeb53.jpeg",
+        "category": "JUGOS NATURALES"
+    },
+    {
+        "id": "product-30",
+        "name": "Agua Siembra 477ml",
+        "description": "Agua Siembra 500ml.",
+        "price": 7400,
+        "image": "https://images.rappi.com/products/4aedb4f4-97e2-450b-a418-dab31051d1bd.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-31",
+        "name": "Coca-Cola Original 300 ml",
+        "description": "Gaseosa Coca-Cola Original 300ml.",
+        "price": 6200,
+        "image": "https://images.rappi.com/products/9139eeae-699d-43f5-9821-44e18b27c4f8.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-32",
+        "name": "Schweppes Ginger Ale 300ml",
+        "description": "Gaseosa Schweppes Ginger 300ml.",
+        "price": 6700,
+        "image": "https://images.rappi.com/products/9d01d48d-9f5d-4bc3-97c0-39ef7cdfd8df.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-33",
+        "name": "Agua Manantial Sin Gas 500ml",
+        "description": "Agua Manantial 500ml.",
+        "price": 7200,
+        "image": "https://images.rappi.com/products/b3adde39-1a6f-4cf5-8207-0020144c4092.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-34",
+        "name": "Coca-Cola ZERO 300 ml",
+        "description": "Gaseosa Coca-Cola sin azúcar 330ml.",
+        "price": 6200,
+        "image": "https://images.rappi.com/products/9139eeae-699d-43f5-9821-44e18b27c4f8.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-35",
+        "name": "Agua Manantial Con Gas 300ml",
+        "description": "Agua Manantial con gas 300ml.",
+        "price": 6900,
+        "image": "https://images.rappi.com/products/4b32a9b6-27af-457f-93a0-7cb5dc34361b.jpeg",
+        "category": "OTRAS BEBIDAS"
+    },
+    {
+        "id": "product-36",
+        "name": "Club Colombia 330ml",
+        "description": "Cerveza tipo Lager. % Alcohol: 4,7%. País de origen: Colombia",
+        "price": 10400,
+        "image": "https://images.rappi.com/products/1660ea9b-c3e7-4d4d-b812-4566f7be7aee.jpeg",
+        "category": "CERVEZAS"
+    },
+    {
+        "id": "product-37",
+        "name": "Stella Artois 330ml",
+        "description": "Cerveza tipo Lager.",
+        "price": 12900,
+        "image": "https://images.rappi.com/products/03e838c3-4fdb-40fb-89b7-74f3c657bbfd.png",
+        "category": "CERVEZAS"
+    },
+    {
+        "id": "product-38",
+        "name": "Cerveza Monserrate 330ml",
+        "description": "Cerveza roja, afrutada y cargada de lúpulo. Con mucho cuerpo y aroma balanceado.",
+        "price": 12600,
+        "image": "https://images.rappi.com/products/f4da9962-9100-4e08-9b80-624a84fb50ff.png",
+        "category": "CERVEZAS"
+    },
+    {
+        "id": "product-39",
+        "name": "Sopa de Espinaca",
+        "description": "Sopa de espinaca del huerto a tu casa. Naturalmente deliciosa..",
+        "price": 13900,
+        "image": "https://images.rappi.com/products/52585fe2-6d5a-403a-a570-3e471b1ef945.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-40",
+        "name": "Sopa Mexicana con Pollo",
+        "description": "Sabores de México: chile chipotle, crema agria, queso, aguacate, pollo, pico de gallo y tortilla mexicana.",
+        "price": 19900,
+        "image": "https://images.rappi.com/products/b3b3c11f-16a5-4ff7-8a0a-390af4c5ab0d.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-41",
+        "name": "Sopa de Lentejas Pardinas",
+        "description": "Sopa con champiñones y portobellos, con un ligero toque de especias de la india.",
+        "price": 14800,
+        "image": "https://images.rappi.com/products/d50d3578-258e-457c-9a24-e149ce76ccd2.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-42",
+        "name": "Sopa Covarachia",
+        "description": "Sopa donde el tomate, el maíz y el plátano entran a jugar para resaltar el valor de los sabores de nuestra tierra, con aguacate, crema agria y cilantro.",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/3442c05a-9d7b-4d1f-834b-7b84743db910.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-43",
+        "name": "Sopa del Sol",
+        "description": "Sopa de zapallo con un toque de queso de cabra y pesto, pan pita y cilantro.",
+        "price": 14600,
+        "image": "https://images.rappi.com/products/e4b294fb-3e32-4f3d-a936-78ab33c683d6.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-44",
+        "name": "Sopa Vida en Verdes",
+        "description": "Crema suave de verdes y maicitos tiernos.",
+        "price": 13200,
+        "image": "https://images.rappi.com/products/9b37b5a2-c36d-4a70-9ba8-2b48756d3420.jpeg",
+        "category": "SOPAS"
+    },
+    {
+        "id": "product-45",
+        "name": "Pollo, Queso y Champiñones",
+        "description": "Crepe de pollo + queso + champiñón = delicia de siempre.",
+        "price": 29900,
+        "image": "https://images.rappi.com/products/90bc4312-7c0b-467c-9136-f8c39be3ecb2.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-46",
+        "name": "Pollo al Curry",
+        "description": "Crepe de pollo en nuestra salsa curry.",
+        "price": 29900,
+        "image": "https://images.rappi.com/products/4887bd7c-360b-4dad-afd2-c32aeb12704b.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-47",
+        "name": "Pollo Trufa Mexicano",
+        "description": "Crepe con mezcla de sabores mexicanos, con huitlacoche, aguacate y salsa de queso.",
+        "price": 32500,
+        "image": "https://images.rappi.com/products/6c85794f-61a1-49b3-8e46-8a32d3a7722c.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-48",
+        "name": "Pollo, Brócoli y Queso",
+        "description": "Crepe de pollo + brócoli + queso = sencillamente delicioso.",
+        "price": 32600,
+        "image": "https://images.rappi.com/products/262e5a67-5ee4-476f-8422-545559e4aae9.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-49",
+        "name": "Pollo Mexicano",
+        "description": "Pollo en salsa mexicana y chipotle, queso rallado, lechuga, crema agria, ají y pico de gallo. (Ligeramente picante)",
+        "price": 31300,
+        "image": "https://images.rappi.com/products/8341d20d-026d-42bf-a97f-b861a1ce989c.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-50",
+        "name": "Pollo Thai",
+        "description": "Crepe de pechuga de pollo y champiñones portobello, con una mezcla de sabores orientales a base de curry y maracuyá.",
+        "price": 32400,
+        "image": "https://images.rappi.com/products/5c74b941-8754-4da7-af56-f33fdb3d2cea.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-51",
+        "name": "Pollo Rosarito",
+        "description": "Crepe de pollo en salsa mexicana, con chipotle, arcos de aguacate y frijolitos cuarentanos.",
+        "price": 30800,
+        "image": "https://images.rappi.com/products/6ee53d0e-f64a-46f9-adda-c53fd1626ccc.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-52",
+        "name": "Pollo Hindú",
+        "description": "Crepe de pollo al curry al estilo hindú, con maní, uvas pasas y chutney de mango.",
+        "price": 30600,
+        "image": "https://images.rappi.com/products/92d0029a-f848-4c39-9777-f6567225e9c3.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-53",
+        "name": "Pollo y Queso",
+        "description": "Crepe clásico de pollo en salsa y queso.",
+        "price": 26900,
+        "image": "https://images.rappi.com/products/0179e02b-2c57-4782-8372-5adb0e425abb.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-54",
+        "name": "Pollo y Champiñones",
+        "description": "Crepe de pollo + champiñones = delicia de siempre.",
+        "price": 29900,
+        "image": "https://images.rappi.com/products/90bc4312-7c0b-467c-9136-f8c39be3ecb2.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-55",
+        "name": "Pollo Peruano",
+        "description": "Típica preparación del ají de gallina limeño, salsa de aceitunas y aceitunas moradas, rúgula y huevo. (Ligeramente picante).",
+        "price": 30900,
+        "image": "https://images.rappi.com/products/58da3e41-23ae-46c6-bbbd-1f54f055c67d.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-56",
+        "name": "Crepe de Pollo al Ají Panka",
+        "description": "Crepe de pollo con todos los sabores del Perú. Con pure de frijol al cilantro, aguacate, rúgula, filamentos de pimenton y cebolla roja. (Ligeramente picante).",
+        "price": 31900,
+        "image": "https://images.rappi.com/products/b2c71981-860b-47a7-ad49-23c37c91dc23.jpeg",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-57",
+        "name": "Pollo, Alchachofa y Queso",
+        "description": "Crepe Pollo, Alchachofa y Salsa de Queso",
+        "price": 33500,
+        "image": "https://images.rappi.com/products/4d2f1b90-2e86-4ead-9db9-6c384e66bb98.png",
+        "category": "CREPES DE POLLO"
+    },
+    {
+        "id": "product-58",
+        "name": "Boloñesa y Queso",
+        "description": "Crepe de boloñesa + queso = la forma más fácil de recordarnos.",
+        "price": 22300,
+        "image": "https://images.rappi.com/products/c2d0a745-ec9b-4dce-883f-a047b9abd2fe.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-59",
+        "name": "Boloñesa, Queso y Champiñones",
+        "description": "Crepe de boloñesa + queso + champiñón = buena mezcla",
+        "price": 24900,
+        "image": "https://images.rappi.com/products/05819bfb-a36f-4f51-9631-b10422ec526f.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-60",
+        "name": "Boloñesa, Jamón y Queso",
+        "description": "Crepe de boloñesa + jamón + queso = infalible",
+        "price": 25900,
+        "image": "https://images.rappi.com/products/be22b43c-d6e6-43d2-8eaa-887167a2310b.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-61",
+        "name": "Stroganoff",
+        "description": "Crepe con julianas de lomo y champiñones en su salsa.",
+        "price": 35900,
+        "image": "https://images.rappi.com/products/38474328-8847-4122-8fcb-fba323322f6f.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-62",
+        "name": "CR Ternera",
+        "description": "Crepe con ternera en salsa.",
+        "price": 30200,
+        "image": "https://images.rappi.com/products/92855882-62d5-484f-a43a-52b0237efba7.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-63",
+        "name": "Ternera y Champiñones",
+        "description": "Crepe de ternera + champiñones = para los que el pasado es presente.",
+        "price": 30800,
+        "image": "https://images.rappi.com/products/b0858510-6ac5-494c-ba5e-45d308540510.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-64",
+        "name": "Mexicano",
+        "description": "Boloñesa, queso rallado, lechuga, salsa mexicana, crema agria, ají y pico de gallo.",
+        "price": 27900,
+        "image": "https://images.rappi.com/products/8341d20d-026d-42bf-a97f-b861a1ce989c.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-65",
+        "name": "Lomo Árabe",
+        "description": "Crepe de lomo con especias del Medio Oriente y ensalada a su mejor estilo.",
+        "price": 40600,
+        "image": "https://images.rappi.com/products/f63271a2-cd92-4284-89c0-242afa48eca0.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-66",
+        "name": "Sombrero Vueltiao",
+        "description": "Crepe de carne desmechada, preparada con hogao sobre puré de plátano maduro, crema agria, aguacate y pico de gallo.",
+        "price": 29900,
+        "image": "https://images.rappi.com/products/5a07f67f-8cf0-4f73-91be-31bf0ca382fe.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-67",
+        "name": "Roastbeef",
+        "description": "Tajadas de roastbeef y queso, cebollas asadas, rúgula, mayonesa chipotle y chucrut de cebollas, armando una fantasía de sabor. (Ligeramente picante).",
+        "price": 34600,
+        "image": "https://images.rappi.com/products/bb455984-f462-40c9-97e4-fb88c1f7bcf7.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-68",
+        "name": "Cochinita Pibil",
+        "description": "Preparación mexicana de cerdo desmechado, acompañado de tonos cítricos y un toque de aguacate, pico de gallo, cebolla encurtida y crema agria.",
+        "price": 28500,
+        "image": "https://images.rappi.com/products/f658f78d-90ec-4088-b99d-02ca36224a3a.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-69",
+        "name": "Lomito Pimienta",
+        "description": "Crepe con julianas de lomo en salsa a la pimienta.",
+        "price": 36900,
+        "image": "https://images.rappi.com/products/c5dcfc42-952c-440c-abf7-e8e4728fcb12.jpeg",
+        "category": "CREPES DE CARNE"
+    },
+    {
+        "id": "product-70",
+        "name": "Crepe de jamón y queso",
+        "description": "Crepe de jamón + queso = lo primero que probaste.",
+        "price": 19600,
+        "image": "https://images.rappi.com/products/4f9e46ec-3b6f-4ed4-967a-2fa90794ce45.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-71",
+        "name": "Jamón, Queso y Champiñones",
+        "description": "Crepe de jamón + queso + champiñón = una delicia sin tiempo.",
+        "price": 23600,
+        "image": "https://images.rappi.com/products/efda5985-1cac-410d-81d9-57a6333e9f10.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-72",
+        "name": "Pavo Queso Holandés y Salsa Dijonnaise",
+        "description": "Crepe de pechuga de pavo + queso + dijonaisse = buen recuerdo.",
+        "price": 30900,
+        "image": "https://images.rappi.com/products/dba976f9-cad0-4c18-bd08-4420eabfd757.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-73",
+        "name": "Sensación Colombia",
+        "description": "Crepe con carne desmechada, queso, huevo, crema agria y nuestro tradicional hogao.",
+        "price": 27900,
+        "image": "https://images.rappi.com/products/d5cc608a-1234-4e87-ba90-e4412ce4fb39.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-74",
+        "name": "Sensación",
+        "description": "Jamón ahumado, queso tipo holandés y huevo. Pídalo también con cebolla y tomate.",
+        "price": 24900,
+        "image": "https://images.rappi.com/products/9641c583-0279-481d-ad68-f1e622abd81f.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-75",
+        "name": "French Connection",
+        "description": "Crepe con jamón ahumado, queso ricotta y syrup.",
+        "price": 21400,
+        "image": "https://images.rappi.com/products/d07ba291-867a-44e1-91a9-14503c62ccf5.jpeg",
+        "category": "CREPES CLÁSICOS"
+    },
+    {
+        "id": "product-76",
+        "name": "Calamares en Salsa de la Casa",
+        "description": "Crepe de calamares en nuestra salsa de la casa.",
+        "price": 34500,
+        "image": "https://images.rappi.com/products/9df45ffa-3129-4463-acfc-194d13bffcea.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-77",
+        "name": "Calamares en Salsa Curry",
+        "description": "Crepe de calamares en nuestra salsa curry.",
+        "price": 34500,
+        "image": "https://images.rappi.com/products/b84733d3-2170-475e-8a5e-52c5d63d7d58.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-78",
+        "name": "Camarones en Salsa de la Casa",
+        "description": "Crepe de camarones en nuestra salsa de la casa.",
+        "price": 39900,
+        "image": "https://images.rappi.com/products/e6152e91-c92f-47ac-9fb0-92bc261919b1.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-79",
+        "name": "Camarones al Ajillo",
+        "description": "Crepe de camarones en nuestra salsa al ajillo.",
+        "price": 39900,
+        "image": "https://images.rappi.com/products/05f5432c-6946-4109-80b5-86ba97268e83.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-80",
+        "name": "Camarones en Salsa Curry",
+        "description": "Crepe de camarones en nuestra salsa curry.",
+        "price": 39900,
+        "image": "https://images.rappi.com/products/8e41371a-e0c9-4636-924a-fa976c35289b.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-81",
+        "name": "Camarones Rosarito",
+        "description": "Camarones en salsa mexicana con chipotle, arcos de aguacate, frijolitos cuarentanos.",
+        "price": 40800,
+        "image": "https://images.rappi.com/products/675f3726-5888-46d8-b2d2-0b141ad1f041.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-82",
+        "name": "Palmitos de Cangrejo en Salsa de la casa",
+        "description": "Crepe de palmitos de cangrejo en nuestra salsa de la casa.",
+        "price": 31300,
+        "image": "https://images.rappi.com/products/582cf31b-fb33-4647-84b3-d8c11acc248e.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-83",
+        "name": "Palmitos de Cangrejo en Salsa Curry",
+        "description": "Crepe de palmitos de cangrejo en nuestra salsa curry.",
+        "price": 31300,
+        "image": "https://images.rappi.com/products/0e724ea0-4605-47c7-a9c1-74f95036aea5.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-84",
+        "name": "Salmón Roll",
+        "description": "Rollitos de salmón ahumado con rúgula, queso crema, mostaza, cebolla, aguacate y crujientes vegetales frescos. Acompañados de ensalada verde.",
+        "price": 41500,
+        "image": "https://images.rappi.com/products/1f2376ca-0b86-416f-9884-db11f7018f90.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-85",
+        "name": "Crepe Mar Encocado",
+        "description": "Pulpo, camarones, calamares y langostinos sobre quinua negra, bañados en salsa de coco y toques de coco crujiente.",
+        "price": 40900,
+        "image": "https://images.rappi.com/products/de5cb144-f9cc-4b66-9403-dc4e1a82e089.jpeg",
+        "category": "CREPES DE FRUTOS DEL MAR"
+    },
+    {
+        "id": "product-86",
+        "name": "Poblana",
+        "description": "Variedad de quesos, aguacate, pico de gallo, salsa agria, lechuga y un delicioso toque mexicano de ají.",
+        "price": 24900,
+        "image": "https://images.rappi.com/products/6cdb1bda-8b78-4cf9-8dab-1a769d76944a.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-87",
+        "name": "Normanda",
+        "description": "Champiñones frescos, variedad de quesos y salsa de champiñones.",
+        "price": 25900,
+        "image": "https://images.rappi.com/products/64f6e206-079f-4e35-9a86-fe822aaecd5a.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-88",
+        "name": "Toscana",
+        "description": "Queso, tomate, albahaca, champiñones frescos, salsa de champiñones y napolitana.",
+        "price": 24900,
+        "image": "https://images.rappi.com/products/fdaf6365-3bbb-41a8-ab5a-b6a243ab020c.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-89",
+        "name": "Caprino",
+        "description": "Champiñones salteados, tomates secos, tomates frescos, pesto, reducción de balsámico y mozzarella de búfala.",
+        "price": 28900,
+        "image": "https://images.rappi.com/products/7d7bef4b-6d5c-49e3-80dd-d1f9013d4701.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-90",
+        "name": "Champiñones al Ajillo",
+        "description": "Crepe de champiñones en salsa ajillo con queso.",
+        "price": 21900,
+        "image": "https://images.rappi.com/products/7c5816c9-2450-4e92-8895-8585d1e6a2ad.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-91",
+        "name": "Sicilia",
+        "description": "Crepe con mozzarella de búfala, tomates frescos, tomates secos y albahaca.",
+        "price": 24300,
+        "image": "https://images.rappi.com/products/eddd3e97-e9b8-402e-ae26-b7b3058b3f47.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-92",
+        "name": "Champiñones, Alcachofa y Queso",
+        "description": "Crepe con champiñones, alcachofa y queso.",
+        "price": 26900,
+        "image": "https://images.rappi.com/products/4895c4e9-39bd-4a0c-9236-d2a64e9eed6d.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-93",
+        "name": "Romana",
+        "description": "Crepe con mozzarella de búfala, salsa napolitana con albahaca y queso parmesano.",
+        "price": 21900,
+        "image": "https://images.rappi.com/products/63d95b35-354c-4acb-82e8-781d0e46c3a3.jpeg",
+        "category": "CREPES VEGETARIANOS"
+    },
+    {
+        "id": "product-94",
+        "name": "Ensalada Mediterránea",
+        "description": "Ensalada con camarones y calamares, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+        "price": 41800,
+        "image": "https://images.rappi.com/products/c97510c5-f1ce-4e8d-a4c0-144d69a04c47.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-95",
+        "name": "Ensalada Florentina",
+        "description": "Mozzarella de búfala, variedad de lechugas orgánicas, albahaca fresca, tomates secos, frescos y cherry, champiñones, pesto, aguacate, aceitunas negras, vinagre balsámico y aceite de oliva.",
+        "price": 35500,
+        "image": "https://images.rappi.com/products/c5ef6d00-5053-458f-b09d-59e5595459c5.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-96",
+        "name": "Ensalada Thai",
+        "description": "Pechuga de pavo con ajonjolí y albahaca, variedad de lechugas orgánicas, rúgula, apio, champiñones, pimentón, tomate cherry, cebollas crocantes y una vinagreta oriental.",
+        "price": 36200,
+        "image": "https://images.rappi.com/products/db5cc992-f588-48b9-bc86-aac1cfa390a6.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-97",
+        "name": "Ensalada Marroquí con Camarón",
+        "description": "Couscous preparado con especias, aguacate, chutney de mango, quinua tostada y ensalada verde con vinagreta marroquí.",
+        "price": 41900,
+        "image": "https://images.rappi.com/products/f324df2e-2b6a-4871-a228-f8fd100897c1.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-98",
+        "name": "Ensalada César con pollo",
+        "description": "Clásica Ensalada César, crutones, tomates cherry, queso parmesano. Acompañada con pan de centeno.",
+        "price": 29500,
+        "image": "https://images.rappi.com/products/15e8c42f-3805-4984-b8d9-a0bfb2e2c542.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-99",
+        "name": "Ensalada César",
+        "description": "Ensalada César con lechuga, salsa césar, crutones y queso parmesano.",
+        "price": 17600,
+        "image": "https://images.rappi.com/products/b99d8b20-ee33-44af-a204-26968c55a342.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-100",
+        "name": "Ensalada de la barra",
+        "description": "Ensalada: Arma tu ensalada y disfruta.",
+        "price": 18400,
+        "image": "https://images.rappi.com/products/ca7ec829-1c01-4ed3-9adb-3694c269311d.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-101",
+        "name": "Ensalada Valparaiso",
+        "description": "Filete de salmón ahumado con merkén, acompañado de quinua negra, kale con queso parmesano y grana padano, picadillo de tomate, aguacate y vinagreta árabe.",
+        "price": 42800,
+        "image": "https://images.rappi.com/products/36b9d1f7-42c7-44cb-a2b9-29051e5b7484.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-102",
+        "name": "Tuna Salad",
+        "description": "Atún ventresca, variedad de lechugas orgánicas, rúgula, pepino, albahaca, champiñones, apio, aguacate, tomate cherry, aceitunas negras, vinagreta de finas hierbas y aceite de oliva. Acompañado con pan árabe",
+        "price": 40900,
+        "image": "https://images.rappi.com/products/7abe0626-7c83-4060-9113-433696e0a96c.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-103",
+        "name": "Ensalada Mediterránea Calamares",
+        "description": "Ensalada con calamares, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+        "price": 41800,
+        "image": "https://images.rappi.com/products/e65efb7f-9f06-449d-bfd5-676be3335a60.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-104",
+        "name": "Ensalada Mediterránea Camarones",
+        "description": "Ensalada con camarones, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+        "price": 41800,
+        "image": "https://images.rappi.com/products/d1bc7a20-737d-453e-b984-9dccb79676cc.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-105",
+        "name": "Ensalada Torina",
+        "description": "Mozzarella de búfala envuelta en jamón serrano con cebollas caramelizadas y pimienta torina, variedad de lechugas, rúgula, tomate cherry y vinagreta a base de mostaza Dijón. Acompañado con pan de centeno.",
+        "price": 38500,
+        "image": "https://images.rappi.com/products/8bf96bf2-1510-4571-8f7a-e6a2a39d1b5f.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-106",
+        "name": "Ensalada de Pollo Marroquí",
+        "description": "Couscous preparado con especias, aguacate, chutney de mango, quinua tostada y ensalada verde con vinagreta marroquí.",
+        "price": 29200,
+        "image": "https://images.rappi.com/products/5e2cf8ce-da90-4b51-a9c0-9e5c681cd287.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-107",
+        "name": "Ensalada Portofino",
+        "description": "Queso feta, tomates secos, lechugas,rúgula, albahaca,aceitunas negras,tomate fresco y cherry,champiñones, cebolla roja,pesto y vinagreta finas hierbas.",
+        "price": 39900,
+        "image": "https://images.rappi.com/products/888ed7a8-4404-4b41-bfa8-632902276c65.jpeg",
+        "category": "ENSALADAS"
+    },
+    {
+        "id": "product-108",
+        "name": "Panne Cook Pollo al Curry",
+        "description": "Panne Cook de pan artesanal con pollo en salsa al curry.",
+        "price": 34900,
+        "image": "https://images.rappi.com/products/d5e0e166-22aa-4136-b8c9-695b05a7b033.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-109",
+        "name": "Panne Cook Pollo",
+        "description": "Panne Cook de pan artesanal con nuestra tradicional salsa de pollo.",
+        "price": 27900,
+        "image": "https://images.rappi.com/products/64f44440-25b8-444a-9c3e-cd76e3c3544a.png",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-110",
+        "name": "Panne Cook Pollo, Queso y Champiñones",
+        "description": "Panne Cook de pan artesanal con pollo, salsa de champiñones y queso.",
+        "price": 34900,
+        "image": "https://images.rappi.com/products/344ea74d-55f1-4053-9ab7-767945e14893.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-111",
+        "name": "Panne Cook Camarones en Salsa de la Casa",
+        "description": "Panne Cook de pan artesanal con camarones en salsa casa.",
+        "price": 44900,
+        "image": "https://images.rappi.com/products/bf44de49-2edc-4667-ae71-d4959605418d.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-112",
+        "name": "Panne Cook Calamares en Salsa de la Casa",
+        "description": "Panne Cook de pan artesanal con calamares en salsa de la casa.",
+        "price": 39700,
+        "image": "https://images.rappi.com/products/2f240572-d54b-4913-b8e2-41cb9ca0f771.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-113",
+        "name": "Panne Cook Calamares en salsa Curry",
+        "description": "Panne Cook de pan artesanal con calamares en salsa al curry.",
+        "price": 39700,
+        "image": "https://images.rappi.com/products/2f240572-d54b-4913-b8e2-41cb9ca0f771.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-114",
+        "name": "Panne Cook Palmitos en Salsa Casa",
+        "description": "Panne Cook de pan artesanal con palmitos de cangrejo en salsa de la ca",
+        "price": 34900,
+        "image": "https://images.rappi.com/products/d60d4492-e825-46cf-8cd3-3be8e12ca4ec.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-115",
+        "name": "Panne cook Palmitos en salsa Curry",
+        "description": "Panne Cook de pan artesanal con palmitos de cangrejo en salsa al curry.",
+        "price": 34900,
+        "image": "https://images.rappi.com/products/9d81c2fe-e7e9-4c24-ac65-b2d84a4eeaed.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-116",
+        "name": "Panne Cook Ternera",
+        "description": "Panne Cook de pan artesanal con salsa de ternera.",
+        "price": 34200,
+        "image": "https://images.rappi.com/products/cabb6e16-9bb9-4cb2-be18-e7618578ad97.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-117",
+        "name": "Panne Cook Ternera y Champiñones",
+        "description": "Panne Cook de pan artesanal con salsa de ternera y salsa de champiñones.",
+        "price": 34600,
+        "image": "https://images.rappi.com/products/111e2f59-1454-4f09-8376-6a177fcea2f8.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-118",
+        "name": "Panne Cook Stroganoff",
+        "description": "Panne Cook de pan artesanal con nuestra tradicional salsa stroganoff.",
+        "price": 43900,
+        "image": "https://images.rappi.com/products/9ba80e38-14b9-4df9-9b43-6f1c0389f631.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-119",
+        "name": "Panne Cook Camarones al Ajillo",
+        "description": "Panne Cook de pan artesanal con camarones en salsa al ajillo.",
+        "price": 44900,
+        "image": "https://images.rappi.com/products/a6bd2d5c-dd14-4b08-b577-f12b7267d936.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-120",
+        "name": "Panne Cook Pollo, Alchachofa Queso",
+        "description": "Panne Cook Pollo, Alchachofa Queso",
+        "price": 37200,
+        "image": "https://images.rappi.com/products/64f44440-25b8-444a-9c3e-cd76e3c3544a.png",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-121",
+        "name": "Panne Cook Pollo Brocoli Queso",
+        "description": "Panne Cook Pollo Brocoli Queso",
+        "price": 36900,
+        "image": "https://images.rappi.com/products/2468b88e-3484-46a3-8083-ec1d3e03f896.png",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-122",
+        "name": "Panne Cook Boloñesa Queso",
+        "description": "Panne Cook Boloñesa Queso",
+        "price": 27800,
+        "image": "https://images.rappi.com/products/13a0ac60-26aa-4f95-b292-9e62a68bb868.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-123",
+        "name": "Panne Cook Camarones en salsa Curry",
+        "description": "Panne Cook de pan artesanal con camarones en salsa al curry.",
+        "price": 44900,
+        "image": "https://images.rappi.com/products/fe65459d-5dab-47df-861c-45e74cef269c.jpeg",
+        "category": "PANNE COOK"
+    },
+    {
+        "id": "product-124",
+        "name": "Pita de Pavo",
+        "description": "Pan árabe relleno de pechuga de pavo, variedad de quesos y salsa dijonnaise.",
+        "price": 30800,
+        "image": "https://images.rappi.com/products/da819c21-ea06-48d0-9191-baffc1436e51.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-125",
+        "name": "Pita Mozzarella Pocket",
+        "description": "Queso, salsa napolitana y albahaca.",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/0b47535c-30fc-436f-b856-a9da78fc61cb.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-126",
+        "name": "Pita Siciliana",
+        "description": "Queso, salsa napolitana, tomates frescos, tomates secos, albahaca y aceite de oliva.",
+        "price": 26900,
+        "image": "https://images.rappi.com/products/30eb9093-1182-4604-9ea6-4e82aa49e15b.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-127",
+        "name": "Pita Doble Pocket",
+        "description": "Pan árabe relleno de jamón ahumado y variedad de quesos.",
+        "price": 24200,
+        "image": "https://images.rappi.com/products/b6143c3c-587e-4f57-b077-e1c5948d9f2f.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-128",
+        "name": "Pita Capresa",
+        "description": "Pita con pan árabe relleno de mozzarella de búfala, tomate fresco, tomate seco, rúgula y pesto.",
+        "price": 26900,
+        "image": "https://images.rappi.com/products/ab159a13-5992-4efd-babc-74af8657a0a3.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-129",
+        "name": "Pita Griega",
+        "description": "Queso, salsa napolitana, alcachofas, aceitunas moradas, cebolla, tomate y especia",
+        "price": 26900,
+        "image": "https://images.rappi.com/products/5da60616-53f7-4d1a-896c-d42e271d2aaf.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-130",
+        "name": "Pita Popeye Pocket",
+        "description": "Pan árabe relleno de espinaca, jamón, cebolla, huevo, champiñones y tomate, gratinado con queso, acompañado con salsa amarilla y vinagreta verde.",
+        "price": 22900,
+        "image": "https://images.rappi.com/products/e1e6fbbd-b8c8-4af9-b01f-5ab9eb1a294e.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-131",
+        "name": "Pita Vegetariana",
+        "description": "Queso, salsa napolitana, champiñones, cebolla, tomate, pimentón y apio",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/e3ce4a44-7686-4873-bfc1-58913a692770.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-132",
+        "name": "Pita de Pollo Árabe",
+        "description": "Pechuga de pollo al horno, lechuga, tahine, trocitos de aceitunas y cebollas encurtidas",
+        "price": 27900,
+        "image": "https://images.rappi.com/products/470adff3-3552-46cb-9a4d-50705f3f09cb.jpeg",
+        "category": "PITAS"
+    },
+    {
+        "id": "product-133",
+        "name": "Waffle sencillo con helado",
+        "description": "Waffle. Pídelo con una de nuestras salsas: arequipe, chocolate, melocotón, salsa inglesa, caramelo o jalea de guayaba.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/cb38a02c-94ba-44c5-b745-1c7631ca8dd7.png",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-134",
+        "name": "Sencillo con Crema Chantilly",
+        "description": "Waffle. Pídelo con una de nuestras salsas: arequipe, chocolate, melocotón, salsa inglesa, caramelo o jalea de guayaba.",
+        "price": 13900,
+        "image": "https://images.rappi.com/products/18cdb0c3-5564-48c4-bf5c-c52bf105bdd7.png",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-135",
+        "name": "Waffle Especial",
+        "description": "Waffle con helado y crema chantilly. Escoja hasta cuatro salsas de dulce.",
+        "price": 17900,
+        "image": "https://images.rappi.com/products/4bfb1695-7aa8-4ec2-a447-dff5868b1990.png",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-136",
+        "name": "Waffle de Frutos del Bosque",
+        "description": "Waffle con frutos rojos, helado de Vainilla y crema chantilly.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/16ea59d0-cdc5-4717-833b-6a759b528cc7.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-137",
+        "name": "Waffle Mantequilla Syrup",
+        "description": "Waffle con mantequilla y syrup.",
+        "price": 10200,
+        "image": "https://images.rappi.com/products/bdfcbe38-5c91-42e8-9f36-a0fb743a492b.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-138",
+        "name": "Waffle Arequipe",
+        "description": "Con salsa de arequipe, helado de Vainilla y Arequipe con crema chantill",
+        "price": 14300,
+        "image": "https://images.rappi.com/products/629ff278-0e54-4abd-9df2-1807b26a3f37.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-139",
+        "name": "Waffle Arequipe y Banano",
+        "description": "Tajadas de banano fresco con salsa de arequipe y chocolate, helado de Vainilla y Arequipe con crema chantilly.",
+        "price": 14900,
+        "image": "https://images.rappi.com/products/845d1367-20f9-4957-84c9-da2863e643d3.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-140",
+        "name": "Waffle de Nutella",
+        "description": "Waffle con helado de Vainilla y crema chantilly.",
+        "price": 17600,
+        "image": "https://images.rappi.com/products/1ba56ceb-1536-47e2-8fdd-7c880fdc21c6.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-141",
+        "name": "Waffle de Nutella y Banano",
+        "description": "Nutella y tajadas de banano fresco, helado de Vainilla Old Style y crema chantilly.",
+        "price": 17900,
+        "image": "https://images.rappi.com/products/260286e2-0be6-45c6-99d5-430a20ae132b.png",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-142",
+        "name": "Waffle D'Choclo",
+        "description": "Waffle de maíz, queso mozzarella y 7 cueros con suero costeño.",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/23c03e9f-5fdd-4090-b01d-73148d3da3a2.jpeg",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-143",
+        "name": "Waffle miel",
+        "description": "Waffle con mantequilla y miel de Montes de María.",
+        "price": 10200,
+        "image": "https://images.rappi.com/products/22113bbb-c687-40a6-9572-391e7c0fc1a6.png",
+        "category": "WAFFLES"
+    },
+    {
+        "id": "product-144",
+        "name": "Gofre Especial",
+        "description": "Waffle belga crujiente con helado de Vainilla y crema chantilly",
+        "price": 18700,
+        "image": "https://images.rappi.com/products/c64e8791-7739-43eb-9b58-d3a7851d36b1.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-145",
+        "name": "Gofre Chocolate Blanco",
+        "description": "Gofre: waffle belga crujiente con salsa de chocolate blanco.",
+        "price": 12500,
+        "image": "https://images.rappi.com/products/c9f9b049-15a3-452c-a95a-ad9f7097324d.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-146",
+        "name": "Gofre Mantequilla y Syrup",
+        "description": "Gofre: waffle belga crujiente con mantequilla y syrup.",
+        "price": 9900,
+        "image": "https://images.rappi.com/products/aab3d325-61ff-405b-a886-f54a5d87025e.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-147",
+        "name": "Gofre Frutos del Bosque",
+        "description": "Gofre: waffle belga crujiente con salsa de frutos del bosque.",
+        "price": 14500,
+        "image": "https://images.rappi.com/products/fa0e7c2e-6598-4f6a-878f-7d84367026bc.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-148",
+        "name": "Gofre Arequipe",
+        "description": "Gofre: waffle belga crujiente con arequipe.",
+        "price": 11800,
+        "image": "https://images.rappi.com/products/94ab44c4-d6e4-4c9c-9d06-2539674b6077.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-149",
+        "name": "Gofre Nutella",
+        "description": "Gofre: waffle belga crujiente con Nutella.",
+        "price": 14900,
+        "image": "https://images.rappi.com/products/3e24d2ab-2c45-42c2-8358-0f5c6310f700.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-150",
+        "name": "Gofre Chocolate",
+        "description": "Gofre: waffle belga crujiente con salsa de chocolate.",
+        "price": 11500,
+        "image": "https://images.rappi.com/products/52a3aaa4-f649-464a-a09d-306cc0d47120.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-151",
+        "name": "Gofre Caramelo",
+        "description": "Waffle belga crujiente con salsa de caramelo.",
+        "price": 8400,
+        "image": "https://images.rappi.com/products/224916eb-9076-40ee-b383-cc2be26a1a91.jpeg",
+        "category": "GOFRES"
+    },
+    {
+        "id": "product-152",
+        "name": "Tentación",
+        "description": "Bizcochuelo bañado con un toque de licor que exalta el sabor del helado de Vainilla, Café y Chocolate. Combina sutilmente con salsa de chocolate, nueces y crema chantilly.",
+        "price": 16900,
+        "image": "https://images.rappi.com/products/28d92291-6fb2-4a4f-ab2e-6813afa3388b.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-153",
+        "name": "Copa Arequipe",
+        "description": "Nuestro delicioso helado de Arequipe, tajaditas de banano, salsa de arequipe, galleta mantequilla y crema chantilly.",
+        "price": 14500,
+        "image": "https://images.rappi.com/products/dea66e3d-a208-43b2-8f0c-ca0e53ea23b7.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-154",
+        "name": "Banana Split",
+        "description": "Clásica combinación de helado de Vainilla, Fresa y Chocolate. Acompañado de crema chantilly, nueces, banano, salsa de chocolate y arequipe.",
+        "price": 17500,
+        "image": "https://images.rappi.com/products/0ecf7375-0cbd-4afb-9eed-50f47c7dc3ca.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-155",
+        "name": "Vainilla Hot Chocolate",
+        "description": "Helado de Vainilla Old Style, almendras tostadas entre crema chantilly y chocolate caliente con el que usted le dará gusto a su gusto.",
+        "price": 14900,
+        "image": "https://images.rappi.com/products/702f440a-a6a2-4e50-be2b-092e05d3c745.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-156",
+        "name": "Suprema",
+        "description": "Helado de Vainilla y tajaditas de banano entre crema chantilly, bañadas con salsa de chocolate y arequipe, mini cono de galleta y nueces.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/f7820221-46c0-4a34-9cc5-d91036862eb4.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-157",
+        "name": "Capricho de Maracuyá",
+        "description": "Helado de Yogurt de Maracuyá con coulis de maracuyá, fresas, melocotones y el crujiente de la galleta de encaje.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/86a1b7a2-e98f-4606-a900-2f6b7a42efd1.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-158",
+        "name": "Filosofía Acaramelada",
+        "description": "Helado de Vainilla y Caramelo, tajadas de banano, crocantes y crujientes macadamias y almendras se unen para darle sentido y sabor a la vida.",
+        "price": 11900,
+        "image": "https://images.rappi.com/products/65b1f328-59cf-4e6c-9ae4-8c89ebca23b2.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-159",
+        "name": "Tiramisú",
+        "description": "Composición italiana de helado de Vainilla Old Style, bizcochuelo bañado con cogñac, entonado con salsas inglesa, chocolate y de caf",
+        "price": 14800,
+        "image": "https://images.rappi.com/products/b626d5cd-fbaa-4629-9f7d-137e97335a8e.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-160",
+        "name": "Tarta de Chocolate y Fudge",
+        "description": "Fusión de helado de Chocolate y Café con fudge de chocolate, salsa inglesa y de chocolate, en una base de almendras tostadas y crocante italiano.",
+        "price": 15400,
+        "image": "https://images.rappi.com/products/a644f88e-800c-4408-9d9d-419e0fa04a58.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-161",
+        "name": "Dulce Encanto",
+        "description": "Bizcochuelo bañado en salsa inglesa y arequipe, con helado Cocado, tartufino de chocolate y crujiente galleta de encaje.",
+        "price": 15400,
+        "image": "https://images.rappi.com/products/2f22d377-a926-412a-bcd7-b59f49082c05.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-162",
+        "name": "Dama Blanca",
+        "description": "Helado de Vainilla y Chocolate acompañado con salsa de chocolate, nueces y crema chantilly.",
+        "price": 11900,
+        "image": "https://images.rappi.com/products/eab70dec-d249-43da-901b-bcd78444d2ee.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-163",
+        "name": "Vesubio",
+        "description": "Clásica combinación italiana de helado de Fresa, Vainilla y Limon, bañado con salsa de uva y crema chantilly",
+        "price": 11900,
+        "image": "https://images.rappi.com/products/f4548c10-e2b1-48bf-b54a-de3cc033e7b3.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-164",
+        "name": "Festival",
+        "description": "Bizcochuelo acompañado de helados de Mora, Fresa, Maracuyá, Limón y Vainilla, con trocitos de banano, fresas frescas, salsa de uva y crema chantilly.",
+        "price": 22300,
+        "image": "https://images.rappi.com/products/2a39741f-2f4c-4ddf-9da0-0ee862cde6e8.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-165",
+        "name": "Copa Melocotón",
+        "description": "Helado de Vainilla y Yogurt de Maracuyá con melocotones tajados, coulis de maracuyá, crema chantilly y crujiente galleta de encaje.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/76ea2b5d-ef65-4c16-b4e6-b53aff9ae000.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-166",
+        "name": "Capri",
+        "description": "Helado de Vainilla sobre una galleta crujiente entre las salsas de arequipe y frambuesa con crema chantilly.",
+        "price": 12100,
+        "image": "https://images.rappi.com/products/478d9a6f-0915-4d58-8542-6f05cdb6d2b6.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-167",
+        "name": "Merengue Glazé",
+        "description": "Merengue y helado de Vainilla, juegan con la salsa de chocolate caliente, nueces y crema chantilly para proporcionar solo placer.",
+        "price": 16200,
+        "image": "https://images.rappi.com/products/8aa84a6d-d030-4327-9f93-e8d252ad069d.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-168",
+        "name": "Copa Brownie",
+        "description": "Helado de Brownie con salsa de caramelo y chocolate",
+        "price": 12900,
+        "image": "https://images.rappi.com/products/682a7cd4-588d-445d-a150-6248684f6f93.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-169",
+        "name": "Banana Royal",
+        "description": "Helado de Vainilla y Chocolate, con fresa, banano, salsa de chocolate, crujiente galleta de encaje y crema chantilly.",
+        "price": 14200,
+        "image": "https://images.rappi.com/products/b6bdb813-bc68-4b28-9c22-ba1a74349664.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-170",
+        "name": "Helado Artesano 800 ml Vegano",
+        "description": "Helados hechos con leche de almendras y leche de coco.",
+        "price": 42900,
+        "image": "https://images.rappi.com/products/d320fd48-04c2-4d2a-b01c-16141ac558c9.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-171",
+        "name": "Helado Artesano Litro y Medio Vegano",
+        "description": "Helados hechos con leche de almendras y leche de coco.",
+        "price": 54900,
+        "image": "https://images.rappi.com/products/b1750864-a4db-4bb4-85f2-dfaa55ce169d.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-172",
+        "name": "Vaso 1 sabor vegano",
+        "description": "Helado: elige tu sabor.",
+        "price": 9300,
+        "image": "https://images.rappi.com/products/ebc5a4de-993a-4be1-8fbc-ae587f06e4e1.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-173",
+        "name": "Vaso 2 sabores veganos",
+        "description": "Helado: elige dos sabores.",
+        "price": 11400,
+        "image": "https://images.rappi.com/products/f0d4dd89-239d-4f70-bad3-e48c0dc3e4fe.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-174",
+        "name": "Copa Limeña",
+        "description": "Helado de Vainilla con salsa de arequipe, frutos del bosque, merengue, copos de guanábana y crema chantilly.",
+        "price": 16400,
+        "image": "https://images.rappi.com/products/04b0c2d2-29d5-4295-b245-36d7914df8fa.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-175",
+        "name": "Helado Arte-Sano 800 ml",
+        "description": "Helado: elige hasta dos sabores.",
+        "price": 32900,
+        "image": "https://images.rappi.com/products/d46c8e6f-014d-4598-92c9-42acb2c59566.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-176",
+        "name": "Helado Arte-Sano 1,5lt",
+        "description": "Helado: elige hasta dos sabores.",
+        "price": 44900,
+        "image": "https://images.rappi.com/products/e6de4e66-b267-4f13-9c77-ceec5737f6b9.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-177",
+        "name": "Vaso de Un Sabor de Helado",
+        "description": "Helado: elige tu sabor.",
+        "price": 7500,
+        "image": "https://images.rappi.com/products/ebc5a4de-993a-4be1-8fbc-ae587f06e4e1.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-178",
+        "name": "Vaso de Dos Sabores de Helado",
+        "description": "Helado: elige dos sabores..",
+        "price": 9900,
+        "image": "https://images.rappi.com/products/f0d4dd89-239d-4f70-bad3-e48c0dc3e4fe.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-179",
+        "name": "Malteadas",
+        "description": "Malteada: elige tu sabor.",
+        "price": 15500,
+        "image": "https://images.rappi.com/products/bb34d008-16cb-4329-9b94-5e52139e0f85.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-180",
+        "name": "Vaso de Tres Sabores de Helado",
+        "description": "Elige tres sabores.",
+        "price": 12800,
+        "image": "https://images.rappi.com/products/3a29bf78-417e-4059-b38b-a3849a8e1c6c.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-181",
+        "name": "Conos x 10 unidades",
+        "description": "Conos de galleta.",
+        "price": 9800,
+        "image": "https://images.rappi.com/products/798d383a-7ef7-42eb-904d-26d01cd07322.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-182",
+        "name": "Conos x 4 unidades",
+        "description": "Conos de galleta.",
+        "price": 7900,
+        "image": "https://images.rappi.com/products/f29c9849-b102-48cd-9f5a-5438ede92576.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-183",
+        "name": "KIT Hel-ado Dulce Pequeño",
+        "description": "KIT Hel-ado Dulce Pequeño",
+        "price": 46100,
+        "image": "https://images.rappi.com/products/f6c33226-3e92-49fc-be65-1085554501d4.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-184",
+        "name": "KIT Hel-ado Dulce Grande",
+        "description": "Disfruta tu helado favorito y diviértete con las salsas y las diferentes combinaciones. El kit contiene un Artesano de 1.5lt hasta dos sabores, galletas de mantequilla, 10 conos de galleta y una salsa.",
+        "price": 68100,
+        "image": "https://images.rappi.com/products/3e1f35e9-ed66-4056-a138-db8c23d2c337.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-185",
+        "name": "Artesano 800ml Chocolate Dubai",
+        "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+        "price": 45900,
+        "image": "https://images.rappi.com/products/406e7321-65ff-45c7-9af3-cf6e81f4bc08.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-186",
+        "name": "Artesano 1.5l Chocolate Dubai",
+        "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+        "price": 57900,
+        "image": "https://images.rappi.com/products/406e7321-65ff-45c7-9af3-cf6e81f4bc08.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-187",
+        "name": "Vaso 1 bola Chocolate Dubai",
+        "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+        "price": 9500,
+        "image": "https://images.rappi.com/products/7b62204f-c53f-4071-b83b-065c5e06d297.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-188",
+        "name": "Vaso 2 bolas Chocolate Dubai",
+        "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+        "price": 11900,
+        "image": "https://images.rappi.com/products/84bdf65f-5350-4ba8-b06a-99b1e5146528.jpeg",
+        "category": "HELADOS"
+    },
+    {
+        "id": "product-189",
+        "name": "Mini Waffle Miel",
+        "description": "Mini Waffles con mantequilla y miel del de Montes de María.",
+        "price": 10200,
+        "image": "https://images.rappi.com/products/baf08f79-cc7a-44f2-8f74-1935c3d11ff6.png",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-190",
+        "name": "Mini Waffle Tradicional",
+        "description": "Mini Waffles con mantequilla y syrup.",
+        "price": 10200,
+        "image": "https://images.rappi.com/products/5c2b3fc6-2381-42a0-a5fb-d75654d194dd.png",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-191",
+        "name": "Mini Waffles Arequipe",
+        "description": "Mini Waffles con helado de vainilla y crema chantilly.",
+        "price": 14300,
+        "image": "https://images.rappi.com/products/2dcb8bb4-65ab-4d0f-85a3-c9d431793236.jpeg",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-192",
+        "name": "Mini Waffles Frutos del Bosque",
+        "description": "Mini Waffles con frutos rojos, helado de Vainilla y crema chantilly.",
+        "price": 15300,
+        "image": "https://images.rappi.com/products/b039789c-0adc-40cb-a2cb-d10402f34e3b.jpeg",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-193",
+        "name": "Mini Waffles Nutella",
+        "description": "Mini Waffles con helado de Vainilla y crema chantilly.",
+        "price": 17600,
+        "image": "https://images.rappi.com/products/7bf7efb8-6393-40ec-8582-d846179aafa2.jpeg",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-194",
+        "name": "Mini Waffle D'Yuca",
+        "description": "Mini Waffles con mantequilla, panela orgánica molida y jalea de guayaba.",
+        "price": 8900,
+        "image": "https://images.rappi.com/products/bdf9530b-f7ab-4751-aac7-fe0658d7b970.jpeg",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-195",
+        "name": "Mini Waffle Chocolate",
+        "description": "Con helado de Vainilla y crema chantilly.",
+        "price": 14300,
+        "image": "https://images.rappi.com/products/2ccf3161-628d-4953-a0cc-193348dacd52.jpeg",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-196",
+        "name": "Mini Waffles D'Yuca Doble",
+        "description": "Dos mini waffles con mantequilla, panela orgánica molida y jalea de guayaba.",
+        "price": 15600,
+        "image": "https://images.rappi.com/products/cf2e6ef3-e9c0-44d6-8dc2-e8f54a279823.png",
+        "category": "MINI WAFFLES"
+    },
+    {
+        "id": "product-197",
+        "name": "Helado Piggy",
+        "description": "Helado Piggy",
+        "price": 9800,
+        "image": "https://images.rappi.com/products/d4d29e30-5322-4375-b02c-83502ba76e46.jpeg",
+        "category": "HELADOS INFANTILES"
+    },
+    {
+        "id": "product-198",
+        "name": "Samy",
+        "description": "Pingüino con helado de Vainilla",
+        "price": 9600,
+        "image": "https://images.rappi.com/products/0bece646-717c-49f1-8bbe-64b1904b91d1.jpeg",
+        "category": "HELADOS INFANTILES"
+    },
+    {
+        "id": "product-199",
+        "name": "Libra - Café en Grano 500gr",
+        "description": "Café excelso 100% colombiano, tostado y empacado diariamente por Crepes & Waffles.",
+        "price": 39800,
+        "image": "https://images.rappi.com/products/67f75063-8970-4c4d-9ea2-bb0a50ec37d9.jpeg",
+        "category": "CAFÉ Y PLACER"
+    },
+    {
+        "id": "product-200",
+        "name": "Libra - Café Molido 500gr",
+        "description": "Café excelso 100% colombiano, tostado y empacado diariamente por Crepes & Waffles.",
+        "price": 39800,
+        "image": "https://images.rappi.com/products/c012f832-f073-4702-acdc-f8b40bd63a95.jpeg",
+        "category": "CAFÉ Y PLACER"
+    },
+    {
+        "id": "product-201",
+        "name": "Vino Tinto - AMORETINTO 750ml",
+        "description": "Vino tinto botella. Cepa: Merlot Origen: Chile.",
+        "price": 102500,
+        "image": "https://images.rappi.com/products/6dabb297-e9c3-486c-acec-1b136b502ada.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-202",
+        "name": "Vino Blanco - AMORETINTO 750ml",
+        "description": "Vino blanco botella. Cepa: Gewurstraminier Origen: Chile.",
+        "price": 102500,
+        "image": "https://images.rappi.com/products/5e8f2957-0411-4e55-b035-3634a10f3927.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-203",
+        "name": "Prosecco 750ml",
+        "description": "Vino prosecco botella. Cepa: Glera Origen: Italia.",
+        "price": 110500,
+        "image": "https://images.rappi.com/products/f66b8f5f-cd50-42e7-90cf-da3fb030b63f.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-204",
+        "name": "Vino Tinto 1/2 botella - AMORETINTO375ml",
+        "description": "Vino tinto media botella. Cepa: Merlot Origen: Chile.",
+        "price": 65500,
+        "image": "https://images.rappi.com/products/96f88f40-8e43-453e-9873-2cd26945d5a1.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-205",
+        "name": "Vino Blanco 1/2 Botella -AMORETINTO375ml",
+        "description": "Vino blanco media botella. Cepa: Gewurstraminier Origen: Chile.",
+        "price": 65500,
+        "image": "https://images.rappi.com/products/49dc4ae9-fb10-41e2-8b24-49c85b07dc0e.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-206",
+        "name": "Prosecco 1/2 Botella 375 ml",
+        "description": "Vino prosecco media botella. Cepa: Glera Origen: Italia.",
+        "price": 80000,
+        "image": "https://images.rappi.com/products/58177ed4-24ec-4177-bdfe-a4ff54d9a679.jpeg",
+        "category": "VINOS"
+    },
+    {
+        "id": "product-207",
+        "name": "Salsa Frutos del Bosque 250ml",
+        "description": "Nuestra clásica mezcla de mora, fresa, frambuesa, agraz y arándanos.",
+        "price": 15800,
+        "image": "https://images.rappi.com/products/1c44600f-ef28-45c6-b98e-c056ba8f8985.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-208",
+        "name": "Masa Waffle 500ml",
+        "description": "Nuestra masa lista para pancakes o waffles.",
+        "price": 13400,
+        "image": "https://images.rappi.com/products/4a90dee8-b1a3-41df-ab18-bd77daf2f5e1.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-209",
+        "name": "Salsa Arequipe 500ml",
+        "description": "Clásico arequipe para crear dulces momentos.",
+        "price": 20000,
+        "image": "https://images.rappi.com/products/fb2c4fac-626f-4dc0-8e6a-e40061148724.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-210",
+        "name": "Pesto 250ml",
+        "description": "Preparación a base de albahaca, aceite de oliva, queso parmesano y nueces.",
+        "price": 24000,
+        "image": "https://images.rappi.com/products/81a466df-d1af-4662-8272-cfb3811510b1.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-211",
+        "name": "Hogao 250ml",
+        "description": "Ponle el sabor a Colombia.",
+        "price": 10900,
+        "image": "https://images.rappi.com/products/bf8c9dcf-b4f7-46cd-a289-3f3140bc7f4e.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-212",
+        "name": "Salsa de la Casa 500ml",
+        "description": "Salsa a base de pimentones asados y tomate.",
+        "price": 30800,
+        "image": "https://images.rappi.com/products/7f22da89-19e6-4aa4-ab6c-ae6ecf94c317.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-213",
+        "name": "Curry 500ml",
+        "description": "India con sus especias nos da todo su sabor. Úsalo con pollo, camarones o vegetales.",
+        "price": 24900,
+        "image": "https://images.rappi.com/products/943200d6-c260-43ec-9c73-27af25a51b65.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-214",
+        "name": "Boloñesa 500ml",
+        "description": "Así sabe Italia, a boloñesa. Úsála con crepes o pasta.. Agrega parmesano.",
+        "price": 25700,
+        "image": "https://images.rappi.com/products/212a25c3-368d-4279-96a4-9b2adc85e8d4.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-215",
+        "name": "Napolitana 500ml",
+        "description": "Tomates preparados con los sabores de Italia.",
+        "price": 17900,
+        "image": "https://images.rappi.com/products/d75420ce-1d72-4f6e-abc6-730ec6f69437.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-216",
+        "name": "Salsa Champiñones 500ml",
+        "description": "Champiñones en su salsa para acompañar lo que más te guste.",
+        "price": 25000,
+        "image": "https://images.rappi.com/products/9db231c7-03d5-4064-a776-599d475cec30.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-217",
+        "name": "Sopa Covarachía 500ml",
+        "description": "Sopa mexicana",
+        "price": 14900,
+        "image": "https://images.rappi.com/products/4ef8aaf6-9649-469a-af78-c52b130ad235.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-218",
+        "name": "Sopa Espinaca 500ml",
+        "description": "Sopa de espinaca.",
+        "price": 14900,
+        "image": "https://images.rappi.com/products/9deb85fe-c54c-4eb2-ab2f-2a557fa061f2.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-219",
+        "name": "Sopa Cebolla 500ml",
+        "description": "Sopa de cebolla.",
+        "price": 16200,
+        "image": "https://images.rappi.com/products/17d4406f-1edb-4afa-bc6b-a4a09924521f.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-220",
+        "name": "Hogao 500ml",
+        "description": "Ponle el sabor a Colombia.",
+        "price": 16900,
+        "image": "https://images.rappi.com/products/43f9814b-2738-4b83-9ad1-541941ea159a.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-221",
+        "name": "Masa de Choclo 500ml",
+        "description": "Nuestra masa lista para pancakes o waffles.",
+        "price": 24800,
+        "image": "https://images.rappi.com/products/f40a9d25-ff78-4860-a618-4217fec42c5a.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-222",
+        "name": "Masa de Yuca",
+        "description": "Nuestra masa lista para pancakes o waffles (Masa congelada).",
+        "price": 26800,
+        "image": "https://images.rappi.com/products/1f594e42-7a43-4c17-bdf5-b048d2610bb2.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-223",
+        "name": "Vinagreta Mostaza 250ml",
+        "description": "Vinagreta donde la mostaza es protagonista. ¡Úsala para acompañar lo que mas te guste! Porciones sugeridas 3.",
+        "price": 23300,
+        "image": "https://images.rappi.com/products/08795f1c-3213-4985-a442-5b02b98431d3.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-224",
+        "name": "Vinagreta Balsámico 250ml",
+        "description": "Perfecta mezcla de vinagre balsámico, aceite de oliva y miel. Porciones sugeridas 3.",
+        "price": 23300,
+        "image": "https://images.rappi.com/products/d0960ae0-9d7e-406e-a01e-410a089e1390.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-225",
+        "name": "Vinagreta Oriental 250ml",
+        "description": "Vinagreta con una mezcla de vinagres, mostaza y un toque agridulce.",
+        "price": 23300,
+        "image": "https://images.rappi.com/products/94062ef8-7cdf-451e-bf4c-200571eee891.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-226",
+        "name": "Lomito Pimienta 500 ml",
+        "description": "Clásico lomo en salsa de pimienta del Putumayo.",
+        "price": 56000,
+        "image": "https://images.rappi.com/products/500d5ff0-3627-4c9f-ab57-41f1a4d724dd.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-227",
+        "name": "Salsa Mexicana 500 ml",
+        "description": "Salsa picante de tomates rojos y chiles chipotles",
+        "price": 17900,
+        "image": "https://images.rappi.com/products/9edae3fa-9c7c-406e-8086-660e827757b5.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-228",
+        "name": "Salsa Parmesana 500 ml",
+        "description": "Salsa a base de queso parmesano, crema de leche y pimienta negra.",
+        "price": 30800,
+        "image": "https://images.rappi.com/products/98d25b36-cf4d-45b5-926b-a8a7429cc81a.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-229",
+        "name": "Stroganoff 500 ml",
+        "description": "Lomo en julianas y champiñones",
+        "price": 49900,
+        "image": "https://images.rappi.com/products/a3ae40f8-577e-4a77-8720-74e94d487c30.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-230",
+        "name": "Pollo 500 ml",
+        "description": "Nuestra clásica salsa de pollo",
+        "price": 38500,
+        "image": "https://images.rappi.com/products/57217d87-87d3-4767-a157-4503064e2dc8.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-231",
+        "name": "Pollo Thai 500 ml",
+        "description": "Pollo en una mezcla de sabores orientales a base de curry y maracuyá.",
+        "price": 38900,
+        "image": "https://images.rappi.com/products/bff62414-d4bb-48db-bf01-ef73571fd589.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-232",
+        "name": "Cochinita Pibil 500 ml",
+        "description": "Cerdo desmechado, marinado en cítricos y achiote. Cocina a fuego lento.",
+        "price": 37900,
+        "image": "https://images.rappi.com/products/8ab8209e-a4b6-4494-8b41-2a7eaf74689f.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-233",
+        "name": "Sopa de Ahuyama 500lt",
+        "description": "Sopa de ahuyama. ¡Caliéntala a fuego lento!",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/76bd3c1a-f5a4-42f7-84b9-760d202709b7.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-234",
+        "name": "Sopa de Lentejas 500ml",
+        "description": "Con champiñones y portobellos, lentejas beluga y un ligero toque de especias de la India.",
+        "price": 19300,
+        "image": "https://images.rappi.com/products/00d48881-7277-4b36-8a17-155c63e3c175.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-235",
+        "name": "Jalea de Guayaba 500ml",
+        "description": "Salsa clásica jalea de guayaba para crear dulces momentos.",
+        "price": 25900,
+        "image": "https://images.rappi.com/products/32ca8eb3-102c-43af-96c5-f85f80a34ebe.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-236",
+        "name": "Jalea de Guayaba 250ml",
+        "description": "Salsa clásica jalea de guayaba para crear dulces momentos.",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/32ca8eb3-102c-43af-96c5-f85f80a34ebe.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-237",
+        "name": "Coulis de Maracuyá 500 ml",
+        "description": "Salsa con extracto de maracuyá. Lo puedes usar en postres o en platos agridulces.",
+        "price": 24000,
+        "image": "https://images.rappi.com/products/0033b782-807d-4ee0-a9a8-71d7ad6bdd99.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-238",
+        "name": "Coulis de Maracuyá 250ml",
+        "description": "Salsa con extracto de maracuyá. Lo puedes usar en postres o en platos agridulces.",
+        "price": 18000,
+        "image": "https://images.rappi.com/products/6de14bce-1dcd-4bd3-8c03-bec381be322e.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-239",
+        "name": "Salsa de la Casa 1lt",
+        "description": "Salsa a base de pimentones asados y tomate",
+        "price": 48000,
+        "image": "https://images.rappi.com/products/04b6dc6d-2226-433f-83e4-41ed2e46b5d4.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-240",
+        "name": "Salsa Curry 1lt",
+        "description": "India con sus especias nos da todo su sabor. Úsalo con pollo, camarones o vegetales.",
+        "price": 40000,
+        "image": "https://images.rappi.com/products/3d498715-c898-4160-8f35-f5d1671c1529.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-241",
+        "name": "Salsa Boloñesa 1lt",
+        "description": "Así sabe Italia, a boloñesa. Úsála con crepes o pasta.. Agrega parmesano.",
+        "price": 40000,
+        "image": "https://images.rappi.com/products/c74b035e-daa5-4473-9f78-5d2b9f041377.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-242",
+        "name": "Salsa Napolitana 1lt",
+        "description": "Tomates preparados con los sabores de Italia",
+        "price": 30000,
+        "image": "https://images.rappi.com/products/511887be-a1f5-4649-82d9-5674b960f17f.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-243",
+        "name": "Sopa Covarachía 1lt",
+        "description": "Sopa mexicana. ¡Caliéntala a fuego lento!",
+        "price": 20500,
+        "image": "https://images.rappi.com/products/4ef8aaf6-9649-469a-af78-c52b130ad235.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-244",
+        "name": "Sopa Espinaca 1lt",
+        "description": "Sopa de espinaca. ¡Caliéntala a fuego lento!",
+        "price": 20500,
+        "image": "https://images.rappi.com/products/deb06a04-de77-4487-a0fd-78e1346e5e24.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-245",
+        "name": "Sopa Cebolla 1lt",
+        "description": "Sopa de cebolla. ¡Caliéntala a fuego lento!",
+        "price": 25000,
+        "image": "https://images.rappi.com/products/ae826299-f4a3-4c58-be88-8067f9140546.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-246",
+        "name": "Salsa Mexicana 1lt",
+        "description": "Salsa picante de tomates rojos y chiles chipotles",
+        "price": 30000,
+        "image": "https://images.rappi.com/products/adc0430c-7518-440f-add6-aa0ba2256057.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-247",
+        "name": "Salsa Parmesana 1lt",
+        "description": "Salsa a base de queso parmesano, crema de leche y pimienta negra.",
+        "price": 52500,
+        "image": "https://images.rappi.com/products/9629d246-e057-43fa-ab1b-cca05d41fc08.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-248",
+        "name": "Sopa de Ahuyama 1lt",
+        "description": "Sopa de ahuyama. ¡Caliéntala a fuego lento!",
+        "price": 18900,
+        "image": "https://images.rappi.com/products/a4653b55-49ba-45b7-bc09-d3ac024322ca.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-249",
+        "name": "Sopa de Lentejas 1lt",
+        "description": "Con champiñones y portobellos, lentejas beluga y un ligero toque de especias de la India.",
+        "price": 32800,
+        "image": "https://images.rappi.com/products/2a110bef-cfcb-4c09-b15e-d893ae25a89c.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-250",
+        "name": "Sopa Vida en Verdes 500ml",
+        "description": "Crema suave de verdes y maicitos tiernos. Caliéntala a fuego lento. Porciones sugeridas: 1.5",
+        "price": 18000,
+        "image": "https://images.rappi.com/products/d967dc34-61ea-45a5-8ecb-2ef63a14c25f.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-251",
+        "name": "Sopa Vida en Verdes 1lt",
+        "description": "Crema suave de verdes y maicitos tiernos. Caliéntala a fuego lento. Porciones sugeridas: 3",
+        "price": 30000,
+        "image": "https://images.rappi.com/products/0c89784e-9c61-471e-9acc-3deea04bc469.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-252",
+        "name": "Sopa Soy Otoño 500ml",
+        "description": "Explosión de vegetales con frijolitos. Caliéntala a fuego lento. Porciones sugeridas: 1.5",
+        "price": 15900,
+        "image": "https://images.rappi.com/products/bdf6f6fc-6aee-443b-a079-2fff0b0e7aab.jpeg",
+        "category": "CREPES EN CASA"
+    },
+    {
+        "id": "product-253",
+        "name": "Sopa Soy Otoño 1lt",
+        "description": "Explosión de vegetales con frijolitos. Caliéntala a fuego lento. Porciones sugeridas: 3",
+        "price": 26200,
+        "image": "https://images.rappi.com/products/e4bf07eb-19fb-4c33-84c5-572897c487d8.jpeg",
+        "category": "CREPES EN CASA"
+    }
+]

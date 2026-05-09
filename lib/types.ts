@@ -1,4 +1,4 @@
-import rawProducts from './productos.json'
+import rawProducts from './definitivosProductos.json'
 
 export interface MenuItem {
   id: string
@@ -10,6 +10,12 @@ export interface MenuItem {
 }
 
 interface RawProduct {
+  id?: string
+  name?: string
+  description?: string
+  price?: number
+  image?: string
+  category?: string
   nombre?: string
   precio?: number
   descripcion?: string
@@ -98,15 +104,15 @@ function buildMenuData(products: RawProduct[]): MenuCategory[] {
     }
 
     const category = categories.get(categoryId)!
-    const name = product.nombre?.trim() || `Producto ${index + 1}`
-    const price = typeof product.precio === 'number' ? product.precio : 0
+    const name = product.name?.trim() || product.nombre?.trim() || `Producto ${index + 1}`
+    const price = typeof product.price === 'number' ? product.price : typeof product.precio === 'number' ? product.precio : 0
 
     category.items.push({
-      id: `product-${index + 1}`,
+      id: product.id?.trim() || `product-${index + 1}`,
       name,
-      description: product.descripcion?.trim() || '',
+      description: product.description?.trim() || product.descripcion?.trim() || '',
       price,
-      image: product.imagen_fuente || '/placeholder.jpg',
+      image: product.image || product.imagen_fuente || '/placeholder.jpg',
       category: categoryId
     })
   })
@@ -130,6 +136,7 @@ export function getCategoryColor(categoryName: string) {
 }
 
 function getCategoryName(product: RawProduct, index: number) {
+  if (product.category) return toTitleCase(product.category)
   if (product.categoria_busqueda) return toTitleCase(product.categoria_busqueda)
 
   if (index <= 53) return 'Bebidas'
