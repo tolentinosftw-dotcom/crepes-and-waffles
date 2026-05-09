@@ -157,3 +157,16 @@
     height: 180px !important;
   }
 }
+
+.menu-category-section,
+.menu-product-card {
+  content-visibility: auto;
+}
+
+.menu-category-section {
+  contain-intrinsic-size: auto 720px;
+}
+
+.menu-product-card {
+  contain-intrinsic-size: auto 340px;
+}

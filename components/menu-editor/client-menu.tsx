@@ -1,6 +1,6 @@
 'use client'
 
-import { memo, startTransition, useEffect, useMemo, useState } from 'react'
+import { memo, startTransition, useDeferredValue, useEffect, useMemo, useState } from 'react'
 import { MenuCategory, MenuItem } from '@/lib/types'
 import { useMenu } from '@/lib/menu-context'
 import { formatMenuPrice, languages as supportedLanguages, preloadMenuTranslations, translateText, uiCopy } from '@/lib/menu-i18n'
@@ -30,6 +30,7 @@ export function ClientMenu() {
   const [selectedItem, setSelectedItem] = useState<TranslatedMenuItem | null>(null)
   const [ratings, setRatings] = useState<Record<string, RatingStats>>({})
   const [userRatings, setUserRatings] = useState<Record<string, number>>({})
+  const deferredQuery = useDeferredValue(query)
   const text = uiCopy[language]
   const logoUrl = style.logoUrl || '/logo.webp'
   const showingFavorites = activeCategory === 'favorites'
@@ -93,7 +94,7 @@ export function ClientMenu() {
   }, [categories, language, text.ratingLabel, text.viewImage])
 
   const visibleCategories = useMemo(() => {
-    const normalizedQuery = query.trim().toLowerCase()
+    const normalizedQuery = deferredQuery.trim().toLowerCase()
 
     if (showingFavorites) return []
 
@@ -107,7 +108,7 @@ export function ClientMenu() {
         })
       }))
       .filter((category) => category.items.length > 0)
-  }, [activeCategory, query, showingFavorites, translatedCategories])
+  }, [activeCategory, deferredQuery, showingFavorites, translatedCategories])
 
   const favoriteItems = useMemo(() => {
     return translatedCategories
@@ -143,11 +144,11 @@ export function ClientMenu() {
   return (
     <main className="min-h-screen" style={{ backgroundColor: style.backgroundColor, color: style.textColor, fontFamily: style.fontFamily }}>
       <section className="relative overflow-hidden px-4 py-8 text-white sm:py-10">
-        <img src={style.heroImageUrl || '/placeholder.jpg'} alt="" className="absolute inset-0 h-full w-full object-cover" />
+        <img src={style.heroImageUrl || '/placeholder.jpg'} alt="" loading="eager" decoding="async" fetchPriority="high" className="absolute inset-0 h-full w-full object-cover" />
         <div className="absolute inset-0" style={{ background: `linear-gradient(to right, ${style.primaryColor}f5, ${style.primaryColor}b8)` }} />
         <div className="relative mx-auto max-w-5xl">
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
-            <img src={logoUrl} alt="Crepes & Waffles" className="h-14 w-14 rounded-full bg-white object-cover ring-2 ring-white/50" />
+            <img src={logoUrl} alt="Crepes & Waffles" width={56} height={56} loading="eager" decoding="async" fetchPriority="high" className="h-14 w-14 rounded-full bg-white object-cover ring-2 ring-white/50" />
             <LanguagePicker language={language} onChange={(nextLanguage) => startTransition(() => setLanguage(nextLanguage))} />
           </div>
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-white/75 sm:text-sm">{text.digitalMenu}</p>
@@ -178,7 +179,7 @@ export function ClientMenu() {
 
       <section className="mx-auto max-w-5xl px-3 py-5 sm:px-4 sm:py-6">
         {showingFavorites && favoriteItems.length > 0 && (
-          <div className="mb-9 rounded-lg border border-[#eadfce] bg-white/55 p-3 shadow-sm sm:p-4">
+          <div className="menu-category-section mb-9 rounded-lg border border-[#eadfce] bg-white/55 p-3 shadow-sm sm:p-4">
             <div className="mb-4">
               <h2 className="text-xl font-bold sm:text-2xl" style={{ color: style.primaryColor }}>{text.favoritesTitle}</h2>
               <p className="mt-1 text-sm" style={{ color: style.secondaryColor }}>{text.favoritesText}</p>
@@ -202,7 +203,7 @@ export function ClientMenu() {
         )}
 
         {visibleCategories.map((category) => (
-          <div key={category.id} className="mb-8">
+          <div key={category.id} className="menu-category-section mb-8">
             <h2 className="mb-4 text-xl font-bold sm:text-2xl" style={{ color: category.color || style.primaryColor }}>{category.translatedName}</h2>
             <div className="grid grid-cols-2 gap-3">
               {category.items.map((item) => (
@@ -264,7 +265,7 @@ function ProductCard({
   onRate: (rating: number) => void
 }) {
   return (
-    <article className="flex h-full min-h-[292px] w-full flex-col overflow-hidden rounded-lg border bg-white text-left shadow-sm sm:min-h-[340px]" style={{ borderColor: categoryColor ? `${categoryColor}55` : '#eadfce' }}>
+    <article className="menu-product-card flex h-full min-h-[292px] w-full flex-col overflow-hidden rounded-lg border bg-white text-left shadow-sm sm:min-h-[340px]" style={{ borderColor: categoryColor ? `${categoryColor}55` : '#eadfce' }}>
       <button
         onClick={onOpen}
         className="flex flex-1 flex-col text-left transition-transform active:scale-[0.99]"
@@ -274,8 +275,11 @@ function ProductCard({
           <img
             src={item.image || '/placeholder.jpg'}
             alt={item.translatedName}
+            width={640}
+            height={640}
             loading="lazy"
             decoding="async"
+            fetchPriority="low"
             className="h-full w-full object-cover object-center"
           />
         </div>
@@ -350,7 +354,7 @@ function ProductModal({
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/55 p-4" onClick={onClose}>
       <article className="max-h-[92vh] w-full max-w-lg overflow-hidden rounded-lg bg-white shadow-2xl" onClick={(event) => event.stopPropagation()}>
         <div className="relative bg-gray-100">
-          <img src={item.image || '/placeholder.jpg'} alt={item.translatedName} className="max-h-[58vh] w-full object-contain" />
+          <img src={item.image || '/placeholder.jpg'} alt={item.translatedName} width={900} height={900} loading="eager" decoding="async" fetchPriority="high" className="max-h-[58vh] w-full object-contain" />
           <button
             onClick={onClose}
             className="absolute right-3 top-3 flex h-10 w-10 items-center justify-center rounded-full bg-white/95 text-[#2f211b] shadow"
@@ -382,7 +386,7 @@ function LanguagePicker({ language, onChange }: { language: LanguageCode; onChan
           title={item.label}
           aria-label={item.label}
         >
-          <img src={item.flag} alt="" aria-hidden="true" className="h-6 w-6 rounded-full object-cover" />
+          <img src={item.flag} alt="" aria-hidden="true" width={24} height={24} loading="lazy" decoding="async" className="h-6 w-6 rounded-full object-cover" />
         </button>
       ))}
     </div>

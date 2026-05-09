@@ -112,7 +112,7 @@ function buildMenuData(products: RawProduct[]): MenuCategory[] {
       name,
       description: product.description?.trim() || product.descripcion?.trim() || '',
       price,
-      image: product.image || product.imagen_fuente || '/placeholder.jpg',
+      image: normalizeImagePath(product.image || product.imagen_fuente || '/placeholder.jpg'),
       category: categoryId
     })
   })
@@ -168,4 +168,12 @@ function slugify(value: string) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '')
+}
+
+function normalizeImagePath(value: string) {
+  const image = value.trim()
+
+  if (!image) return '/placeholder.jpg'
+  if (image.startsWith('http://') || image.startsWith('https://') || image.startsWith('data:') || image.startsWith('/')) return image
+  return `/${image}`
 }
