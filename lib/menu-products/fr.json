@@ -1149,7 +1149,7 @@
     "description": "Gaufre belge croustillante avec glace vanille et crème chantilly",
     "price": 18700,
     "image": "data/images/gofre-especial.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-145",
@@ -1157,7 +1157,7 @@
     "description": "Gaufre : gaufre belge croustillante avec sauce au chocolat blanc.",
     "price": 12500,
     "image": "data/images/gofre-chocolate-blanco.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-146",
@@ -1165,7 +1165,7 @@
     "description": "Gaufre : gaufre belge croustillante au beurre et au sirop.",
     "price": 9900,
     "image": "data/images/gofre-mantequilla-y-syrup.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-147",
@@ -1173,7 +1173,7 @@
     "description": "Gaufre : gaufre belge croustillante avec sauce aux baies.",
     "price": 14500,
     "image": "data/images/gofre-frutos-del-bosque.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-148",
@@ -1181,7 +1181,7 @@
     "description": "Gaufre : gaufre belge croustillante avec arequipe.",
     "price": 11800,
     "image": "data/images/gofre-arequipe.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-149",
@@ -1189,7 +1189,7 @@
     "description": "Gaufre : gaufre belge croustillante au Nutella.",
     "price": 14900,
     "image": "data/images/gofre-nutella.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-150",
@@ -1197,7 +1197,7 @@
     "description": "Gaufre : gaufre belge croustillante avec sauce au chocolat.",
     "price": 11500,
     "image": "data/images/gofre-chocolate.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-151",
@@ -1205,7 +1205,7 @@
     "description": "Gaufre belge croustillante avec sauce caramel.",
     "price": 8400,
     "image": "data/images/gofre-caramelo.webp",
-    "category": "GAUFRES"
+    "category": "GAUFRES BELGES"
   },
   {
     "id": "product-152",

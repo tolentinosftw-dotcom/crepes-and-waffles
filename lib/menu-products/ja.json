@@ -1149,7 +1149,7 @@
     "description": "サクサクのベルギーワッフル、バニラアイスクリームとシャンティクリーム添え",
     "price": 18700,
     "image": "data/images/gofre-especial.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-145",
@@ -1157,7 +1157,7 @@
     "description": "ワッフル：サクサクのベルギーワッフルにホワイトチョコレートソースを添えました。",
     "price": 12500,
     "image": "data/images/gofre-chocolate-blanco.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-146",
@@ -1165,7 +1165,7 @@
     "description": "ワッフル：バターとシロップを添えたサクサクのベルギーワッフル。",
     "price": 9900,
     "image": "data/images/gofre-mantequilla-y-syrup.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-147",
@@ -1173,7 +1173,7 @@
     "description": "ワッフル：サクサクのベルギーワッフルにベリーソースを添えました。",
     "price": 14500,
     "image": "data/images/gofre-frutos-del-bosque.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-148",
@@ -1181,7 +1181,7 @@
     "description": "ワッフル：アレキップを添えたサクサクのベルギーワッフル。",
     "price": 11800,
     "image": "data/images/gofre-arequipe.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-149",
@@ -1189,7 +1189,7 @@
     "description": "ワッフル：ヌテラを添えたクリスピーなベルギーワッフル。",
     "price": 14900,
     "image": "data/images/gofre-nutella.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-150",
@@ -1197,7 +1197,7 @@
     "description": "ワッフル：サクサクのベルギーワッフルにチョコレートソースを添えました。",
     "price": 11500,
     "image": "data/images/gofre-chocolate.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-151",
@@ -1205,7 +1205,7 @@
     "description": "カリカリのベルギーワッフルにキャラメルソースを添えました。",
     "price": 8400,
     "image": "data/images/gofre-caramelo.webp",
-    "category": "ワッフル"
+    "category": "ゴーフル"
   },
   {
     "id": "product-152",

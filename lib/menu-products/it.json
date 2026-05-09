@@ -1149,7 +1149,7 @@
     "description": "Waffle belga croccante con gelato alla vaniglia e crema chantilly",
     "price": 18700,
     "image": "data/images/gofre-especial.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-145",
@@ -1157,7 +1157,7 @@
     "description": "Waffle: croccante waffle belga con salsa al cioccolato bianco.",
     "price": 12500,
     "image": "data/images/gofre-chocolate-blanco.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-146",
@@ -1165,7 +1165,7 @@
     "description": "Waffle: croccante waffle belga con burro e sciroppo.",
     "price": 9900,
     "image": "data/images/gofre-mantequilla-y-syrup.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-147",
@@ -1173,7 +1173,7 @@
     "description": "Waffle: croccante waffle belga con salsa ai frutti di bosco.",
     "price": 14500,
     "image": "data/images/gofre-frutos-del-bosque.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-148",
@@ -1181,7 +1181,7 @@
     "description": "Waffle: croccante waffle belga con arequipe.",
     "price": 11800,
     "image": "data/images/gofre-arequipe.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-149",
@@ -1189,7 +1189,7 @@
     "description": "Waffle: croccante cialda belga con Nutella.",
     "price": 14900,
     "image": "data/images/gofre-nutella.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-150",
@@ -1197,7 +1197,7 @@
     "description": "Waffle: croccante waffle belga con salsa al cioccolato.",
     "price": 11500,
     "image": "data/images/gofre-chocolate.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-151",
@@ -1205,7 +1205,7 @@
     "description": "Waffle belga croccante con salsa al caramello.",
     "price": 8400,
     "image": "data/images/gofre-caramelo.webp",
-    "category": "WAFFLE"
+    "category": "GOFRES"
   },
   {
     "id": "product-152",

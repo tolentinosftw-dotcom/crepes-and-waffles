@@ -1149,7 +1149,7 @@
     "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ क्रिस्पी बेल्जियन वफ़ल",
     "price": 18700,
     "image": "data/images/gofre-especial.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-145",
@@ -1157,7 +1157,7 @@
     "description": "वफ़ल: सफ़ेद चॉकलेट सॉस के साथ कुरकुरा बेल्जियन वफ़ल।",
     "price": 12500,
     "image": "data/images/gofre-chocolate-blanco.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-146",
@@ -1165,7 +1165,7 @@
     "description": "वफ़ल: मक्खन और सिरप के साथ कुरकुरा बेल्जियम वफ़ल।",
     "price": 9900,
     "image": "data/images/gofre-mantequilla-y-syrup.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-147",
@@ -1173,7 +1173,7 @@
     "description": "वफ़ल: बेरी सॉस के साथ कुरकुरा बेल्जियन वफ़ल।",
     "price": 14500,
     "image": "data/images/gofre-frutos-del-bosque.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-148",
@@ -1181,7 +1181,7 @@
     "description": "वफ़ल: अरेक्विप के साथ कुरकुरा बेल्जियन वफ़ल।",
     "price": 11800,
     "image": "data/images/gofre-arequipe.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-149",
@@ -1189,7 +1189,7 @@
     "description": "वफ़ल: नुटेला के साथ कुरकुरा बेल्जियम वफ़ल।",
     "price": 14900,
     "image": "data/images/gofre-nutella.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-150",
@@ -1197,7 +1197,7 @@
     "description": "वफ़ल: चॉकलेट सॉस के साथ कुरकुरा बेल्जियम वफ़ल।",
     "price": 11500,
     "image": "data/images/gofre-chocolate.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-151",
@@ -1205,7 +1205,7 @@
     "description": "कारमेल सॉस के साथ क्रिस्पी बेल्जियन वफ़ल।",
     "price": 8400,
     "image": "data/images/gofre-caramelo.webp",
-    "category": "वफ़ल"
+    "category": "गोफ्रेस"
   },
   {
     "id": "product-152",
@@ -1277,7 +1277,7 @@
     "description": "टोस्टेड बादाम और इटैलियन क्रंच के आधार पर चॉकलेट फ़ज, वॉर्सेस्टरशायर और चॉकलेट सॉस के साथ चॉकलेट और कॉफ़ी आइसक्रीम का फ्यूज़न।",
     "price": 15400,
     "image": "data/images/tarta-de-chocolate-y-fudge.webp",
-    "category": "आइसक्रीम"
+    "category": "आइस क्रीम"
   },
   {
     "id": "product-161",
@@ -1437,7 +1437,7 @@
     "description": "तीन स्वाद चुनें.",
     "price": 12800,
     "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
-    "category": "आइसक्रीम"
+    "category": "आइस क्रीम"
   },
   {
     "id": "product-181",

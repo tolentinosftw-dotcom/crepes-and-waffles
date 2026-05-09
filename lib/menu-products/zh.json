@@ -1149,7 +1149,7 @@
     "description": "脆皮比利时华夫饼配香草冰淇淋和香缇奶油奶油",
     "price": 18700,
     "image": "data/images/gofre-especial.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-145",
@@ -1157,7 +1157,7 @@
     "description": "华夫饼：香脆的比利时华夫饼配白巧克力酱。",
     "price": 12500,
     "image": "data/images/gofre-chocolate-blanco.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-146",
@@ -1165,7 +1165,7 @@
     "description": "华夫饼：酥脆的比利时华夫饼，配黄油和糖浆。",
     "price": 9900,
     "image": "data/images/gofre-mantequilla-y-syrup.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-147",
@@ -1173,7 +1173,7 @@
     "description": "华夫饼：脆皮比利时华夫饼配浆果酱。",
     "price": 14500,
     "image": "data/images/gofre-frutos-del-bosque.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-148",
@@ -1181,7 +1181,7 @@
     "description": "华夫饼：香脆的比利时华夫饼配上arequipe。",
     "price": 11800,
     "image": "data/images/gofre-arequipe.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-149",
@@ -1189,7 +1189,7 @@
     "description": "华夫饼：脆皮比利时华夫饼配Nutella。",
     "price": 14900,
     "image": "data/images/gofre-nutella.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-150",
@@ -1197,7 +1197,7 @@
     "description": "华夫饼：香脆的比利时华夫饼配巧克力酱。",
     "price": 11500,
     "image": "data/images/gofre-chocolate.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-151",
@@ -1205,7 +1205,7 @@
     "description": "脆皮比利时华夫饼配焦糖酱。",
     "price": 8400,
     "image": "data/images/gofre-caramelo.webp",
-    "category": "华夫饼"
+    "category": "格弗饼"
   },
   {
     "id": "product-152",

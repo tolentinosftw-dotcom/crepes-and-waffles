@@ -180,10 +180,9 @@ function toTitleCase(value: string) {
 
 function slugify(value: string) {
   return value
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
+    .normalize('NFKD')
     .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/[^\p{Letter}\p{Mark}\p{Number}]+/gu, '-')
     .replace(/^-|-$/g, '')
 }
 
