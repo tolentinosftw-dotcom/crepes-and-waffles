@@ -1,9 +1,9 @@
 'use client'
 
 import { memo, startTransition, useDeferredValue, useEffect, useMemo, useState } from 'react'
-import { MenuCategory, MenuItem } from '@/lib/types'
+import { MenuCategory, MenuItem, menuDataByLanguage } from '@/lib/types'
 import { useMenu } from '@/lib/menu-context'
-import { formatMenuPrice, languages as supportedLanguages, preloadMenuTranslations, translateText, uiCopy } from '@/lib/menu-i18n'
+import { formatMenuPrice, languages as supportedLanguages, translateText, uiCopy } from '@/lib/menu-i18n'
 import { Search, Star, X } from 'lucide-react'
 
 type LanguageCode = 'es' | 'en' | 'fr' | 'it' | 'zh' | 'ja' | 'hi'
@@ -48,20 +48,8 @@ export function ClientMenu() {
   }, [])
 
   useEffect(() => {
-    const values = [
-      style.headerText,
-      ...categories.flatMap((category) => [
-        category.name,
-        ...category.items.flatMap((item) => [item.name, item.description])
-      ])
-    ].filter(Boolean)
-
-    const schedule = window.requestIdleCallback ?? ((callback: IdleRequestCallback) => window.setTimeout(() => callback({ didTimeout: false, timeRemaining: () => 0 }), 1))
-    const cancel = window.cancelIdleCallback ?? window.clearTimeout
-    const handle = schedule(() => preloadMenuTranslations(values))
-
-    return () => cancel(handle)
-  }, [categories, style.headerText])
+    setActiveCategory('all')
+  }, [language])
 
   const loadSharedRatings = async () => {
     try {
@@ -75,16 +63,18 @@ export function ClientMenu() {
   }
 
   const translatedCategories = useMemo<TranslatedMenuCategory[]>(() => {
-    return categories.map((category) => ({
+    const localizedCategories = menuDataByLanguage[language] ?? categories
+
+    return localizedCategories.map((category) => ({
       ...category,
-      translatedName: translateText(category.name, language),
+      translatedName: category.name,
       items: category.items.map((item) => {
-        const translatedName = translateText(item.name, language)
+        const translatedName = item.name
 
         return {
           ...item,
           translatedName,
-          translatedDescription: translateText(item.description, language),
+          translatedDescription: item.description,
           translatedPrice: formatMenuPrice(item.price, language),
           translatedRatingLabel: `${text.ratingLabel}: ${translatedName}`,
           translatedViewImageLabel: `${text.viewImage}: ${translatedName}`

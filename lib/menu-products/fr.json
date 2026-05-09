@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "Crêpe Nutella",
+    "description": "Crêpe Nutella à la chantilly.",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-2",
+    "name": "Crêpe Nutella Banane",
+    "description": "Crêpe Nutella avec tranches de banane et crème chantilly.",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-3",
+    "name": "bébé poupée",
+    "description": "Crêpe à la banane fraîche, glace vanille, noix, chocolat chaud et crème chantilly.",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-4",
+    "name": "Cléopâtre",
+    "description": "Tranches de banane et de fraise, glace à la mûre, crème chantilly et sauce aux raisins et Worcestershire.",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-5",
+    "name": "Mont-Blanc",
+    "description": "Crêpe au chocolat blanc aux fraises et crème chantilly.",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-6",
+    "name": "Fondue Au Chocolat",
+    "description": "Crêpe au chocolat sur fraises et banane, glace vanille et chantilly.",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "CRÊPES SUCRÉES"
+  },
+  {
+    "id": "product-7",
+    "name": "Vanille Chocoamande (470 ml)",
+    "description": "Glace vanille aux amandes grillées et fondant au chocolat.",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-8",
+    "name": "Stracciatella Fruit de la Passion (470 ml)",
+    "description": "Tropical Passion : morceaux de chocolat noir et veines de fruit de la passion.",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-9",
+    "name": "Lulada (470 ml)",
+    "description": "Glace Lulo dans l'eau.",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-10",
+    "name": "Yaourt à la goyave (470 ml)",
+    "description": "Glace au yaourt aux veines de goyave.",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-11",
+    "name": "Dulce de Leche (470 ml)",
+    "description": "Dulce de Leche argentine avec stracciatella.",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-12",
+    "name": "Yaourt grec aux amarenas (470 ml)",
+    "description": "Glace au yaourt grec et cerises jaunes italiennes.",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-13",
+    "name": "Pétales de roses",
+    "description": "Glace aux pétales de rose",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-14",
+    "name": "Lassi à la mangue",
+    "description": "Fabriqué avec du yaourt grec et du sucre de mangue, c'est une étreinte fruitée et rafraîchissante au palais.",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "CRÈME GLACÉE DE SAISON (470 ML)"
+  },
+  {
+    "id": "product-15",
+    "name": "Jus de Mûre 11 Oz",
+    "description": "Jus de mûre naturel dans de l'eau ou du lait 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-16",
+    "name": "Jus de Mangue 11 Oz",
+    "description": "Jus de mangue naturel dans de l'eau ou du lait 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-17",
+    "name": "Jus de fraise 11 oz",
+    "description": "Jus de fraise naturel dans de l'eau ou du lait 11 Oz",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-18",
+    "name": "Jus de corossol 11 oz",
+    "description": "Jus de corossol naturel dans de l'eau ou du lait 11 Oz",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-19",
+    "name": "Ananas, Gingembre et Menthe Poivrée 11 Oz",
+    "description": "Smoothie au mélange de fruits frais 11 Oz",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-20",
+    "name": "Limonade à la mangue Biche 9 Oz",
+    "description": "Limonade à la mangue Biche 9 Oz",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-21",
+    "name": "Limonade naturelle 11 oz",
+    "description": "Limonade naturelle 11 oz",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-22",
+    "name": "Limonade à la noix de coco 9 Oz",
+    "description": "Limonade au lait de coco et citron 9 Oz",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-23",
+    "name": "Limonade à la menthe poivrée 9 Oz",
+    "description": "Limonade à la menthe poivrée 9 Oz",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-24",
+    "name": "Joie 11 Oz",
+    "description": "Smoothie mangue, fruit de la passion et ananas 11 Oz",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-25",
+    "name": "Bien-être 11 Oz",
+    "description": "Smoothies pomme, poire, feijoa et menthe 11 Oz",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-26",
+    "name": "Jus de pêche 9 Oz",
+    "description": "Jus de pêche naturel dans le lait 9 Oz",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-27",
+    "name": "Jus Feijoa 11 Oz",
+    "description": "Jus de feijoa naturel dans l'eau 11 Oz",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-28",
+    "name": "Jus de Framboise",
+    "description": "Jus de framboise naturel dans l'eau.",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-29",
+    "name": "Jus de mandarine 11 Oz",
+    "description": "Jus de mandarine 11 Oz",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "JUS NATURELS"
+  },
+  {
+    "id": "product-30",
+    "name": "Eau de semis 477 ml",
+    "description": "Eau de semis 500 ml.",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-31",
+    "name": "Coca-Cola Original 300 ml",
+    "description": "Boisson gazeuse originale Coca-Cola 300 ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-32",
+    "name": "Schweppes Ginger Ale 300ml",
+    "description": "Schweppes Soda au gingembre 300ml.",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-33",
+    "name": "Eau de Source Plate 500ml",
+    "description": "Eau de Source 500ml.",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-34",
+    "name": "Coca-Cola ZÉRO 300 ml",
+    "description": "Soda Coca-Cola sans sucre 330ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-35",
+    "name": "Eau de Source Pétillante 300ml",
+    "description": "Eau de source gazeuse 300ml.",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "AUTRES BOISSONS"
+  },
+  {
+    "id": "product-36",
+    "name": "Club Colombie 330ml",
+    "description": "Bière de type blonde. % d'alcool : 4,7%. Pays d'origine : Colombie",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "BIÈRES"
+  },
+  {
+    "id": "product-37",
+    "name": "Stella Artois 330ml",
+    "description": "Bière de type blonde.",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "BIÈRES"
+  },
+  {
+    "id": "product-38",
+    "name": "Bière Monserrate 330ml",
+    "description": "Bière rouge, fruitée et chargée de houblon. Arôme corsé et équilibré.",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "BIÈRES"
+  },
+  {
+    "id": "product-39",
+    "name": "Soupe aux épinards",
+    "description": "Soupe aux épinards du jardin à chez vous. Naturellement délicieux..",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-40",
+    "name": "Soupe Mexicaine au Poulet",
+    "description": "Saveurs du Mexique : piment chipotle, crème sure, fromage, avocat, poulet, pico de gallo et tortilla mexicaine.",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-41",
+    "name": "Soupe aux lentilles Pardine",
+    "description": "Soupe aux champignons et portobellos, avec une légère touche d'épices indiennes.",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-42",
+    "name": "Soupe Covarachia",
+    "description": "Soupe où la tomate, le maïs et la banane entrent en jeu pour mettre en valeur les saveurs de notre terroir, avec de l'avocat, de la crème sure et de la coriandre.",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-43",
+    "name": "Soupe du Soleil",
+    "description": "Soupe de potiron avec une touche de fromage de chèvre et pesto, pain pita et coriandre.",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-44",
+    "name": "La vie dans la soupe verte",
+    "description": "Crème moelleuse de verdure et maïs tendre.",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "SOUPES"
+  },
+  {
+    "id": "product-45",
+    "name": "Poulet, fromage et champignons",
+    "description": "Crêpe de poulet + fromage + champignon = toujours délicieux.",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-46",
+    "name": "Curry De Poulet",
+    "description": "Crêpe de poulet dans notre sauce curry.",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-47",
+    "name": "Poulet mexicain aux truffes",
+    "description": "Crêpe au mélange de saveurs mexicaines, avec huitlacoche, avocat et sauce au fromage.",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-48",
+    "name": "Poulet, brocoli et fromage",
+    "description": "Crêpe de poulet + brocoli + fromage = tout simplement délicieux.",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-49",
+    "name": "Poulet Mexicain",
+    "description": "Poulet à la sauce mexicaine et chipotle, fromage râpé, laitue, crème sure, chili et pico de gallo. (Légèrement épicé)",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-50",
+    "name": "Poulet Thaï",
+    "description": "Crêpe de blanc de poulet et champignons portobello, avec un mélange de saveurs orientales à base de curry et de fruit de la passion.",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-51",
+    "name": "Poulet Rosarito",
+    "description": "Crêpe de poulet à la sauce mexicaine, avec chipotle, arches d'avocat et haricots verts.",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-52",
+    "name": "Poulet indien",
+    "description": "Crêpe de poulet au curry à l'indienne, avec cacahuètes, raisins secs et chutney de mangue.",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-53",
+    "name": "Poulet et Fromage",
+    "description": "Crêpe de poulet classique en sauce et fromage.",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-54",
+    "name": "Poulet et champignons",
+    "description": "Crêpe de poulet + champignons = toujours délicieuse.",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-55",
+    "name": "Poulet péruvien",
+    "description": "Préparation typique d'ají de gallina Lima, sauce aux olives et olives violettes, roquette et œuf. (Légèrement épicé).",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-56",
+    "name": "Crêpe de poulet avec chili panka",
+    "description": "Crêpe de poulet à toutes les saveurs du Pérou. Avec purée de coriandre, avocat, roquette, filaments de paprika et oignon rouge. (Légèrement épicé).",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-57",
+    "name": "Poulet, artichaut et fromage",
+    "description": "Crêpe de poulet, sauce aux artichauts et fromage",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "CRÊPES AU POULET"
+  },
+  {
+    "id": "product-58",
+    "name": "Bolognese et Fromage",
+    "description": "Crêpe bolognaise + fromage = la façon la plus simple de se souvenir de nous.",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-59",
+    "name": "Bolognese, Fromage et Champignons",
+    "description": "Crêpe bolognaise + fromage + champignon = bon mélange",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-60",
+    "name": "Bolognese, Jambon et Fromage",
+    "description": "Crêpe bolognaise + jambon + fromage = infaillible",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-61",
+    "name": "Stroganoff",
+    "description": "Crêpe avec julienne de longe et champignons dans leur sauce.",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-62",
+    "name": "Veau CR",
+    "description": "Crêpe au boeuf en sauce.",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-63",
+    "name": "Boeuf et Champignons",
+    "description": "Crêpe de bœuf + champignons = pour qui le passé est présent.",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-64",
+    "name": "Mexicain",
+    "description": "Bolognese, fromage râpé, laitue, sauce mexicaine, crème sure, chili et pico de gallo.",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-65",
+    "name": "Longe arabe",
+    "description": "Crêpe de longe aux épices du Moyen-Orient et salade à son meilleur.",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-66",
+    "name": "Chapeau Vueltiao",
+    "description": "Crêpe de viande râpée, préparée avec du hogao sur purée de banane mûre, crème sure, avocat et pico de gallo.",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-67",
+    "name": "Rôti de boeuf",
+    "description": "Tranches de rosbif et fromage, oignons rôtis, roquette, mayonnaise chipotle et choucroute à l'oignon, créant une fantaisie de saveur. (Légèrement épicé).",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-68",
+    "name": "Cochinita Pibil",
+    "description": "Préparation mexicaine de porc effiloché, accompagnée de tons d'agrumes et d'une touche d'avocat, pico de gallo, oignon mariné et crème sure.",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-69",
+    "name": "Lomito au poivre",
+    "description": "Crêpe avec julienne de longe en sauce au poivre.",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "CRÊPES À LA VIANDE"
+  },
+  {
+    "id": "product-70",
+    "name": "Crêpe jambon et fromage",
+    "description": "Crêpe jambon + fromage = la première chose que vous avez essayée.",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-71",
+    "name": "Jambon, fromage et champignons",
+    "description": "Crêpe jambon + fromage + champignons = un délice intemporel.",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-72",
+    "name": "Dinde hollandaise et sauce dijonnaise",
+    "description": "Crêpe de poitrine de dinde + fromage + Dijonaisse = bon souvenir.",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-73",
+    "name": "Sensation Colombie",
+    "description": "Crêpe avec viande râpée, fromage, œuf, crème sure et notre hogao traditionnel.",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-74",
+    "name": "Sensation",
+    "description": "Jambon fumé, fromage hollandais et œuf. Commandez-le également avec de l'oignon et de la tomate.",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-75",
+    "name": "Connexion française",
+    "description": "Crêpe au jambon fumé, ricotta et sirop.",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "CRÊPES CLASSIQUES"
+  },
+  {
+    "id": "product-76",
+    "name": "Calamars à la sauce maison",
+    "description": "Crêpe aux calamars dans notre sauce maison.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-77",
+    "name": "Calamars à la sauce curry",
+    "description": "Crêpe de calamars dans notre sauce curry.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-78",
+    "name": "Crevettes à la Sauce Maison",
+    "description": "Crêpe de crevettes dans notre sauce maison.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-79",
+    "name": "Crevettes à l'ail",
+    "description": "Crêpe de crevettes dans notre sauce à l'ail.",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-80",
+    "name": "Crevettes à la sauce curry",
+    "description": "Crêpe de crevettes dans notre sauce curry.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-81",
+    "name": "Crevettes Rosarito",
+    "description": "Crevettes à la sauce mexicaine au chipotle, arches d'avocat, haricots quarantenos.",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-82",
+    "name": "Palmiers de crabe à la sauce maison",
+    "description": "Crêpe de crabe et de palme dans notre sauce maison.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-83",
+    "name": "Palmiers de crabe à la sauce au curry",
+    "description": "Crêpe de crabe et de palme dans notre sauce curry.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-84",
+    "name": "Rouleau de saumon",
+    "description": "Rouleaux de saumon fumé avec roquette, fromage à la crème, moutarde, oignon, avocat et légumes frais croustillants. Accompagné de salade verte.",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-85",
+    "name": "Crêpe de mer Encocado",
+    "description": "Poulpe, crevettes, calamars et gambas sur quinoa noir, baignés de sauce coco et touches de noix de coco croquante.",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "CRÊPES AUX FRUITS DE MER"
+  },
+  {
+    "id": "product-86",
+    "name": "Poblana",
+    "description": "Variété de fromages, avocat, pico de gallo, sauce aigre, laitue et une délicieuse touche mexicaine de chili.",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-87",
+    "name": "Normand",
+    "description": "Champignons frais, variété de fromages et sauce aux champignons.",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-88",
+    "name": "Toscane",
+    "description": "Fromage, tomate, basilic, champignons frais, champignons et sauce napolitaine.",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-89",
+    "name": "Chèvre",
+    "description": "Champignons sautés, tomates séchées, tomates fraîches, pesto, réduction balsamique et mozzarella de bufflonne.",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-90",
+    "name": "Champignons à l'ail",
+    "description": "Crêpe de champignons à la sauce à l'ail et au fromage.",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-91",
+    "name": "Sicile",
+    "description": "Crêpe à la mozzarella de bufflonne, tomates fraîches, tomates séchées et basilic.",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-92",
+    "name": "Champignons, artichauts et fromage",
+    "description": "Crêpe aux champignons, artichaut et fromage.",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-93",
+    "name": "Romain",
+    "description": "Crêpe à la mozzarella de bufflonne, sauce napolitaine au basilic et parmesan.",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "CRÊPES VÉGÉTARIENNES"
+  },
+  {
+    "id": "product-94",
+    "name": "Salade Méditerranéenne",
+    "description": "Salade de crevettes et calamars, pesto, laitue, céleri, champignons, oignon, olives, balsamique et huile d'olive.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-95",
+    "name": "Salade florentine",
+    "description": "Mozzarella de bufflonne, variété de laitue biologique, basilic frais, tomates séchées, fraîches et cerises, champignons, pesto, avocat, olives noires, vinaigre balsamique et huile d'olive.",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-96",
+    "name": "Salade thaïlandaise",
+    "description": "Poitrine de dinde au sésame et basilic, variété de laitue bio, roquette, céleri, champignons, paprika, tomate cerise, oignons croustillants et vinaigrette orientale.",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-97",
+    "name": "Salade marocaine aux crevettes",
+    "description": "Couscous préparé avec des épices, avocat, chutney de mangue, quinoa grillé et salade verte avec vinaigrette marocaine.",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-98",
+    "name": "Salade César au poulet",
+    "description": "Salade César Classique, croûtons, tomates cerises, parmesan. Accompagné de pain de seigle.",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-99",
+    "name": "Salade César",
+    "description": "Salade César avec laitue, sauce César, croûtons et parmesan.",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-100",
+    "name": "Salade de bar",
+    "description": "Salade : Préparez votre salade et dégustez.",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-101",
+    "name": "Salade Valparaíso",
+    "description": "Filet de saumon fumé au merkén, accompagné de quinoa noir, chou frisé au parmesan et grana padano, tomate hachée, avocat et vinaigrette arabe.",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-102",
+    "name": "Salade de thon",
+    "description": "Ventre de thon, variété de laitue biologique, roquette, concombre, basilic, champignons, céleri, avocat, tomate cerise, olives noires, vinaigrette aux herbes et huile d'olive. Accompagné de pain arabe",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-103",
+    "name": "Salade méditerranéenne de calamars",
+    "description": "Salade de calamars, pesto, laitue, céleri, champignons, oignon, olives, balsamique et huile d'olive.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-104",
+    "name": "Salade de crevettes méditerranéenne",
+    "description": "Salade de crevettes, pesto, laitue, céleri, champignons, oignon, olives, balsamique et huile d'olive.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-105",
+    "name": "Salade Torina",
+    "description": "Mozzarella de bufflonne enveloppée dans du jambon serrano avec oignons caramélisés et piment de Turin, une variété de laitue, roquette, tomate cerise et vinaigrette à base de moutarde de Dijon. Accompagné de pain de seigle.",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-106",
+    "name": "Salade de poulet marocaine",
+    "description": "Couscous préparé avec des épices, avocat, chutney de mangue, quinoa grillé et salade verte avec vinaigrette marocaine.",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-107",
+    "name": "Salade Portofino",
+    "description": "Fromage feta, tomates séchées, laitue, roquette, basilic, olives noires, tomates fraîches et cerises, champignons, oignon rouge, pesto et vinaigrette aux fines herbes.",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "SALADES"
+  },
+  {
+    "id": "product-108",
+    "name": "Panne Cook Poulet Curry",
+    "description": "Panne Cuisinière de pain artisanal au poulet sauce curry.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-109",
+    "name": "Panne Cuire Poulet",
+    "description": "Panne Cuisine de pain artisanal avec notre sauce traditionnelle au poulet.",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-110",
+    "name": "Panne Cook Poulet, Fromage et Champignons",
+    "description": "Panne Cuisinière de pain artisanal au poulet, sauce aux champignons et fromage.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-111",
+    "name": "Panne de crevettes à la sauce maison",
+    "description": "Panne Cuisinière de pain artisanal aux crevettes en sauce maison.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-112",
+    "name": "Panne de calamars à la sauce maison",
+    "description": "Panne Cuisinière de pain artisanal aux calamars sauce maison.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-113",
+    "name": "Panne de calamars à la sauce curry",
+    "description": "Panne Cuisinière de pain artisanal aux calamars sauce curry.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-114",
+    "name": "Panne Cook Coeurs de Palmier à la Sauce Casa",
+    "description": "Panne Cuisinière de pain artisanal aux coeurs de crabe sauce locale",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-115",
+    "name": "Panne Cook Coeurs de Palmier Sauce Curry",
+    "description": "Panne Cuisinière de pain artisanal aux coeurs de crabe sauce curry.",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-116",
+    "name": "Panne de veau cuite",
+    "description": "Panne Cuisinière de pain artisanal sauce bœuf.",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-117",
+    "name": "Panne Cook Boeuf et Champignons",
+    "description": "Panne Cuisinière de pain artisanal sauce bœuf et sauce champignons.",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-118",
+    "name": "Panne Cook Stroganoff",
+    "description": "Panne Cuisine de pain artisanal avec notre sauce traditionnelle stroganoff.",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-119",
+    "name": "Panne de crevettes à l'ail",
+    "description": "Panne Cuisinière de pain artisanal aux crevettes sauce à l'ail.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-120",
+    "name": "Panne Cook Poulet, Fromage Artichaut",
+    "description": "Panne Cook Poulet, Fromage Artichaut",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-121",
+    "name": "Panne Cook Poulet Brocoli Fromage",
+    "description": "Panne Cook Poulet Brocoli Fromage",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-122",
+    "name": "Panne Cook Fromage Bolognese",
+    "description": "Panne Cook Fromage Bolognese",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-123",
+    "name": "Panne de crevettes à la sauce curry",
+    "description": "Panne Cuisinière de pain artisanal aux crevettes sauce curry.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "CUISINIER DE PANNE"
+  },
+  {
+    "id": "product-124",
+    "name": "Pita à la dinde",
+    "description": "Pain arabe farci de poitrine de dinde, fromages variés et sauce dijonnaise.",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-125",
+    "name": "Pita Mozzarella Poche",
+    "description": "Fromage, sauce napolitaine et basilic.",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-126",
+    "name": "Pita sicilienne",
+    "description": "Fromage, sauce napolitaine, tomates fraîches, tomates séchées, basilic et huile d'olive.",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-127",
+    "name": "Pita double poche",
+    "description": "Pain arabe farci de jambon fumé et d'une variété de fromages.",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-128",
+    "name": "Pita Cappresa",
+    "description": "Pita au pain arabe farci de mozzarella de bufflonne, tomate fraîche, tomate séchée, roquette et pesto.",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-129",
+    "name": "Pita grecque",
+    "description": "Fromage, sauce napolitaine, artichauts, olives violettes, oignon, tomate et épices",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-130",
+    "name": "Pita Popeye Poche",
+    "description": "Pain arabe farci aux épinards, jambon, oignon, œuf, champignons et tomate, gratiné au fromage, accompagné de sauce jaune et vinaigrette verte.",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-131",
+    "name": "Pita végétarienne",
+    "description": "Fromage, sauce napolitaine, champignons, oignon, tomate, paprika et céleri",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-132",
+    "name": "Pita au poulet arabe",
+    "description": "Poitrine de poulet au four, laitue, tahini, morceaux d'olives et oignons marinés",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-133",
+    "name": "Gaufre simple avec de la glace",
+    "description": "Gaufre. Commandez-le avec une de nos sauces : arequipe, chocolat, pêche, sauce Worcestershire, caramel ou gelée de goyave.",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-134",
+    "name": "Simple avec de la crème chantilly",
+    "description": "Gaufre. Commandez-le avec une de nos sauces : arequipe, chocolat, pêche, sauce Worcestershire, caramel ou gelée de goyave.",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-135",
+    "name": "Gaufre Spéciale",
+    "description": "Gaufre avec glace et crème chantilly. Choisissez jusqu'à quatre sauces sucrées.",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-136",
+    "name": "Gaufre aux fruits des bois",
+    "description": "Gaufre aux fruits rouges, glace vanille et crème chantilly.",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-137",
+    "name": "Sirop de beurre de gaufre",
+    "description": "Gaufre au beurre et au sirop.",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-138",
+    "name": "Gaufre Arequipe",
+    "description": "Avec sauce Arequipe, vanille et glace Arequipe à la crème chantill",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-139",
+    "name": "Arequipe et Gaufre à la Banane",
+    "description": "Tranches de banane fraîche à l'arequipe et sauce chocolat, glace vanille et Arequipe à la chantilly.",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-140",
+    "name": "Gaufre au Nutella",
+    "description": "Gaufre avec glace vanille et crème chantilly.",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-141",
+    "name": "Gaufre au Nutella et à la Banane",
+    "description": "Nutella et tranches de banane fraîche, glace vanille à l'ancienne et crème chantilly.",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-142",
+    "name": "Gaufre D'Choclo",
+    "description": "Gaufre de maïs, fromage mozzarella et 7 cuirs au lactosérum côtier.",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-143",
+    "name": "gaufre au miel",
+    "description": "Gaufre au beurre et au miel de Montes de María.",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-144",
+    "name": "Gaufre Spéciale",
+    "description": "Gaufre belge croustillante avec glace vanille et crème chantilly",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-145",
+    "name": "Gaufre au chocolat blanc",
+    "description": "Gaufre : gaufre belge croustillante avec sauce au chocolat blanc.",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-146",
+    "name": "Beurre et sirop de gaufre",
+    "description": "Gaufre : gaufre belge croustillante au beurre et au sirop.",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-147",
+    "name": "Gaufre aux fruits des bois",
+    "description": "Gaufre : gaufre belge croustillante avec sauce aux baies.",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-148",
+    "name": "Gaufre Arequipe",
+    "description": "Gaufre : gaufre belge croustillante avec arequipe.",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-149",
+    "name": "Gaufre au Nutella",
+    "description": "Gaufre : gaufre belge croustillante au Nutella.",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-150",
+    "name": "Gaufre au chocolat",
+    "description": "Gaufre : gaufre belge croustillante avec sauce au chocolat.",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-151",
+    "name": "Gaufre au caramel",
+    "description": "Gaufre belge croustillante avec sauce caramel.",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "GAUFRES"
+  },
+  {
+    "id": "product-152",
+    "name": "Tentation",
+    "description": "Génoise baignée d'une touche de liqueur qui rehausse la saveur de la glace Vanille, Café et Chocolat. S'associe subtilement à la sauce chocolat, aux noix et à la crème chantilly.",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-153",
+    "name": "Coupe Arequipe",
+    "description": "Notre délicieuse glace Arequipe, tranches de banane, sauce arequipe, biscuit au beurre et crème chantilly.",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-154",
+    "name": "Banane divisée",
+    "description": "Combinaison classique de glace vanille, fraise et chocolat. Accompagné de crème chantilly, noix, banane, sauce chocolat et arequipe.",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-155",
+    "name": "Chocolat chaud à la vanille",
+    "description": "Glace Vanille à l'Ancienne, amandes grillées entre crème chantilly et chocolat chaud avec laquelle vous satisfaireez votre goût.",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-156",
+    "name": "Suprême",
+    "description": "Glace vanille et tranches de banane entre crème chantilly, baignée de chocolat et sauce arequipe, mini cornet de biscuit et noix.",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-157",
+    "name": "Caprice Fruit De La Passion",
+    "description": "Glace au yaourt aux fruits de la passion avec coulis de fruits de la passion, fraises, pêches et le croquant du biscuit dentelle.",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-158",
+    "name": "Philosophie du caramel",
+    "description": "Glace vanille et caramel, tranches de banane, macadamias croustillantes et croquantes et amandes s'assemblent pour donner du sens et de la saveur à la vie.",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-159",
+    "name": "Tiramisu",
+    "description": "Composition italienne de glace à la vanille à l'ancienne, génoise baignée de cognac, agrémentée de sauces Worcestershire, chocolat et café",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-160",
+    "name": "Gâteau au chocolat et au fudge",
+    "description": "Fusion de glace au chocolat et au café avec fondant au chocolat, sauce Worcestershire et chocolat, sur une base d'amandes grillées et de croquant italien.",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-161",
+    "name": "Doux charme",
+    "description": "Génoise baignée de sauce Worcestershire et d'arequipe, avec glace Cocado, tartufino au chocolat et biscuit dentelle croquant.",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-162",
+    "name": "Dame Blanche",
+    "description": "Glace vanille et chocolat accompagnée d'une sauce au chocolat, noix et crème chantilly.",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-163",
+    "name": "Vésuve",
+    "description": "Combinaison italienne classique de glace à la fraise, à la vanille et au citron, baignée de sauce aux raisins et de crème chantilly",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-164",
+    "name": "Fête",
+    "description": "Génoise accompagnée de glace mûre, fraise, fruit de la passion, citron et vanille, avec morceaux de banane, fraises fraîches, coulis de raisin et crème chantilly.",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-165",
+    "name": "Coupe de pêche",
+    "description": "Glace vanille et yaourt aux fruits de la passion avec tranches de pêches, coulis de fruits de la passion, crème chantilly et biscuit dentelle croustillant.",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-166",
+    "name": "Capri",
+    "description": "Glace vanille sur biscuit croquant entre arequipe et sauces framboise à la crème chantilly.",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-167",
+    "name": "Glaçage à la Meringue",
+    "description": "Meringue et glace vanille jouent avec la sauce chocolat chaud, les noix et la crème chantilly pour n'offrir que du plaisir.",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-168",
+    "name": "Coupe de brownies",
+    "description": "Glace brownie avec sauce caramel et chocolat",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-169",
+    "name": "Banane Royale",
+    "description": "Glace vanille et chocolat, avec fraise, banane, sauce chocolat, biscuit dentelle croquant et crème chantilly.",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-170",
+    "name": "Glace Artisanale 800 ml Vegan",
+    "description": "Glace à base de lait d'amande et de lait de coco.",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-171",
+    "name": "Glace Artisanale Litre et Moitié Vegan",
+    "description": "Glace à base de lait d'amande et de lait de coco.",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-172",
+    "name": "Verre 1 saveur végétalienne",
+    "description": "Glace : choisissez votre saveur.",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-173",
+    "name": "Verre 2 saveurs vegan",
+    "description": "Glace : choisissez deux parfums.",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-174",
+    "name": "Coupe de Lima",
+    "description": "Glace vanille avec sauce arequipe, baies, meringue, flocons de corossol et crème chantilly.",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-175",
+    "name": "Glace Arte-Sano 800 ml",
+    "description": "Crème glacée : Choisissez jusqu'à deux saveurs.",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-176",
+    "name": "Glace Arte-Sano 1,5lt",
+    "description": "Crème glacée : Choisissez jusqu'à deux saveurs.",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-177",
+    "name": "Verre d'une saveur de crème glacée",
+    "description": "Glace : choisissez votre saveur.",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-178",
+    "name": "Verre de deux saveurs de glace",
+    "description": "Glace : choisissez deux parfums.",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-179",
+    "name": "Milk-shakes",
+    "description": "Milkshake : choisissez votre saveur.",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-180",
+    "name": "Verre de trois saveurs de glace",
+    "description": "Choisissez trois saveurs.",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-181",
+    "name": "Cônes x 10 unités",
+    "description": "Cornets de gaufres.",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-182",
+    "name": "Cônes x 4 unités",
+    "description": "Cornets de gaufres.",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-183",
+    "name": "KIT Petite Glace Sucrée",
+    "description": "KIT Petite Glace Sucrée",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-184",
+    "name": "Grand KIT Glace Sucrée",
+    "description": "Dégustez votre glace préférée et amusez-vous avec les sauces et les différentes combinaisons. Le kit contient un Artesano de 1,5 litre jusqu'à deux saveurs, des biscuits sablés, 10 cornets de biscuits et une sauce.",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-185",
+    "name": "Artisan 800 ml de chocolat de Dubaï",
+    "description": "Glace pistache au kadaif et chocolat noir.",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-186",
+    "name": "Artisan 1,5l Chocolat Dubaï",
+    "description": "Glace pistache au kadaif et chocolat noir.",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-187",
+    "name": "Verre 1 boule Dubai Chocolat",
+    "description": "Glace pistache au kadaif et chocolat noir.",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-188",
+    "name": "Verre avec 2 boules de chocolat de Dubaï",
+    "description": "Glace pistache au kadaif et chocolat noir.",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "GLACE"
+  },
+  {
+    "id": "product-189",
+    "name": "Mini gaufre au miel",
+    "description": "Mini gaufres au beurre et au miel de Montes de María.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-190",
+    "name": "Mini gaufre traditionnelle",
+    "description": "Mini gaufres au beurre et au sirop.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-191",
+    "name": "Mini Gaufres Arequipe",
+    "description": "Mini gaufres avec glace vanille et crème chantilly.",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-192",
+    "name": "Mini gaufres aux fruits des bois",
+    "description": "Mini Gaufres aux fruits rouges, glace vanille et chantilly.",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-193",
+    "name": "Mini-gaufres au Nutella",
+    "description": "Mini gaufres avec glace vanille et crème chantilly.",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-194",
+    "name": "Gaufre Mini D'Yuca",
+    "description": "Mini gaufres au beurre, cassonade biologique moulue et gelée de goyave.",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-195",
+    "name": "Mini gaufre au chocolat",
+    "description": "Avec glace vanille et crème chantilly.",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-196",
+    "name": "Mini-gaufres Double D'Yuca",
+    "description": "Deux mini gaufres au beurre, cassonade bio moulue et gelée de goyave.",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "MINI GAUFRES"
+  },
+  {
+    "id": "product-197",
+    "name": "Glace cochon",
+    "description": "Glace cochon",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "GLACE POUR ENFANTS"
+  },
+  {
+    "id": "product-198",
+    "name": "Sammy",
+    "description": "Pingouin avec glace vanille",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "GLACE POUR ENFANTS"
+  },
+  {
+    "id": "product-199",
+    "name": "Balance - Café en grains 500gr",
+    "description": "Excellent café 100% colombien, torréfié et emballé quotidiennement par Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "CAFÉ ET PLAISIR"
+  },
+  {
+    "id": "product-200",
+    "name": "Balance - Café Moulu 500gr",
+    "description": "Excellent café 100% colombien, torréfié et emballé quotidiennement par Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "CAFÉ ET PLAISIR"
+  },
+  {
+    "id": "product-201",
+    "name": "Vin Rouge - AMORETINTO 750ml",
+    "description": "Bouteille de vin rouge. Variété : Merlot Origine : Chili.",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-202",
+    "name": "Vin Blanc - AMORETINTO 750ml",
+    "description": "Bouteille de vin blanc. Souche : Gewurstraminier Origine : Chili.",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-203",
+    "name": "Prosecco 750ml",
+    "description": "Bouteille de vin Prosecco. Souche : Glera Origine : Italie.",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-204",
+    "name": "Vin Rouge 1/2 bouteille - AMORETINTO375ml",
+    "description": "Demi-bouteille de vin rouge. Variété : Merlot Origine : Chili.",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-205",
+    "name": "Vin Blanc 1/2 Bouteille -AMORETINTO375ml",
+    "description": "Une demi-bouteille de vin blanc. Souche : Gewurstraminier Origine : Chili.",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-206",
+    "name": "Prosecco 1/2 bouteille 375 ml",
+    "description": "Demi-bouteille de prosecco. Souche : Glera Origine : Italie.",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "VINS"
+  },
+  {
+    "id": "product-207",
+    "name": "Sauce aux Fruits des Bois 250ml",
+    "description": "Notre mélange classique de mûre, fraise, framboise, mûre et myrtille.",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-208",
+    "name": "Pâte à gaufres 500ml",
+    "description": "Notre pâte prête pour les crêpes ou les gaufres.",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-209",
+    "name": "Sauce Arequipe 500ml",
+    "description": "Une équipe classique pour créer de doux moments.",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-210",
+    "name": "Pesto 250ml",
+    "description": "Préparation à base de basilic, huile d'olive, parmesan et noix.",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-211",
+    "name": "Hogao 250ml",
+    "description": "Ajoutez la saveur de la Colombie.",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-212",
+    "name": "Sauce Maison 500ml",
+    "description": "Sauce à base de poivrons rôtis et de tomates.",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-213",
+    "name": "Curry 500ml",
+    "description": "L'Inde avec ses épices nous donne toute sa saveur. Utilisez-le avec du poulet, des crevettes ou des légumes.",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-214",
+    "name": "Bolognese 500ml",
+    "description": "C'est ainsi que l'Italie a le goût, comme la Bolognese. Utilisez-le avec des crêpes ou des pâtes. Ajoutez du parmesan.",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-215",
+    "name": "Napolitain 500ml",
+    "description": "Tomates préparées aux saveurs de l'Italie.",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-216",
+    "name": "Sauce aux Champignons 500ml",
+    "description": "Champignons dans leur sauce pour accompagner ce que vous préférez.",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-217",
+    "name": "Soupe Covarachía 500ml",
+    "description": "Soupe mexicaine",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-218",
+    "name": "Soupe aux épinards 500ml",
+    "description": "Soupe aux épinards.",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-219",
+    "name": "Soupe à l'oignon 500ml",
+    "description": "Soupe à l'oignon.",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-220",
+    "name": "Hogao 500ml",
+    "description": "Ajoutez la saveur de la Colombie.",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-221",
+    "name": "Pâte de Maïs 500ml",
+    "description": "Notre pâte prête pour les crêpes ou les gaufres.",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-222",
+    "name": "Pâte De Yucca",
+    "description": "Notre pâte prête pour crêpes ou gaufres (Pâte surgelée).",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-223",
+    "name": "Vinaigrette à la Moutarde 250ml",
+    "description": "Vinaigrette où la moutarde est le protagoniste. Utilisez-le pour accompagner ce que vous aimez le plus ! Portions suggérées 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-224",
+    "name": "Vinaigrette Balsamique 250ml",
+    "description": "Mélange parfait de vinaigre balsamique, d'huile d'olive et de miel. Portions suggérées 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-225",
+    "name": "Vinaigrette Orientale 250ml",
+    "description": "Vinaigrette avec un mélange de vinaigres, de moutarde et une touche aigre-douce.",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-226",
+    "name": "Poivre Lomito 500 ml",
+    "description": "Longe classique à la sauce au poivre Putumayo.",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-227",
+    "name": "Sauce Mexicaine 500 ml",
+    "description": "Sauce épicée aux tomates rouges et au piment chipotle",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-228",
+    "name": "Sauce Parmesan 500 ml",
+    "description": "Sauce à base de parmesan, crème épaisse et poivre noir.",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-229",
+    "name": "Stroganoff 500 ml",
+    "description": "Longe en julienne et champignons",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-230",
+    "name": "Poulet 500 ml",
+    "description": "Notre sauce au poulet classique",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-231",
+    "name": "Poulet Thaï 500 ml",
+    "description": "Poulet dans un mélange de saveurs orientales à base de curry et de fruit de la passion.",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-232",
+    "name": "Cochinita Pibil 500 ml",
+    "description": "Porc effiloché, mariné aux agrumes et au rocou. Cuire à feu doux.",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-233",
+    "name": "Soupe Ahuyama 500lt",
+    "description": "Soupe de potiron. Faites-le chauffer à feu doux !",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-234",
+    "name": "Soupe aux lentilles 500ml",
+    "description": "Avec champignons et portobellos, lentilles beluga et une légère touche d'épices indiennes.",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-235",
+    "name": "Gelée de Goyave 500ml",
+    "description": "Sauce gelée de goyave classique pour créer de doux moments.",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-236",
+    "name": "Gelée de Goyave 250ml",
+    "description": "Sauce gelée de goyave classique pour créer de doux moments.",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-237",
+    "name": "Coulis de Fruit de la Passion 500 ml",
+    "description": "Sauce à l'extrait de fruit de la passion. Vous pouvez l'utiliser dans les desserts ou les plats aigre-doux.",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-238",
+    "name": "Coulis de Fruits de la Passion 250ml",
+    "description": "Sauce à l'extrait de fruit de la passion. Vous pouvez l'utiliser dans les desserts ou les plats aigre-doux.",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-239",
+    "name": "Sauce Maison 1lt",
+    "description": "Sauce à base de poivrons rôtis et de tomates",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-240",
+    "name": "Sauce curry 1 litre",
+    "description": "L'Inde avec ses épices nous donne toute sa saveur. Utilisez-le avec du poulet, des crevettes ou des légumes.",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-241",
+    "name": "Sauce bolognaise 1lt",
+    "description": "C'est ainsi que l'Italie a le goût, comme la Bolognese. Utilisez-le avec des crêpes ou des pâtes. Ajoutez du parmesan.",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-242",
+    "name": "Sauce Napolitaine 1lt",
+    "description": "Tomates préparées aux saveurs de l'Italie",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-243",
+    "name": "Soupe Covarachía 1lt",
+    "description": "Soupe mexicaine. Faites-le chauffer à feu doux !",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-244",
+    "name": "Soupe aux épinards 1lt",
+    "description": "Soupe aux épinards. Faites-le chauffer à feu doux !",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-245",
+    "name": "Soupe à l'oignon 1lt",
+    "description": "Soupe à l'oignon. Faites-le chauffer à feu doux !",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-246",
+    "name": "Sauce Mexicaine 1lt",
+    "description": "Sauce épicée aux tomates rouges et au piment chipotle",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-247",
+    "name": "Sauce au parmesan 1 litre",
+    "description": "Sauce à base de parmesan, crème épaisse et poivre noir.",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-248",
+    "name": "Soupe Ahuyama 1lt",
+    "description": "Soupe de potiron. Faites-le chauffer à feu doux !",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-249",
+    "name": "Soupe aux lentilles 1lt",
+    "description": "Avec champignons et portobellos, lentilles beluga et une légère touche d'épices indiennes.",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-250",
+    "name": "Soupe La Vie en Verts 500ml",
+    "description": "Crème moelleuse de verdure et maïs tendre. Faites-le chauffer à feu doux. Portions suggérées : 1,5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-251",
+    "name": "Soupe Life in Greens 1lt",
+    "description": "Crème moelleuse de verdure et maïs tendre. Faites-le chauffer à feu doux. Portions suggérées : 3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-252",
+    "name": "Soupe d'Automne au Soja 500ml",
+    "description": "Explosion de légumes aux haricots. Faites-le chauffer à feu doux. Portions suggérées : 1,5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "CRÊPES À LA MAISON"
+  },
+  {
+    "id": "product-253",
+    "name": "Soupe d'Automne au Soja 1lt",
+    "description": "Explosion de légumes aux haricots. Faites-le chauffer à feu doux. Portions suggérées : 3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "CRÊPES À LA MAISON"
+  }
+]

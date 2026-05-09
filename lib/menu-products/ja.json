@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "ヌテラクレープ",
+    "description": "シャンティ入りヌテラクレープ。",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-2",
+    "name": "ヌテラバナナクレープ",
+    "description": "バナナのスライスとシャンティ クリームを添えたヌテラ クレープ。",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-3",
+    "name": "赤ちゃん人形",
+    "description": "フレッシュバナナ、バニラアイスクリーム、クルミ、ホットチョコレート、シャンティクリームを添えたクレープ。",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-4",
+    "name": "クレオパトラ",
+    "description": "バナナとイチゴのスライス、ブラックベリーのアイスクリーム、シャンティ クリーム、グレープとウスター ソース。",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-5",
+    "name": "モンブラン",
+    "description": "ホワイトチョコレートクレープにイチゴとシャンティークリームを添えました。",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-6",
+    "name": "チョコレートフォンデュ",
+    "description": "イチゴとバナナにチョコレート、バニラアイスクリーム、シャンティクリームを乗せたクレープ。",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "スイートクレープ"
+  },
+  {
+    "id": "product-7",
+    "name": "バニラチョコアーモンド(470ml)",
+    "description": "トーストしたアーモンドとチョコレートファッジを添えたバニラアイスクリーム。",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-8",
+    "name": "ストラッチャテッラ パッションフルーツ (470ml)",
+    "description": "トロピカル・パッション：ダークチョコレートとパッションフルーツの葉っぱ。",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-9",
+    "name": "ルラーダ (470ml)",
+    "description": "水に入ったルロアイスクリーム。",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-10",
+    "name": "グアバヨーグルト(470ml)",
+    "description": "グアバの葉が入ったヨーグルトアイスクリーム。",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-11",
+    "name": "ドゥルセ デ レーチェ (470ml)",
+    "description": "アルゼンチンのドゥルセ・デ・レーチェとストラッチャテッラ。",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-12",
+    "name": "アマレナス入りギリシャヨーグルト (470ml)",
+    "description": "イタリア産イエローチェリーを添えたギリシャヨーグルトアイスクリーム。",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-13",
+    "name": "バラの花びら",
+    "description": "バラの花びらのアイスクリーム",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-14",
+    "name": "マンゴーラッシー",
+    "description": "ギリシャヨーグルトとシュガーマンゴーで作られており、フルーティーで爽やかな味わいです。",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "季節のアイスクリーム（470ML）"
+  },
+  {
+    "id": "product-15",
+    "name": "ブラックベリージュース 11オンス",
+    "description": "天然ブラックベリージュースを水または牛乳に溶かしたもの 11オンス",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-16",
+    "name": "マンゴージュース 11オンス",
+    "description": "天然マンゴージュースを水または牛乳に溶かしたもの 11 オンス",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-17",
+    "name": "ストロベリージュース 11オンス",
+    "description": "天然イチゴジュースを水または牛乳に溶かしたもの 11 オンス",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-18",
+    "name": "サワーサップジュース 11オンス",
+    "description": "天然サワーサップジュースを水または牛乳に溶かしたもの 11 オンス",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-19",
+    "name": "パイナップル、ジンジャー、ペパーミント 11オンス",
+    "description": "フレッシュフルーツミックス入りスムージー 11オンス",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-20",
+    "name": "マンゴービッシュレモネード 9オンス",
+    "description": "ビッシュ マンゴー レモネード 9 オンス",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-21",
+    "name": "ナチュラルレモネード 11オンス",
+    "description": "ナチュラルレモネード 11オンス",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-22",
+    "name": "ココナッツ レモネード 9オンス",
+    "description": "ココナッツミルクとレモンのレモネード 9オンス",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-23",
+    "name": "ペパーミント レモネード 9 オンス",
+    "description": "ペパーミント レモネード 9 オンス",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-24",
+    "name": "ジョイ 11 オンス",
+    "description": "マンゴー、パッションフルーツ、パイナップルのスムージー 11オンス",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-25",
+    "name": "ウェルネス 11 オンス",
+    "description": "リンゴ、洋ナシ、フェイジョア、ミントのスムージー 11 オンス",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-26",
+    "name": "ピーチジュース 9オンス",
+    "description": "天然桃ジュース in ミルク 9 オンス",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-27",
+    "name": "フェイジョアジュース 11オンス",
+    "description": "天然フェイジョアジュース水溶液 11 オンス",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-28",
+    "name": "ラズベリージュース",
+    "description": "天然ラズベリージュースを水に溶かしたもの。",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-29",
+    "name": "みかんジュース 11オンス",
+    "description": "みかんジュース 11オンス",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "天然ジュース"
+  },
+  {
+    "id": "product-30",
+    "name": "播種水 477ml",
+    "description": "播種水500ml。",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-31",
+    "name": "コカ・コーラ オリジナル 300ml",
+    "description": "コカ・コーラ オリジナルソフトドリンク 300ml。",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-32",
+    "name": "シュウェップス ジンジャーエール 300ml",
+    "description": "シュウェップス ジンジャーソーダ 300ml。",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-33",
+    "name": "静泉水 500ml",
+    "description": "湧き水 500ml。",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-34",
+    "name": "コカ・コーラ ゼロ 300ml",
+    "description": "コカ・コーラ ソーダ 無糖 330ml。",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-35",
+    "name": "スパークリングスプリングウォーター 300ml",
+    "description": "炭酸泉水 300ml。",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "その他のドリンク"
+  },
+  {
+    "id": "product-36",
+    "name": "クラブコロンビア 330ml",
+    "description": "ラガータイプのビール。アルコール度数：4.7％。原産国：コロンビア",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "ビール"
+  },
+  {
+    "id": "product-37",
+    "name": "ステラ アルトワ 330ml",
+    "description": "ラガータイプのビール。",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "ビール"
+  },
+  {
+    "id": "product-38",
+    "name": "モンセラーテ ビール 330ml",
+    "description": "フルーティでホップがたっぷり入った赤いビール。フルボディでバランスのとれた香り。",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "ビール"
+  },
+  {
+    "id": "product-39",
+    "name": "ほうれん草のスープ",
+    "description": "庭からほうれん草のスープをご自宅にお届けします。当然の美味しさ。。",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-40",
+    "name": "チキン入りメキシカンスープ",
+    "description": "メキシコの味: チポトレチリ、サワークリーム、チーズ、アボカド、チキン、ピコデガロ、メキシコのトルティーヤ。",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-41",
+    "name": "パディンレンズ豆のスープ",
+    "description": "マッシュルームとポートベロのスープにインドのスパイスを軽く加えたもの。",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-42",
+    "name": "コバラキアのスープ",
+    "description": "トマト、コーン、バナナ、アボカド、サワークリーム、コリアンダーを加えて、この土地の風味の価値を強調したスープです。",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-43",
+    "name": "太陽のスープ",
+    "description": "ヤギのチーズとペスト、ピタパン、コリアンダーを加えたカボチャのスープ。",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-44",
+    "name": "グリーンスープの生活",
+    "description": "野菜と柔らかいコーンのソフトクリーム。",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "スープ"
+  },
+  {
+    "id": "product-45",
+    "name": "チキン、チーズ、キノコ",
+    "description": "チキンクレープ＋チーズ＋キノコ＝いつでもおいしい。",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-46",
+    "name": "チキンカレー",
+    "description": "カレーソースのチキンクレープ。",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-47",
+    "name": "メキシカントリュフチキン",
+    "description": "ウイトラコチェ、アボカド、チーズソースを添えたメキシコ風味のクレープです。",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-48",
+    "name": "チキン、ブロッコリー、チーズ",
+    "description": "チキンクレープ＋ブロッコリー＋チーズ＝シンプルに美味しい。",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-49",
+    "name": "メキシカンチキン",
+    "description": "メキシコ風チキンとチポトレソース、粉チーズ、レタス、サワークリーム、チリ、ピコデガロ。 (少し辛い)",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-50",
+    "name": "タイのチキン",
+    "description": "鶏の胸肉とポートベロマッシュルームのクレープ。カレーとパッションフルーツをベースにオリエンタルな風味をミックスしました。",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-51",
+    "name": "ロザリト チキン",
+    "description": "メキシカンソースのチキンクレープ、チポトレ、アボカドアーチ、フレンチビーンズ入り。",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-52",
+    "name": "インディアンチキン",
+    "description": "インド風カレーチキンクレープ、ピーナッツ、レーズン、マンゴーチャツネ入り。",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-53",
+    "name": "チキンとチーズ",
+    "description": "ソースとチーズのクラシックなチキンクレープ。",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-54",
+    "name": "鶏肉とキノコ",
+    "description": "チキンクレープ＋キノコ＝いつでも美味しい。",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-55",
+    "name": "ペルー産チキン",
+    "description": "アヒ・デ・ガリーナ・リマの典型的な調理法、オリーブソースと紫オリーブ、ルッコラと卵。 （少し辛い）。",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-56",
+    "name": "チキンクレープ チリパンカ添え",
+    "description": "ペルーの風味をすべて詰め込んだチキンクレープ。コリアンダービーンズピューレ、アボカド、ルッコラ、パプリカフィラメント、レッドオニオン入り。 （少し辛い）。",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-57",
+    "name": "チキン、アーティチョーク、チーズ",
+    "description": "チキンクレープ、アーティチョーク、チーズソース",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "チキンクレープ"
+  },
+  {
+    "id": "product-58",
+    "name": "ボロネーゼとチーズ",
+    "description": "ボロネーゼクレープ + チーズ = 私たちのことを覚えてもらう最も簡単な方法です。",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-59",
+    "name": "ボロネーゼ、チーズ、キノコ",
+    "description": "ボロネーゼクレープ + チーズ + マッシュルーム = 良い組み合わせ",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-60",
+    "name": "ボロネーゼ、ハム、チーズ",
+    "description": "ボロネーゼクレープ + ハム + チーズ = 間違いない",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-61",
+    "name": "ストロガノフ",
+    "description": "ロース肉の千切りとキノコをソースに絡めたクレープ。",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-62",
+    "name": "CR子牛",
+    "description": "牛肉のソースが入ったクレープ。",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-63",
+    "name": "牛肉とキノコ",
+    "description": "ビーフクレープ + キノコ = 誰の為に過去が存在するのか。",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-64",
+    "name": "メキシコ人",
+    "description": "ボロネーゼ、粉チーズ、レタス、メキシカンソース、サワークリーム、チリ、ピコデガロ。",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-65",
+    "name": "アラビアロース",
+    "description": "中東スパイスを効かせたロースクレープとサラダを最高のスタイルで。",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-66",
+    "name": "ブエルティアンハット",
+    "description": "熟したバナナのピューレにホガオを乗せ、サワークリーム、アボカド、ピコ・デ・ガロを添えた細切り肉のクレープ。",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-67",
+    "name": "ローストビーフ",
+    "description": "ローストビーフとチーズのスライス、ローストオニオン、ルッコラ、チポトレマヨネーズ、オニオンザワークラウトが幻想的な味わいを生み出します。 （少し辛い）。",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-68",
+    "name": "コチニータ ピビル",
+    "description": "メキシコ風の細切り豚肉に、柑橘系の香りとアボカド、ピコデガロ、玉ねぎのピクルス、サワークリームを添えました。",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-69",
+    "name": "ペッパーロミト",
+    "description": "ロース肉の千切りをペッパーソースで和えたクレープ。",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "ミートクレープ"
+  },
+  {
+    "id": "product-70",
+    "name": "ハムとチーズのクレープ",
+    "description": "ハム＋チーズクレープ＝初めて試したもの。",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-71",
+    "name": "ハム、チーズ、キノコ",
+    "description": "ハム + チーズ + マッシュルーム クレープ = 時代を超越した味わい。",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-72",
+    "name": "ターキーオランダチーズとディジョネーズソース",
+    "description": "七面鳥の胸肉クレープ + チーズ + ディジョネ = 良い思い出。",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-73",
+    "name": "コロンビアセンセーション",
+    "description": "細切り肉、チーズ、卵、サワークリーム、伝統的なホガオを添えたクレープです。",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-74",
+    "name": "センセーション",
+    "description": "スモークハム、オランダチーズ、卵。タマネギやトマトと一緒に注文してください。",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-75",
+    "name": "フレンチコネクション",
+    "description": "スモークハム、リコッタチーズ、シロップを添えたクレープ。",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "クラシッククレープ"
+  },
+  {
+    "id": "product-76",
+    "name": "イカのハウスソース添え",
+    "description": "自家製ソースのイカクレープ。",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-77",
+    "name": "カラマリのカレーソース",
+    "description": "カラマリクレープのカレーソース添え。",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-78",
+    "name": "エビのハウスソース漬け",
+    "description": "自家製ソースの海老クレープ。",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-79",
+    "name": "ガーリックシュリンプ",
+    "description": "海老クレープのガーリックソース添え。",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-80",
+    "name": "エビのカレーソース",
+    "description": "カレーソースの海老クレープ。",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-81",
+    "name": "ロザリトシュリンプ",
+    "description": "エビのメキシカンソース添え、チポトレ、アボカドアーチ、フォーティノスビーンズ。",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-82",
+    "name": "クラブヤシのハウスソース漬け",
+    "description": "クラブパームクレープを自家製ソースで。",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-83",
+    "name": "カニヤシのカレーソース添え",
+    "description": "カニヤシのクレープをカレーソースで和えました。",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-84",
+    "name": "サーモンロール",
+    "description": "スモークサーモンをルッコラ、クリームチーズ、マスタード、玉ねぎ、アボカド、シャキシャキの新鮮な野菜と一緒に巻きました。グリーンサラダも添えてあります。",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-85",
+    "name": "エンコカド シークレープ",
+    "description": "タコ、エビ、イカ、エビをブラックキヌアに乗せ、ココナッツソースに浸し、カリカリとしたココナッツの風味を添えます。",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "シーフルーツクレープ"
+  },
+  {
+    "id": "product-86",
+    "name": "ポブラナ",
+    "description": "さまざまなチーズ、アボカド、ピコ・デ・ガロ、サワーソース、レタス、そしておいしいメキシコ風のチリ。",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-87",
+    "name": "ノーマン",
+    "description": "新鮮なキノコ、種類豊富なチーズ、キノコソース。",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-88",
+    "name": "トスカーナ",
+    "description": "チーズ、トマト、バジル、フレッシュマッシュルーム、マッシュルーム、ナポリタンソース。",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-89",
+    "name": "ヤギ",
+    "description": "ソテーしたキノコ、サンドライトマト、フレッシュトマト、ペスト、バルサミコソース、水牛モッツァレラ。",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-90",
+    "name": "ガーリックマッシュルーム",
+    "description": "キノコのクレープとチーズのガーリックソース。",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-91",
+    "name": "シチリア島",
+    "description": "水牛モッツァレラ、フレッシュトマト、ドライトマト、バジルのクレープ。",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-92",
+    "name": "マッシュルーム、アーティチョーク、チーズ",
+    "description": "マッシュルーム、アーティチョーク、チーズのクレープ。",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-93",
+    "name": "ローマ人",
+    "description": "水牛モッツァレラチーズのクレープ、バジルとパルメザンチーズのナポリタンソース。",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "ベジタリアンクレープ"
+  },
+  {
+    "id": "product-94",
+    "name": "地中海サラダ",
+    "description": "エビとイカ、ペスト、レタス、セロリ、マッシュルーム、玉ねぎ、オリーブ、バルサミコ、オリーブオイルのサラダ。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-95",
+    "name": "フィレンツェ風サラダ",
+    "description": "水牛モッツァレラ、さまざまな有機レタス、フレッシュバジル、ドライトマト、フレッシュトマト、チェリートマト、マッシュルーム、ペスト、アボカド、ブラックオリーブ、バルサミコ酢、オリーブオイル。",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-96",
+    "name": "タイ風サラダ",
+    "description": "ゴマとバジルを添えた七面鳥の胸肉、さまざまな有機レタス、ルッコラ、セロリ、マッシュルーム、パプリカ、チェリートマト、クリスピーオニオン、オリエンタルビネグレットソース。",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-97",
+    "name": "エビのモロッコ風サラダ",
+    "description": "スパイスで作ったクスクス、アボカド、マンゴーチャツネ、トーストしたキヌア、モロッコ風ビネグレットソースがかかったグリーンサラダ。",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-98",
+    "name": "チキンのシーザーサラダ",
+    "description": "クラシックなシーザーサラダ、クルトン、チェリートマト、パルメザンチーズ。ライ麦パンと一緒に。",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-99",
+    "name": "シーザーサラダ",
+    "description": "レタス、シーザーソース、クルトン、パルメザンチーズのシーザーサラダ。",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-100",
+    "name": "バーサラダ",
+    "description": "サラダ：サラダを組み立ててお召し上がりください。",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-101",
+    "name": "バルパライソサラダ",
+    "description": "スモークサーモンのフィレのメルケン添え、ブラックキヌア、パルメザンチーズとグラナパダーノを添えたケール、刻んだトマト、アボカド、アラビア風ヴィネグレットソースを添えて。",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-102",
+    "name": "ツナサラダ",
+    "description": "マグロのハラミ、各種有機レタス、ルッコラ、キュウリ、バジル、マッシュルーム、セロリ、アボカド、チェリートマト、ブラックオリーブ、ハーブビネグレット、オリーブオイル。アラビアパンも添えて",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-103",
+    "name": "地中海イカのサラダ",
+    "description": "イカ、ペスト、レタス、セロリ、マッシュルーム、玉ねぎ、オリーブ、バルサミコ、オリーブオイルのサラダ。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-104",
+    "name": "地中海風エビのサラダ",
+    "description": "エビ、ペスト、レタス、セロリ、マッシュルーム、玉ねぎ、オリーブ、バルサミコ、オリーブオイルのサラダ。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-105",
+    "name": "トリナサラダ",
+    "description": "水牛のモッツァレラチーズをセラーノハムで包み、カラメル玉ねぎとトリノペッパー、各種レタス、ルッコラ、チェリートマト、ディジョンマスタードベースのビネグレットソースを添えます。ライ麦パンと一緒に。",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-106",
+    "name": "モロッコ風チキンサラダ",
+    "description": "スパイスで作ったクスクス、アボカド、マンゴーチャツネ、トーストしたキヌア、モロッコ風ビネグレットソースがかかったグリーンサラダ。",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-107",
+    "name": "ポルトフィーノサラダ",
+    "description": "フェタチーズ、ドライトマト、レタス、ルッコラ、バジル、ブラックオリーブ、フレッシュトマトとチェリートマト、マッシュルーム、レッドオニオン、ペスト、上質なハーブのビネグレットソース。",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "サラダ"
+  },
+  {
+    "id": "product-108",
+    "name": "パンクックチキンカレー",
+    "description": "カレーソースにチキンを添えた職人のパンのパンクック。",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-109",
+    "name": "パンクックチキン",
+    "description": "職人のパンに伝統的なチキンソースを添えたパンクック。",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-110",
+    "name": "パンクック チキン、チーズ、キノコ",
+    "description": "職人のパンにチキン、マッシュルームソース、チーズを添えたパンクック。",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-111",
+    "name": "パンクックシュリンプのハウスソース添え",
+    "description": "職人のパンに海老を自家製ソースで絡めたパンクック。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-112",
+    "name": "パンクック イカのハウスソース添え",
+    "description": "イカの自家製ソースを添えた職人のパンのパンクック。",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-113",
+    "name": "パンクックカラマリのカレーソース添え",
+    "description": "イカのカレーソースを添えた職人のパンのパンクック。",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-114",
+    "name": "パンクック パームハートのカーサソース添え",
+    "description": "地元のソースでカニのハツを添えた職人のパンのパンクック",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-115",
+    "name": "パームクックハートのカレーソース添え",
+    "description": "カレーソースにカニのハツを入れた職人のパンのパンクック。",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-116",
+    "name": "パンクック子牛肉",
+    "description": "職人のパンにビーフソースを添えたパンクック。",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-117",
+    "name": "パンクックビーフとキノコ",
+    "description": "職人のパンにビーフソースとマッシュルームソースを添えたパンクック。",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-118",
+    "name": "パンクック ストロガノフ",
+    "description": "伝統的なストロガノフソースを使った職人のパンのパンクック。",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-119",
+    "name": "パンクック ガーリックシュリンプ",
+    "description": "職人のパンにエビをガーリックソースで添えたパンクック。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-120",
+    "name": "パンクックチキン、アーティチョークチーズ",
+    "description": "パンクックチキン、アーティチョークチーズ",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-121",
+    "name": "パンクック チキン ブロッコリー チーズ",
+    "description": "パンクック チキン ブロッコリー チーズ",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-122",
+    "name": "パンクック ボロネーゼチーズ",
+    "description": "パンクック ボロネーゼチーズ",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-123",
+    "name": "パンクックシュリンプのカレーソース",
+    "description": "エビのカレーソースが入った職人のパンのパンクック。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "パンクック"
+  },
+  {
+    "id": "product-124",
+    "name": "ターキーピタ",
+    "description": "七面鳥の胸肉、さまざまなチーズ、ディジョネーズソースを詰めたアラビアのパン。",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-125",
+    "name": "ピタモッツァレラポケット",
+    "description": "チーズ、ナポリタンソース、バジル。",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-126",
+    "name": "シチリアのピタ",
+    "description": "チーズ、ナポリタンソース、フレッシュトマト、ドライトマト、バジル、オリーブオイル。",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-127",
+    "name": "ダブルポケットピタ",
+    "description": "スモークハムとさまざまなチーズを詰めたアラビアのパン。",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-128",
+    "name": "ピタカプレッサ",
+    "description": "水牛モッツァレラ、フレッシュトマト、ドライトマト、ルッコラ、ペストを詰めたアラビアパンのピタ。",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-129",
+    "name": "ギリシャ風ピタ",
+    "description": "チーズ、ナポリタンソース、アーティチョーク、紫オリーブ、玉ねぎ、トマト、スパイス",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-130",
+    "name": "ぴたポパイポケット",
+    "description": "ほうれん草、ハム、玉ねぎ、卵、キノコ、トマトを詰めたアラビアのパン、チーズ入りグラタン、黄色のソースと緑色のビネグレットソースを添えて。",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-131",
+    "name": "ベジタリアンピタ",
+    "description": "チーズ、ナポリタンソース、マッシュルーム、玉ねぎ、トマト、パプリカ、セロリ",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-132",
+    "name": "アラビア風チキンピタ",
+    "description": "焼いた鶏の胸肉、レタス、タヒニ、オリーブの小片、玉ねぎのピクルス",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "ピタス"
+  },
+  {
+    "id": "product-133",
+    "name": "シンプルなワッフルとアイスクリーム",
+    "description": "ワッフル。アレキップ、チョコレート、ピーチ、ウスターソース、キャラメル、グアバゼリーのいずれかのソースと一緒にご注文ください。",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-134",
+    "name": "シャンティクリームでシンプルに",
+    "description": "ワッフル。アレキップ、チョコレート、ピーチ、ウスターソース、キャラメル、グアバゼリーのいずれかのソースと一緒にご注文ください。",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-135",
+    "name": "スペシャルワッフル",
+    "description": "ワッフルにアイスクリームとシャンティクリームを添えました。甘いソースを 4 つまで選択できます。",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-136",
+    "name": "森のフルーツワッフル",
+    "description": "赤いベリー、バニラアイスクリーム、シャンティクリームを添えたワッフル。",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-137",
+    "name": "ワッフルバターシロップ",
+    "description": "バターとシロップを添えたワッフル。",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-138",
+    "name": "アレキップワッフル",
+    "description": "アレキップソース、バニラ、アレキップアイスクリームとシャンティールクリーム添え",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-139",
+    "name": "アレキップとバナナワッフル",
+    "description": "新鮮なバナナのスライスとアレキップとチョコレート ソース、バニラとアレキップ アイスクリームとシャンティ クリーム。",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-140",
+    "name": "ヌテラワッフル",
+    "description": "バニラアイスクリームとシャンティクリームを添えたワッフル。",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-141",
+    "name": "ヌテラとバナナのワッフル",
+    "description": "ヌテラとフレッシュバナナのスライス、オールドスタイルバニラアイスクリームとシャンティクリーム。",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-142",
+    "name": "ワッフル ドチョクロ",
+    "description": "コーンワッフル、モッツァレラチーズ、沿岸ホエーを使用した 7 レザー。",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-143",
+    "name": "ハニーワッフル",
+    "description": "モンテス・デ・マリア産のバターとはちみつを添えたワッフル。",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-144",
+    "name": "スペシャルワッフル",
+    "description": "サクサクのベルギーワッフル、バニラアイスクリームとシャンティクリーム添え",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-145",
+    "name": "ホワイトチョコレートワッフル",
+    "description": "ワッフル：サクサクのベルギーワッフルにホワイトチョコレートソースを添えました。",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-146",
+    "name": "ワッフルバターとシロップ",
+    "description": "ワッフル：バターとシロップを添えたサクサクのベルギーワッフル。",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-147",
+    "name": "森のフルーツワッフル",
+    "description": "ワッフル：サクサクのベルギーワッフルにベリーソースを添えました。",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-148",
+    "name": "アレキップワッフル",
+    "description": "ワッフル：アレキップを添えたサクサクのベルギーワッフル。",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-149",
+    "name": "ヌテラワッフル",
+    "description": "ワッフル：ヌテラを添えたクリスピーなベルギーワッフル。",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-150",
+    "name": "チョコレートワッフル",
+    "description": "ワッフル：サクサクのベルギーワッフルにチョコレートソースを添えました。",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-151",
+    "name": "キャラメルワッフル",
+    "description": "カリカリのベルギーワッフルにキャラメルソースを添えました。",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "ワッフル"
+  },
+  {
+    "id": "product-152",
+    "name": "誘惑",
+    "description": "バニラ、コーヒー、チョコレートアイスクリームの風味を引き立てるリキュールをたっぷりと含ませたスポンジケーキです。チョコレートソース、クルミ、シャンティクリームと微妙に組み合わされています。",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-153",
+    "name": "アレキップカップ",
+    "description": "おいしいアレキップ アイスクリーム、バナナ スライス、アレキップ ソース、バター クッキー、シャンティ クリーム。",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-154",
+    "name": "バナナスプリット",
+    "description": "バニラ、ストロベリー、チョコレートアイスクリームの古典的な組み合わせ。シャンティクリーム、クルミ、バナナ、チョコレートソース、アレキップを添えて。",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-155",
+    "name": "バニラホットチョコレート",
+    "description": "オールドスタイルバニラアイスクリーム、シャンティクリームとホットチョコレートの間にローストアーモンドが入っており、あなたの味覚を満足させます。",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-156",
+    "name": "シュプリーム",
+    "description": "バニラアイスクリームとバナナスライスをシャンティクリームの間に挟み、チョコレートとアレキップソース、ミニクッキーコーン、ナッツを添えました。",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-157",
+    "name": "パッションフルーツの気まぐれ",
+    "description": "パッションフルーツヨーグルトアイスクリームに、パッションフルーツクーリ、イチゴ、桃、そしてレースクッキーのザクザク感が入っています。",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-158",
+    "name": "キャラメルの哲学",
+    "description": "バニラとキャラメルのアイスクリーム、バナナのスライス、カリカリとした歯ごたえのあるマカダミアとアーモンドが一体となって、人生に意味と風味を与えます。",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-159",
+    "name": "ティラミス",
+    "description": "オールドスタイルバニラアイスクリーム、コニャックを浸したスポンジケーキ、ウスターソース、チョコレートソース、コーヒーソースで味付けしたイタリアの組成物",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-160",
+    "name": "チョコレートとファッジケーキ",
+    "description": "トーストアーモンドとイタリアンクランチをベースに、チョコレートファッジ、ウスターシャー、チョコレートソースを添えたチョコレートとコーヒーのアイスクリームを融合させたものです。",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-161",
+    "name": "スイートチャーム",
+    "description": "ウスターソースをかけたスポンジケーキとアレキップ、コカドアイスクリーム、チョコレートタルトゥフィーノ、ザクザクとしたレースクッキーを添えました。",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-162",
+    "name": "ホワイトレディ",
+    "description": "バニラとチョコレートのアイスクリームにチョコレートソース、クルミ、シャンティクリームを添えました。",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-163",
+    "name": "ヴェスヴィオ山",
+    "description": "ストロベリー、バニラ、レモンのアイスクリームをグレープソースとシャンティクリームで包んだ古典的なイタリアの組み合わせ",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-164",
+    "name": "祭り",
+    "description": "ブラックベリー、ストロベリー、パッションフルーツ、レモン、バニラアイスクリームを添えたスポンジケーキ、バナナ、フレッシュストロベリー、グレープソース、シャンティクリーム。",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-165",
+    "name": "ピーチカップ",
+    "description": "バニラアイスクリームとパッションフルーツヨーグルトに、スライスした桃、パッションフルーツのクーリ、シャンティークリーム、サクサクのレースクッキーを添えました。",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-166",
+    "name": "カプリ島",
+    "description": "アレキップソースとラズベリーソースの間に、カリカリのクッキーにバニラアイスクリームを添え、シャンティクリームを添えました。",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-167",
+    "name": "メレンゲグレーズ",
+    "description": "メレンゲとバニラアイスクリームが、ホットチョコレートソース、クルミ、シャンティクリームと絡み合い、まさに喜びを与えてくれます。",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-168",
+    "name": "ブラウニーカップ",
+    "description": "ブラウニーアイスクリーム キャラメルとチョコレートソース添え",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-169",
+    "name": "バナナロイヤル",
+    "description": "バニラとチョコレートのアイスクリーム、ストロベリー、バナナ、チョコレートソース、サクサクのレースクッキー、シャンティクリーム。",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-170",
+    "name": "アーティザン アイスクリーム 800ml ヴィーガン",
+    "description": "アーモンドミルクとココナッツミルクを使ったアイスクリームです。",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-171",
+    "name": "職人のアイスクリームリットルとハーフビーガン",
+    "description": "アーモンドミルクとココナッツミルクを使ったアイスクリームです。",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-172",
+    "name": "グラス1 ビーガンフレーバー",
+    "description": "アイスクリーム：お好みのフレーバーをお選びください。",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-173",
+    "name": "グラス2種類のビーガンフレーバー",
+    "description": "アイスクリーム：2種類のフレーバーをお選びください。",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-174",
+    "name": "リマカップ",
+    "description": "バニラアイスクリームにアレキップソース、ベリー、メレンゲ、サワーソップフレーク、シャンティクリームを添えました。",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-175",
+    "name": "アルテサーノ アイスクリーム 800ml",
+    "description": "アイスクリーム：フレーバーを2つまでお選びいただけます。",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-176",
+    "name": "アルテサーノ アイスクリーム 1.5lt",
+    "description": "アイスクリーム：フレーバーを2つまでお選びいただけます。",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-177",
+    "name": "アイスクリーム味のグラス",
+    "description": "アイスクリーム：お好みのフレーバーをお選びください。",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-178",
+    "name": "2 つのフレーバーのアイスクリームのグラス",
+    "description": "アイスクリーム：2種類のフレーバーをお選びください。",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-179",
+    "name": "ミルクセーキ",
+    "description": "ミルクシェイク：お好みのフレーバーをお選びください。",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-180",
+    "name": "3つの味のアイスクリームのグラス",
+    "description": "3つの味をお選びください。",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-181",
+    "name": "コーン×10個",
+    "description": "ワッフルコーン。",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-182",
+    "name": "コーン×4個",
+    "description": "ワッフルコーン。",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-183",
+    "name": "小さなスイートアイスクリームキット",
+    "description": "小さなスイートアイスクリームキット",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-184",
+    "name": "ラージスイートアイスクリームKIT",
+    "description": "お好みのアイスクリームを楽しんで、ソースやさまざまな組み合わせをお楽しみください。キットには、1.5リットルのアルテサーノ、最大2つのフレーバー、ショートブレッドクッキー、クッキーコーン10個、ソースが含まれています。",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-185",
+    "name": "アルティザン ドバイ チョコレート 800ml",
+    "description": "カダイフとダークチョコレートを添えたピスタチオアイスクリーム。",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-186",
+    "name": "アーティザン 1.5L チョコレート ドバイ",
+    "description": "カダイフとダークチョコレートを添えたピスタチオアイスクリーム。",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-187",
+    "name": "ドバイチョコレート グラス1ボール",
+    "description": "カダイフとダークチョコレートを添えたピスタチオアイスクリーム。",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-188",
+    "name": "ドバイチョコレートボール2個入りグラス",
+    "description": "カダイフとダークチョコレートを添えたピスタチオアイスクリーム。",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "アイスクリーム"
+  },
+  {
+    "id": "product-189",
+    "name": "ミニハニーワッフル",
+    "description": "モンテス・デ・マリアのバターとはちみつ入りミニワッフル。",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-190",
+    "name": "トラディショナルミニワッフル",
+    "description": "バターとシロップを添えたミニワッフル。",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-191",
+    "name": "ミニワッフルアレキップ",
+    "description": "ミニワッフルにバニラアイスクリームとシャンティクリームを添えました。",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-192",
+    "name": "ミニフォレストフルーツワッフル",
+    "description": "レッドベリー、バニラアイスクリーム、シャンティクリームを添えたミニワッフル。",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-193",
+    "name": "ミニヌテラワッフル",
+    "description": "ミニワッフルにバニラアイスクリームとシャンティクリームを添えました。",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-194",
+    "name": "ミニ デュカ ワッフル",
+    "description": "バター、有機ブラウンシュガー、グアバゼリーを添えたミニワッフル。",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-195",
+    "name": "ミニチョコレートワッフル",
+    "description": "バニラアイスクリームとシャンティクリームを添えて。",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-196",
+    "name": "ダブルデュカ ミニワッフル",
+    "description": "バター、有機ブラウンシュガー、グアバゼリーを添えたミニワッフル 2 枚。",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "ミニワッフル"
+  },
+  {
+    "id": "product-197",
+    "name": "ピギーアイスクリーム",
+    "description": "ピギーアイスクリーム",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "お子様用アイスクリーム"
+  },
+  {
+    "id": "product-198",
+    "name": "サミー",
+    "description": "ペンギンとバニラアイスクリーム",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "お子様用アイスクリーム"
+  },
+  {
+    "id": "product-199",
+    "name": "天秤座 - コーヒー豆 500gr",
+    "description": "Crepes & Waffles が毎日焙煎し、包装した 100% コロンビア産の優れたコーヒーです。",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "コーヒーと楽しみ"
+  },
+  {
+    "id": "product-200",
+    "name": "天秤座 - 挽いたコーヒー 500gr",
+    "description": "Crepes & Waffles が毎日焙煎し、包装した 100% コロンビア産の優れたコーヒーです。",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "コーヒーと楽しみ"
+  },
+  {
+    "id": "product-201",
+    "name": "赤ワイン - アモレティント 750ml",
+    "description": "赤ワインのボトル。品種：メルロー 原産地：チリ。",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-202",
+    "name": "白ワイン - アモレティント 750ml",
+    "description": "白ワインのボトル。株: Gewurstraminier 原産地: チリ。",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-203",
+    "name": "プロセッコ 750ml",
+    "description": "プロセッコワインのボトル。株：グレラ 原産地：イタリア。",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-204",
+    "name": "赤ワイン 1/2 ボトル - AMORETINTO375ml",
+    "description": "ハーフボトルの赤ワイン。品種：メルロー 原産地：チリ。",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-205",
+    "name": "白ワイン 1/2 ボトル -AMORETINTO375ml",
+    "description": "白ワインのハーフボトル。株: Gewurstraminier 原産地: チリ。",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-206",
+    "name": "プロセッコ 1/2ボトル 375ml",
+    "description": "ハーフボトルのプロセッコワイン。株：グレラ 原産地：イタリア。",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "ワイン"
+  },
+  {
+    "id": "product-207",
+    "name": "森のフルーツソース 250ml",
+    "description": "ブラックベリー、ストロベリー、ラズベリー、ブラックベリー、ブルーベリーのクラシックなミックス。",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-208",
+    "name": "ワッフル生地 500ml",
+    "description": "パンケーキやワッフルの生地が完成しました。",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-209",
+    "name": "アレキップソース 500ml",
+    "description": "クラシックは甘いひとときを演出するのに最適です。",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-210",
+    "name": "ペスト 250ml",
+    "description": "バジル、オリーブオイル、パルメザンチーズ、クルミをベースにした調理。",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-211",
+    "name": "ほがお 250ml",
+    "description": "コロンビアの風味を加えます。",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-212",
+    "name": "ハウスソース 500ml",
+    "description": "ローストピーマンとトマトをベースにしたソース。",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-213",
+    "name": "カレー 500ml",
+    "description": "インドはスパイスが豊かで、私たちにその風味を与えてくれます。鶏肉、エビ、野菜などと一緒にお使いください。",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-214",
+    "name": "ボロネーゼ 500ml",
+    "description": "これがイタリアのボロネーゼの味です。クレープやパスタと一緒にお使いください。パルメザンチーズを加えます。",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-215",
+    "name": "ナポリタン 500ml",
+    "description": "イタリアの味を活かしたトマト。",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-216",
+    "name": "マッシュルームソース 500ml",
+    "description": "キノコのソースを添えて、お好みのものを添えてください。",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-217",
+    "name": "コヴァラシア スープ 500ml",
+    "description": "メキシコのスープ",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-218",
+    "name": "ほうれん草スープ 500ml",
+    "description": "ほうれん草のスープ。",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-219",
+    "name": "オニオンスープ 500ml",
+    "description": "オニオンスープ。",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-220",
+    "name": "ほがお 500ml",
+    "description": "コロンビアの風味を加えます。",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-221",
+    "name": "コーン生地 500ml",
+    "description": "パンケーキやワッフルの生地が完成しました。",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-222",
+    "name": "ユッカ生地",
+    "description": "パンケーキやワッフルに使える生地（冷凍生地）です。",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-223",
+    "name": "マスタードビネグレット 250ml",
+    "description": "マスタードが主役のビネグレットソース。あなたの好きなものと一緒にそれを使ってください！推奨摂取量3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-224",
+    "name": "バルサミコビネグレット 250ml",
+    "description": "バルサミコ酢、オリーブオイル、蜂蜜の完璧な混合物。推奨摂取量3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-225",
+    "name": "オリエンタル ビネグレット 250ml",
+    "description": "酢、マスタードを混ぜ合わせた甘酸っぱいビネグレットソース。",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-226",
+    "name": "ペッパーロミト 500ml",
+    "description": "クラシックなロース肉のプトゥマヨペッパーソース添え。",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-227",
+    "name": "メキシカンソース 500ml",
+    "description": "スパイシーな赤いトマトとチポトレペッパーソース",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-228",
+    "name": "パルメザンソース 500ml",
+    "description": "パルメザンチーズ、生クリーム、ブラックペッパーをベースにしたソース。",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-229",
+    "name": "ストロガノフ 500ml",
+    "description": "千切りロースとマッシュルーム",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-230",
+    "name": "チキン 500ml",
+    "description": "当店の定番チキンソース",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-231",
+    "name": "タイチキン 500ml",
+    "description": "カレーとパッションフルーツをベースにオリエンタルな味わいをミックスしたチキン。",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-232",
+    "name": "コチニータ ピビル 500ml",
+    "description": "豚肉の細切りを柑橘類とアナトーでマリネしたもの。弱火で調理します。",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-233",
+    "name": "アフヤマスープ 500lt",
+    "description": "かぼちゃのスープ。弱火で加熱してください！",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-234",
+    "name": "レンズ豆のスープ 500ml",
+    "description": "マッシュルーム、ポートベロ、シロイルカレンズ豆、軽いタッチのインドのスパイスが入っています。",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-235",
+    "name": "グアバゼリー 500ml",
+    "description": "甘いひとときを演出する定番のグアバゼリーソース。",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-236",
+    "name": "グアバゼリー 250ml",
+    "description": "甘いひとときを演出する定番のグアバゼリーソース。",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-237",
+    "name": "パッションフルーツクーリ 500ml",
+    "description": "パッションフルーツエキスを加えたソース。デザートや甘酸っぱい料理にもお使いいただけます。",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-238",
+    "name": "パッションフルーツクーリ 250ml",
+    "description": "パッションフルーツエキスを加えたソース。デザートや甘酸っぱい料理にもお使いいただけます。",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-239",
+    "name": "ハウスソース 1lt",
+    "description": "ローストピーマンとトマトをベースにしたソース",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-240",
+    "name": "カレーソース 1lt",
+    "description": "インドはスパイスが豊かで、私たちにその風味を与えてくれます。鶏肉、エビ、野菜などと一緒にお使いください。",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-241",
+    "name": "ボロネーゼソース 1lt",
+    "description": "これがイタリアのボロネーゼの味です。クレープやパスタと一緒にお使いください。パルメザンチーズを加えます。",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-242",
+    "name": "ナポリタンソース 1lt",
+    "description": "イタリアの味を活かしたトマト",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-243",
+    "name": "コヴァラシアスープ 1lt",
+    "description": "メキシコのスープ。弱火で加熱してください！",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-244",
+    "name": "ほうれん草のスープ 1lt",
+    "description": "ほうれん草のスープ。弱火で加熱してください！",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-245",
+    "name": "オニオンスープ 1lt",
+    "description": "オニオンスープ。弱火で加熱してください！",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-246",
+    "name": "メキシカンソース 1lt",
+    "description": "スパイシーな赤いトマトとチポトレペッパーソース",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-247",
+    "name": "パルメザンソース 1lt",
+    "description": "パルメザンチーズ、生クリーム、ブラックペッパーをベースにしたソース。",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-248",
+    "name": "アフヤマスープ 1lt",
+    "description": "かぼちゃのスープ。弱火で加熱してください！",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-249",
+    "name": "レンズ豆のスープ 1lt",
+    "description": "マッシュルーム、ポートベロ、シロイルカレンズ豆、軽いタッチのインドのスパイスが入っています。",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-250",
+    "name": "ライフイングリーンスープ 500ml",
+    "description": "野菜と柔らかいコーンのソフトクリーム。弱火で加熱します。推奨摂取量: 1.5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-251",
+    "name": "ライフ イン グリーンズ スープ 1lt",
+    "description": "野菜と柔らかいコーンのソフトクリーム。弱火で加熱します。推奨摂取量: 3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-252",
+    "name": "秋の大豆スープ 500ml",
+    "description": "野菜と豆の爆発。弱火で加熱します。推奨摂取量: 1.5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "自宅でクレープ"
+  },
+  {
+    "id": "product-253",
+    "name": "秋の大豆スープ 1lt",
+    "description": "野菜と豆の爆発。弱火で加熱します。推奨摂取量: 3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "自宅でクレープ"
+  }
+]

@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "Nutella Crepe",
+    "description": "Nutella crepe with chantilly.",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-2",
+    "name": "Nutella Banana Crepe",
+    "description": "Nutella crepe with banana slices and chantilly cream.",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-3",
+    "name": "baby doll",
+    "description": "Crepe with fresh banana, vanilla ice cream, walnuts, hot chocolate and chantilly cream.",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-4",
+    "name": "Cleopatra",
+    "description": "Banana and strawberry slices, blackberry ice cream, chantilly cream and grape and Worcestershire sauce.",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-5",
+    "name": "Mont Blanc",
+    "description": "White chocolate crepe with strawberries and chantilly cream.",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-6",
+    "name": "Chocolate Fondue",
+    "description": "Crepe with chocolate on strawberries and banana, vanilla ice cream and chantilly cream.",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "SWEET CREPES"
+  },
+  {
+    "id": "product-7",
+    "name": "Vanilla Chocoalmond (470 ml)",
+    "description": "Vanilla ice cream with toasted almonds and chocolate fudge.",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-8",
+    "name": "Stracciatella Passion Fruit (470 ml)",
+    "description": "Tropical Passion: pieces of dark chocolate and veins of passion fruit.",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-9",
+    "name": "Lulada (470 ml)",
+    "description": "Lulo ice cream in water.",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-10",
+    "name": "Guava Yogurt (470 ml)",
+    "description": "Yogurt ice cream with guava veins.",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-11",
+    "name": "Dulce de Leche (470 ml)",
+    "description": "Argentine Dulce de Leche with stracciatella.",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-12",
+    "name": "Greek Yogurt with Amarenas (470 ml)",
+    "description": "Greek Yogurt Ice Cream with Italian yellow cherries.",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-13",
+    "name": "Rose Petals",
+    "description": "Rose Petal Ice Cream",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-14",
+    "name": "Mango Lassi",
+    "description": "Made with Greek yogurt and sugar mango, it is a fruity and refreshing hug to the palate.",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "SEASONAL ICE CREAM (470 ML)"
+  },
+  {
+    "id": "product-15",
+    "name": "Blackberry Juice 11 Oz",
+    "description": "Natural blackberry juice in water or milk 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-16",
+    "name": "Mango Juice 11 Oz",
+    "description": "Natural mango juice in water or milk 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-17",
+    "name": "Strawberry Juice 11 Oz",
+    "description": "Natural strawberry juice in water or milk 11 Oz",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-18",
+    "name": "Soursop Juice 11 Oz",
+    "description": "Natural soursop juice in water or milk 11 Oz",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-19",
+    "name": "Pineapple, Ginger and Peppermint 11 Oz",
+    "description": "Smoothie with fresh fruit mix 11 Oz",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-20",
+    "name": "Mango Biche Lemonade 9 Oz",
+    "description": "Biche Mango Lemonade 9 Oz",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-21",
+    "name": "Natural Lemonade 11 Oz",
+    "description": "Natural Lemonade 11 Oz",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-22",
+    "name": "Coconut Lemonade 9 Oz",
+    "description": "Lemonade with coconut milk and lemon 9 Oz",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-23",
+    "name": "Peppermint Lemonade 9 Oz",
+    "description": "Peppermint Lemonade 9 Oz",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-24",
+    "name": "Joy 11 Oz",
+    "description": "Mango, passion fruit and pineapple smoothie 11 Oz",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-25",
+    "name": "Wellness 11 Oz",
+    "description": "Apple, pear, feijoa and mint smoothies 11 Oz",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-26",
+    "name": "Peach Juice 9 Oz",
+    "description": "Natural peach juice in milk 9 Oz",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-27",
+    "name": "Feijoa Juice 11 Oz",
+    "description": "Natural feijoa juice in water 11 Oz",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-28",
+    "name": "Raspberry Juice",
+    "description": "Natural raspberry juice in water.",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-29",
+    "name": "Tangerine Juice 11 Oz",
+    "description": "Tangerine Juice 11 Oz",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "NATURAL JUICES"
+  },
+  {
+    "id": "product-30",
+    "name": "Sowing Water 477ml",
+    "description": "Sowing Water 500ml.",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-31",
+    "name": "Coca-Cola Original 300 ml",
+    "description": "Coca-Cola Original Soft Drink 300ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-32",
+    "name": "Schweppes Ginger Ale 300ml",
+    "description": "Schweppes Ginger soda 300ml.",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-33",
+    "name": "Still Spring Water 500ml",
+    "description": "Spring Water 500ml.",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-34",
+    "name": "Coca-Cola ZERO 300 ml",
+    "description": "Coca-Cola soda without sugar 330ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-35",
+    "name": "Sparkling Spring Water 300ml",
+    "description": "Sparkling spring water 300ml.",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "OTHER DRINKS"
+  },
+  {
+    "id": "product-36",
+    "name": "Club Colombia 330ml",
+    "description": "Lager type beer. % Alcohol: 4.7%. Country of origin: Colombia",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "BEERS"
+  },
+  {
+    "id": "product-37",
+    "name": "Stella Artois 330ml",
+    "description": "Lager type beer.",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "BEERS"
+  },
+  {
+    "id": "product-38",
+    "name": "Monserrate Beer 330ml",
+    "description": "Red beer, fruity and loaded with hops. Full-bodied and balanced aroma.",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "BEERS"
+  },
+  {
+    "id": "product-39",
+    "name": "Spinach Soup",
+    "description": "Spinach soup from the garden to your home. Naturally delicious..",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-40",
+    "name": "Mexican Soup with Chicken",
+    "description": "Flavors of Mexico: chipotle chili, sour cream, cheese, avocado, chicken, pico de gallo and Mexican tortilla.",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-41",
+    "name": "Pardine Lentil Soup",
+    "description": "Soup with mushrooms and portobellos, with a light touch of Indian spices.",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-42",
+    "name": "Covarachia Soup",
+    "description": "Soup where tomato, corn and banana come into play to highlight the value of the flavors of our land, with avocado, sour cream and cilantro.",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-43",
+    "name": "Soup of the Sun",
+    "description": "Pumpkin soup with a touch of goat cheese and pesto, pita bread and cilantro.",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-44",
+    "name": "Life in Greens Soup",
+    "description": "Soft cream of greens and tender corn.",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "SOUPS"
+  },
+  {
+    "id": "product-45",
+    "name": "Chicken, Cheese and Mushrooms",
+    "description": "Chicken crepe + cheese + mushroom = always delicious.",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-46",
+    "name": "Chicken Curry",
+    "description": "Chicken crepe in our curry sauce.",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-47",
+    "name": "Mexican Truffle Chicken",
+    "description": "Crepe with a mix of Mexican flavors, with huitlacoche, avocado and cheese sauce.",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-48",
+    "name": "Chicken, Broccoli and Cheese",
+    "description": "Chicken crepe + broccoli + cheese = simply delicious.",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-49",
+    "name": "Mexican Chicken",
+    "description": "Chicken in Mexican and chipotle sauce, grated cheese, lettuce, sour cream, chili and pico de gallo. (Slightly spicy)",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-50",
+    "name": "Thai Chicken",
+    "description": "Chicken breast and portobello mushroom crepe, with a mix of oriental flavors based on curry and passion fruit.",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-51",
+    "name": "Rosarito Chicken",
+    "description": "Chicken crepe in Mexican sauce, with chipotle, avocado arches and French beans.",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-52",
+    "name": "Indian Chicken",
+    "description": "Indian-style curry chicken crepe, with peanuts, raisins and mango chutney.",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-53",
+    "name": "Chicken and Cheese",
+    "description": "Classic chicken crepe in sauce and cheese.",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-54",
+    "name": "Chicken and Mushrooms",
+    "description": "Chicken crepe + mushrooms = always delicious.",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-55",
+    "name": "Peruvian Chicken",
+    "description": "Typical preparation of ají de gallina Lima, olive sauce and purple olives, arugula and egg. (Slightly spicy).",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-56",
+    "name": "Chicken Crepe with Chili Panka",
+    "description": "Chicken crepe with all the flavors of Peru. With coriander bean puree, avocado, arugula, paprika filaments and red onion. (Slightly spicy).",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-57",
+    "name": "Chicken, Artichoke and Cheese",
+    "description": "Chicken Crepe, Artichoke and Cheese Sauce",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "CHICKEN CREPES"
+  },
+  {
+    "id": "product-58",
+    "name": "Bolognese and Cheese",
+    "description": "Bolognese crepe + cheese = the easiest way to remember us.",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-59",
+    "name": "Bolognese, Cheese and Mushrooms",
+    "description": "Bolognese crepe + cheese + mushroom = good mix",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-60",
+    "name": "Bolognese, Ham and Cheese",
+    "description": "Bolognese crepe + ham + cheese = infallible",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-61",
+    "name": "Stroganoff",
+    "description": "Crepe with julienne strips of loin and mushrooms in their sauce.",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-62",
+    "name": "CR Veal",
+    "description": "Crepe with beef in sauce.",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-63",
+    "name": "Beef and Mushrooms",
+    "description": "Beef crepe + mushrooms = for whom the past is present.",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-64",
+    "name": "Mexican",
+    "description": "Bolognese, grated cheese, lettuce, Mexican sauce, sour cream, chili and pico de gallo.",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-65",
+    "name": "Arabic Loin",
+    "description": "Loin crepe with Middle Eastern spices and salad in its best style.",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-66",
+    "name": "Vueltiao Hat",
+    "description": "Shredded meat crepe, prepared with hogao on ripe banana puree, sour cream, avocado and pico de gallo.",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-67",
+    "name": "Roastbeef",
+    "description": "Slices of roast beef and cheese, roasted onions, arugula, chipotle mayonnaise and onion sauerkraut, creating a fantasy of flavor. (Slightly spicy).",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-68",
+    "name": "Cochinita Pibil",
+    "description": "Mexican preparation of shredded pork, accompanied by citrus tones and a touch of avocado, pico de gallo, pickled onion and sour cream.",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-69",
+    "name": "Pepper Lomito",
+    "description": "Crepe with julienne strips of loin in pepper sauce.",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "MEAT CREPES"
+  },
+  {
+    "id": "product-70",
+    "name": "Ham and cheese crepe",
+    "description": "Ham + cheese crepe = the first thing you tried.",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-71",
+    "name": "Ham, Cheese and Mushrooms",
+    "description": "Ham + cheese + mushroom crepe = a timeless delight.",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-72",
+    "name": "Turkey Dutch Cheese and Dijonnaise Sauce",
+    "description": "Turkey breast crepe + cheese + Dijonaisse = good memory.",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-73",
+    "name": "Colombia Sensation",
+    "description": "Crepe with shredded meat, cheese, egg, sour cream and our traditional hogao.",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-74",
+    "name": "Sensation",
+    "description": "Smoked ham, Dutch cheese and egg. Also order it with onion and tomato.",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-75",
+    "name": "French Connection",
+    "description": "Crepe with smoked ham, ricotta cheese and syrup.",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "CLASSIC CREPES"
+  },
+  {
+    "id": "product-76",
+    "name": "Calamari in House Sauce",
+    "description": "Calamari crepe in our house sauce.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-77",
+    "name": "Calamari in Curry Sauce",
+    "description": "Calamari crepe in our curry sauce.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-78",
+    "name": "Shrimp in House Sauce",
+    "description": "Shrimp crepe in our house sauce.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-79",
+    "name": "Garlic Shrimp",
+    "description": "Shrimp crepe in our garlic sauce.",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-80",
+    "name": "Shrimp in Curry Sauce",
+    "description": "Shrimp crepe in our curry sauce.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-81",
+    "name": "Rosarito Shrimp",
+    "description": "Shrimp in Mexican sauce with chipotle, avocado arches, fortynos beans.",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-82",
+    "name": "Crab Palms in House Sauce",
+    "description": "Crab palm crepe in our house sauce.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-83",
+    "name": "Crab Palms in Curry Sauce",
+    "description": "Crab palm crepe in our curry sauce.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-84",
+    "name": "Salmon Roll",
+    "description": "Smoked salmon rolls with arugula, cream cheese, mustard, onion, avocado and crispy fresh vegetables. Accompanied by green salad.",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-85",
+    "name": "Encocado Sea Crepe",
+    "description": "Octopus, shrimp, squid and prawns on black quinoa, bathed in coconut sauce and touches of crunchy coconut.",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "SEA FRUIT CREPES"
+  },
+  {
+    "id": "product-86",
+    "name": "Poblana",
+    "description": "Variety of cheeses, avocado, pico de gallo, sour sauce, lettuce and a delicious Mexican touch of chili.",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-87",
+    "name": "Norman",
+    "description": "Fresh mushrooms, variety of cheeses and mushroom sauce.",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-88",
+    "name": "Tuscany",
+    "description": "Cheese, tomato, basil, fresh mushrooms, mushroom and Neapolitan sauce.",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-89",
+    "name": "Goat",
+    "description": "Sautéed mushrooms, sun-dried tomatoes, fresh tomatoes, pesto, balsamic reduction and buffalo mozzarella.",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-90",
+    "name": "Garlic Mushrooms",
+    "description": "Mushroom crepe in garlic sauce with cheese.",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-91",
+    "name": "Sicily",
+    "description": "Crepe with buffalo mozzarella, fresh tomatoes, dried tomatoes and basil.",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-92",
+    "name": "Mushrooms, Artichoke and Cheese",
+    "description": "Crepe with mushrooms, artichoke and cheese.",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-93",
+    "name": "Roman",
+    "description": "Crepe with buffalo mozzarella, Neapolitan sauce with basil and parmesan cheese.",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "VEGETARIAN CREPES"
+  },
+  {
+    "id": "product-94",
+    "name": "Mediterranean Salad",
+    "description": "Salad with shrimp and squid, pesto, lettuce, celery, mushrooms, onion, olives, balsamic and olive oil.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-95",
+    "name": "Florentine Salad",
+    "description": "Buffalo mozzarella, variety of organic lettuce, fresh basil, dried, fresh and cherry tomatoes, mushrooms, pesto, avocado, black olives, balsamic vinegar and olive oil.",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-96",
+    "name": "Thai salad",
+    "description": "Turkey breast with sesame and basil, variety of organic lettuce, arugula, celery, mushrooms, paprika, cherry tomato, crispy onions and an oriental vinaigrette.",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-97",
+    "name": "Moroccan Salad with Shrimp",
+    "description": "Couscous prepared with spices, avocado, mango chutney, toasted quinoa and green salad with Moroccan vinaigrette.",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-98",
+    "name": "Caesar salad with chicken",
+    "description": "Classic Caesar Salad, croutons, cherry tomatoes, parmesan cheese. Accompanied with rye bread.",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-99",
+    "name": "Caesar Salad",
+    "description": "Caesar salad with lettuce, Caesar sauce, croutons and Parmesan cheese.",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-100",
+    "name": "Bar salad",
+    "description": "Salad: Assemble your salad and enjoy.",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-101",
+    "name": "Valparaiso Salad",
+    "description": "Smoked salmon fillet with merkén, accompanied by black quinoa, kale with parmesan cheese and grana padano, chopped tomato, avocado and Arabic vinaigrette.",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-102",
+    "name": "Tuna Salad",
+    "description": "Belly tuna, variety of organic lettuce, arugula, cucumber, basil, mushrooms, celery, avocado, cherry tomato, black olives, herb vinaigrette and olive oil. Accompanied with Arabic bread",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-103",
+    "name": "Mediterranean Calamari Salad",
+    "description": "Salad with squid, pesto, lettuce, celery, mushrooms, onion, olives, balsamic and olive oil.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-104",
+    "name": "Mediterranean Shrimp Salad",
+    "description": "Salad with shrimp, pesto, lettuce, celery, mushrooms, onion, olives, balsamic and olive oil.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-105",
+    "name": "Torina Salad",
+    "description": "Buffalo mozzarella wrapped in serrano ham with caramelized onions and torino pepper, a variety of lettuce, arugula, cherry tomato and Dijon mustard-based vinaigrette. Accompanied with rye bread.",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-106",
+    "name": "Moroccan Chicken Salad",
+    "description": "Couscous prepared with spices, avocado, mango chutney, toasted quinoa and green salad with Moroccan vinaigrette.",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-107",
+    "name": "Portofino Salad",
+    "description": "Feta cheese, dried tomatoes, lettuce, arugula, basil, black olives, fresh and cherry tomatoes, mushrooms, red onion, pesto and fine herbs vinaigrette.",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "SALADS"
+  },
+  {
+    "id": "product-108",
+    "name": "Panne Cook Chicken Curry",
+    "description": "Panne Cook of artisan bread with chicken in curry sauce.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-109",
+    "name": "Panne Cook Chicken",
+    "description": "Panne Cook of artisan bread with our traditional chicken sauce.",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-110",
+    "name": "Panne Cook Chicken, Cheese and Mushrooms",
+    "description": "Panne Cook of artisan bread with chicken, mushroom sauce and cheese.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-111",
+    "name": "Panne Cook Shrimp in House Sauce",
+    "description": "Panne Cook of artisan bread with shrimp in homemade sauce.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-112",
+    "name": "Panne Cook Calamari in House Sauce",
+    "description": "Panne Cook of artisan bread with squid in house sauce.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-113",
+    "name": "Panne Cook Calamari in Curry Sauce",
+    "description": "Panne Cook of artisan bread with squid in curry sauce.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-114",
+    "name": "Panne Cook Hearts of Palm in Casa Sauce",
+    "description": "Panne Cook of artisan bread with crab hearts in local sauce",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-115",
+    "name": "Panne cook Hearts of Palm in Curry Sauce",
+    "description": "Panne Cook of artisan bread with crab hearts in curry sauce.",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-116",
+    "name": "Panne Cook Veal",
+    "description": "Panne Cook of artisan bread with beef sauce.",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-117",
+    "name": "Panne Cook Beef and Mushrooms",
+    "description": "Panne Cook of artisan bread with beef sauce and mushroom sauce.",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-118",
+    "name": "Panne Cook Stroganoff",
+    "description": "Panne Cook of artisan bread with our traditional stroganoff sauce.",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-119",
+    "name": "Panne Cook Garlic Shrimp",
+    "description": "Panne Cook of artisan bread with shrimp in garlic sauce.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-120",
+    "name": "Panne Cook Chicken, Artichoke Cheese",
+    "description": "Panne Cook Chicken, Artichoke Cheese",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-121",
+    "name": "Panne Cook Chicken Broccoli Cheese",
+    "description": "Panne Cook Chicken Broccoli Cheese",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-122",
+    "name": "Panne Cook Bolognese Cheese",
+    "description": "Panne Cook Bolognese Cheese",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-123",
+    "name": "Panne Cook Shrimp in Curry Sauce",
+    "description": "Panne Cook of artisan bread with shrimp in curry sauce.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-124",
+    "name": "Turkey Pita",
+    "description": "Arabic bread stuffed with turkey breast, a variety of cheeses and Dijonnaise sauce.",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-125",
+    "name": "Pita Mozzarella Pocket",
+    "description": "Cheese, Neapolitan sauce and basil.",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-126",
+    "name": "Sicilian Pita",
+    "description": "Cheese, Neapolitan sauce, fresh tomatoes, dried tomatoes, basil and olive oil.",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-127",
+    "name": "Double Pocket Pita",
+    "description": "Arabic bread stuffed with smoked ham and a variety of cheeses.",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-128",
+    "name": "Pita Cappresa",
+    "description": "Pita with Arabic bread stuffed with buffalo mozzarella, fresh tomato, dried tomato, arugula and pesto.",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-129",
+    "name": "Greek Pita",
+    "description": "Cheese, Neapolitan sauce, artichokes, purple olives, onion, tomato and spices",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-130",
+    "name": "Pita Popeye Pocket",
+    "description": "Arabic bread stuffed with spinach, ham, onion, egg, mushrooms and tomato, gratin with cheese, accompanied with yellow sauce and green vinaigrette.",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-131",
+    "name": "Vegetarian Pita",
+    "description": "Cheese, Neapolitan sauce, mushrooms, onion, tomato, paprika and celery",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-132",
+    "name": "Arabic Chicken Pita",
+    "description": "Baked chicken breast, lettuce, tahini, pieces of olives and pickled onions",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-133",
+    "name": "Simple waffle with ice cream",
+    "description": "Waffle. Order it with one of our sauces: arequipe, chocolate, peach, Worcestershire sauce, caramel or guava jelly.",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-134",
+    "name": "Simple with Chantilly Cream",
+    "description": "Waffle. Order it with one of our sauces: arequipe, chocolate, peach, Worcestershire sauce, caramel or guava jelly.",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-135",
+    "name": "Special Waffle",
+    "description": "Waffle with ice cream and chantilly cream. Choose up to four sweet sauces.",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-136",
+    "name": "Forest Fruit Waffle",
+    "description": "Waffle with red berries, vanilla ice cream and chantilly cream.",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-137",
+    "name": "Waffle Butter Syrup",
+    "description": "Waffle with butter and syrup.",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-138",
+    "name": "Arequipe Waffle",
+    "description": "With arequipe sauce, vanilla and Arequipe ice cream with chantill cream",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-139",
+    "name": "Arequipe and Banana Waffle",
+    "description": "Fresh banana slices with arequipe and chocolate sauce, vanilla and Arequipe ice cream with chantilly cream.",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-140",
+    "name": "Nutella Waffle",
+    "description": "Waffle with vanilla ice cream and chantilly cream.",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-141",
+    "name": "Nutella and Banana Waffle",
+    "description": "Nutella and fresh banana slices, Old Style Vanilla ice cream and chantilly cream.",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-142",
+    "name": "Waffle D'Choclo",
+    "description": "Corn waffle, mozzarella cheese and 7 leathers with coastal whey.",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-143",
+    "name": "honey waffle",
+    "description": "Waffle with butter and honey from Montes de María.",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-144",
+    "name": "Special Waffle",
+    "description": "Crispy Belgian waffle with vanilla ice cream and chantilly cream",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-145",
+    "name": "White Chocolate Waffle",
+    "description": "Waffle: crispy Belgian waffle with white chocolate sauce.",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-146",
+    "name": "Waffle Butter and Syrup",
+    "description": "Waffle: crispy Belgian waffle with butter and syrup.",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-147",
+    "name": "Forest Fruit Waffle",
+    "description": "Waffle: crispy Belgian waffle with berry sauce.",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-148",
+    "name": "Arequipe Waffle",
+    "description": "Waffle: crispy Belgian waffle with arequipe.",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-149",
+    "name": "Nutella Waffle",
+    "description": "Waffle: crispy Belgian waffle with Nutella.",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-150",
+    "name": "Chocolate Waffle",
+    "description": "Waffle: crispy Belgian waffle with chocolate sauce.",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-151",
+    "name": "Caramel Waffle",
+    "description": "Crispy Belgian waffle with caramel sauce.",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-152",
+    "name": "Temptation",
+    "description": "Sponge cake bathed with a touch of liqueur that enhances the flavor of the Vanilla, Coffee and Chocolate ice cream. Combines subtly with chocolate sauce, walnuts and chantilly cream.",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-153",
+    "name": "Arequipe Cup",
+    "description": "Our delicious Arequipe ice cream, banana slices, arequipe sauce, butter cookie and chantilly cream.",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-154",
+    "name": "Banana Split",
+    "description": "Classic combination of Vanilla, Strawberry and Chocolate ice cream. Accompanied by chantilly cream, walnuts, banana, chocolate sauce and arequipe.",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-155",
+    "name": "Vanilla Hot Chocolate",
+    "description": "Old Style Vanilla Ice Cream, toasted almonds between chantilly cream and hot chocolate with which you will satisfy your taste.",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-156",
+    "name": "Supreme",
+    "description": "Vanilla ice cream and banana slices between chantilly cream, bathed with chocolate and arequipe sauce, mini cookie cone and nuts.",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-157",
+    "name": "Passion Fruit Whim",
+    "description": "Passion Fruit Yogurt Ice Cream with passion fruit coulis, strawberries, peaches and the crunch of the lace cookie.",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-158",
+    "name": "Caramel Philosophy",
+    "description": "Vanilla and Caramel Ice Cream, banana slices, crispy and crunchy macadamias and almonds come together to give meaning and flavor to life.",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-159",
+    "name": "Tiramisu",
+    "description": "Italian composition of Old Style Vanilla ice cream, sponge cake bathed with cognac, toned with Worcestershire, chocolate and coffee sauces",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-160",
+    "name": "Chocolate and Fudge Cake",
+    "description": "Fusion of Chocolate and Coffee ice cream with chocolate fudge, Worcestershire and chocolate sauce, on a base of toasted almonds and Italian crunch.",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-161",
+    "name": "Sweet Charm",
+    "description": "Sponge cake bathed in Worcestershire sauce and arequipe, with Cocado ice cream, chocolate tartufino and crunchy lace cookie.",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-162",
+    "name": "White Lady",
+    "description": "Vanilla and Chocolate Ice Cream accompanied with chocolate sauce, walnuts and chantilly cream.",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-163",
+    "name": "Vesuvius",
+    "description": "Classic Italian combination of Strawberry, Vanilla and Lemon ice cream, bathed with grape sauce and chantilly cream",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-164",
+    "name": "Festival",
+    "description": "Sponge cake accompanied by blackberry, strawberry, passion fruit, lemon and vanilla ice cream, with pieces of banana, fresh strawberries, grape sauce and chantilly cream.",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-165",
+    "name": "Peach Cup",
+    "description": "Vanilla Ice Cream and Passion Fruit Yogurt with sliced peaches, passion fruit coulis, chantilly cream and crispy lace cookie.",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-166",
+    "name": "Capri",
+    "description": "Vanilla ice cream on a crunchy cookie between arequipe and raspberry sauces with chantilly cream.",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-167",
+    "name": "Meringue Glaze",
+    "description": "Meringue and vanilla ice cream play with hot chocolate sauce, walnuts and chantilly cream to provide nothing but pleasure.",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-168",
+    "name": "Brownie Cup",
+    "description": "Brownie ice cream with caramel and chocolate sauce",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-169",
+    "name": "Banana Royal",
+    "description": "Vanilla and Chocolate Ice Cream, with strawberry, banana, chocolate sauce, crunchy lace cookie and chantilly cream.",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-170",
+    "name": "Artisan Ice Cream 800 ml Vegan",
+    "description": "Ice cream made with almond milk and coconut milk.",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-171",
+    "name": "Artisan Ice Cream Liter and Half Vegan",
+    "description": "Ice cream made with almond milk and coconut milk.",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-172",
+    "name": "Glass 1 vegan flavor",
+    "description": "Ice cream: choose your flavor.",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-173",
+    "name": "Glass 2 vegan flavors",
+    "description": "Ice cream: choose two flavors.",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-174",
+    "name": "Lima Cup",
+    "description": "Vanilla ice cream with arequipe sauce, berries, meringue, soursop flakes and chantilly cream.",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-175",
+    "name": "Arte-Sano Ice Cream 800 ml",
+    "description": "Ice Cream: Choose up to two flavors.",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-176",
+    "name": "Arte-Sano Ice Cream 1.5lt",
+    "description": "Ice Cream: Choose up to two flavors.",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-177",
+    "name": "Glass of A Flavor of Ice Cream",
+    "description": "Ice cream: choose your flavor.",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-178",
+    "name": "Glass of Two Flavors of Ice Cream",
+    "description": "Ice cream: choose two flavors.",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-179",
+    "name": "Milkshakes",
+    "description": "Milkshake: choose your flavor.",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-180",
+    "name": "Glass of Three Flavors of Ice Cream",
+    "description": "Choose three flavors.",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-181",
+    "name": "Cones x 10 units",
+    "description": "Waffle cones.",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-182",
+    "name": "Cones x 4 units",
+    "description": "Waffle cones.",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-183",
+    "name": "Small Sweet Ice Cream KIT",
+    "description": "Small Sweet Ice Cream KIT",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-184",
+    "name": "Large Sweet Ice Cream KIT",
+    "description": "Enjoy your favorite ice cream and have fun with the sauces and different combinations. The kit contains a 1.5lt Artesano up to two flavors, shortbread cookies, 10 cookie cones and a sauce.",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-185",
+    "name": "Artisan 800ml Dubai Chocolate",
+    "description": "Pistachio ice cream with kadaif and dark chocolate.",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-186",
+    "name": "Artisan 1.5l Chocolate Dubai",
+    "description": "Pistachio ice cream with kadaif and dark chocolate.",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-187",
+    "name": "Glass 1 ball Dubai Chocolate",
+    "description": "Pistachio ice cream with kadaif and dark chocolate.",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-188",
+    "name": "Glass with 2 Dubai Chocolate balls",
+    "description": "Pistachio ice cream with kadaif and dark chocolate.",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "ICE CREAM"
+  },
+  {
+    "id": "product-189",
+    "name": "Mini Honey Waffle",
+    "description": "Mini Waffles with butter and honey from Montes de María.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-190",
+    "name": "Traditional Mini Waffle",
+    "description": "Mini Waffles with butter and syrup.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-191",
+    "name": "Mini Waffles Arequipe",
+    "description": "Mini Waffles with vanilla ice cream and chantilly cream.",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-192",
+    "name": "Mini Forest Fruit Waffles",
+    "description": "Mini Waffles with red berries, vanilla ice cream and chantilly cream.",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-193",
+    "name": "Mini Nutella Waffles",
+    "description": "Mini Waffles with Vanilla ice cream and chantilly cream.",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-194",
+    "name": "Mini D'Yuca Waffle",
+    "description": "Mini Waffles with butter, ground organic brown sugar and guava jelly.",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-195",
+    "name": "Mini Chocolate Waffle",
+    "description": "With vanilla ice cream and chantilly cream.",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-196",
+    "name": "Double D'Yuca Mini Waffles",
+    "description": "Two mini waffles with butter, ground organic brown sugar and guava jelly.",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-197",
+    "name": "Piggy Ice Cream",
+    "description": "Piggy Ice Cream",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "CHILDREN'S ICE CREAM"
+  },
+  {
+    "id": "product-198",
+    "name": "Sammy",
+    "description": "Penguin with vanilla ice cream",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "CHILDREN'S ICE CREAM"
+  },
+  {
+    "id": "product-199",
+    "name": "Libra - Coffee Beans 500gr",
+    "description": "100% Colombian excellent coffee, roasted and packaged daily by Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "COFFEE AND PLEASURE"
+  },
+  {
+    "id": "product-200",
+    "name": "Libra - Ground Coffee 500gr",
+    "description": "100% Colombian excellent coffee, roasted and packaged daily by Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "COFFEE AND PLEASURE"
+  },
+  {
+    "id": "product-201",
+    "name": "Red Wine - AMORETINTO 750ml",
+    "description": "Red wine bottle. Strain: Merlot Origin: Chile.",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-202",
+    "name": "White Wine - AMORETINTO 750ml",
+    "description": "White wine bottle. Strain: Gewurstraminier Origin: Chile.",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-203",
+    "name": "Prosecco 750ml",
+    "description": "Prosecco wine bottle. Strain: Glera Origin: Italy.",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-204",
+    "name": "Red Wine 1/2 bottle - AMORETINTO375ml",
+    "description": "Half bottle red wine. Strain: Merlot Origin: Chile.",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-205",
+    "name": "White Wine 1/2 Bottle -AMORETINTO375ml",
+    "description": "Half a bottle white wine. Strain: Gewurstraminier Origin: Chile.",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-206",
+    "name": "Prosecco 1/2 Bottle 375 ml",
+    "description": "Half bottle prosecco wine. Strain: Glera Origin: Italy.",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "WINES"
+  },
+  {
+    "id": "product-207",
+    "name": "Forest Fruit Sauce 250ml",
+    "description": "Our classic mix of blackberry, strawberry, raspberry, blackberry and blueberry.",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-208",
+    "name": "Waffle dough 500ml",
+    "description": "Our dough ready for pancakes or waffles.",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-209",
+    "name": "Arequipe Sauce 500ml",
+    "description": "Classic arequipe to create sweet moments.",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-210",
+    "name": "Pesto 250ml",
+    "description": "Preparation based on basil, olive oil, parmesan cheese and walnuts.",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-211",
+    "name": "Hogao 250ml",
+    "description": "Add the flavor of Colombia.",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-212",
+    "name": "House Sauce 500ml",
+    "description": "Sauce based on roasted peppers and tomato.",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-213",
+    "name": "Curry 500ml",
+    "description": "India with its spices gives us all its flavor. Use it with chicken, shrimp or vegetables.",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-214",
+    "name": "Bolognese 500ml",
+    "description": "This is how Italy tastes, like Bolognese. Use it with crepes or pasta. Add parmesan.",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-215",
+    "name": "Neapolitan 500ml",
+    "description": "Tomatoes prepared with the flavors of Italy.",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-216",
+    "name": "Mushroom Sauce 500ml",
+    "description": "Mushrooms in their sauce to accompany whatever you like the most.",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-217",
+    "name": "Covarachía Soup 500ml",
+    "description": "Mexican soup",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-218",
+    "name": "Spinach Soup 500ml",
+    "description": "Spinach soup.",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-219",
+    "name": "Onion Soup 500ml",
+    "description": "Onion soup.",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-220",
+    "name": "Hogao 500ml",
+    "description": "Add the flavor of Colombia.",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-221",
+    "name": "Corn Dough 500ml",
+    "description": "Our dough ready for pancakes or waffles.",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-222",
+    "name": "Yucca Dough",
+    "description": "Our dough ready for pancakes or waffles (Frozen dough).",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-223",
+    "name": "Mustard Vinaigrette 250ml",
+    "description": "Vinaigrette where mustard is the protagonist. Use it to accompany what you like most! Suggested servings 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-224",
+    "name": "Balsamic Vinaigrette 250ml",
+    "description": "Perfect mixture of balsamic vinegar, olive oil and honey. Suggested servings 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-225",
+    "name": "Oriental Vinaigrette 250ml",
+    "description": "Vinaigrette with a mixture of vinegars, mustard and a sweet and sour touch.",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-226",
+    "name": "Pepper Lomito 500 ml",
+    "description": "Classic loin in Putumayo pepper sauce.",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-227",
+    "name": "Mexican Sauce 500 ml",
+    "description": "Spicy red tomato and chipotle pepper sauce",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-228",
+    "name": "Parmesan Sauce 500 ml",
+    "description": "Sauce based on parmesan cheese, heavy cream and black pepper.",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-229",
+    "name": "Stroganoff 500 ml",
+    "description": "Loin in julienne strips and mushrooms",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-230",
+    "name": "Chicken 500 ml",
+    "description": "Our classic chicken sauce",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-231",
+    "name": "Thai Chicken 500 ml",
+    "description": "Chicken in a mix of oriental flavors based on curry and passion fruit.",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-232",
+    "name": "Cochinita Pibil 500 ml",
+    "description": "Shredded pork, marinated in citrus and annatto. Cook over low heat.",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-233",
+    "name": "Ahuyama soup 500lt",
+    "description": "Pumpkin soup. Heat it over low heat!",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-234",
+    "name": "Lentil Soup 500ml",
+    "description": "With mushrooms and portobellos, beluga lentils and a light touch of Indian spices.",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-235",
+    "name": "Guava Jelly 500ml",
+    "description": "Classic guava jelly sauce to create sweet moments.",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-236",
+    "name": "Guava Jelly 250ml",
+    "description": "Classic guava jelly sauce to create sweet moments.",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-237",
+    "name": "Passion Fruit Coulis 500 ml",
+    "description": "Sauce with passion fruit extract. You can use it in desserts or sweet and sour dishes.",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-238",
+    "name": "Passion Fruit Coulis 250ml",
+    "description": "Sauce with passion fruit extract. You can use it in desserts or sweet and sour dishes.",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-239",
+    "name": "House Sauce 1lt",
+    "description": "Sauce based on roasted peppers and tomato",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-240",
+    "name": "Curry sauce 1lt",
+    "description": "India with its spices gives us all its flavor. Use it with chicken, shrimp or vegetables.",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-241",
+    "name": "Bolognese sauce 1lt",
+    "description": "This is how Italy tastes, like Bolognese. Use it with crepes or pasta. Add parmesan.",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-242",
+    "name": "Neapolitan Sauce 1lt",
+    "description": "Tomatoes prepared with the flavors of Italy",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-243",
+    "name": "Covarachía Soup 1lt",
+    "description": "Mexican soup. Heat it over low heat!",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-244",
+    "name": "Spinach Soup 1lt",
+    "description": "Spinach soup. Heat it over low heat!",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-245",
+    "name": "Onion Soup 1lt",
+    "description": "Onion soup. Heat it over low heat!",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-246",
+    "name": "Mexican Sauce 1lt",
+    "description": "Spicy red tomato and chipotle pepper sauce",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-247",
+    "name": "Parmesan Sauce 1lt",
+    "description": "Sauce based on parmesan cheese, heavy cream and black pepper.",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-248",
+    "name": "Ahuyama soup 1lt",
+    "description": "Pumpkin soup. Heat it over low heat!",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-249",
+    "name": "Lentil Soup 1lt",
+    "description": "With mushrooms and portobellos, beluga lentils and a light touch of Indian spices.",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-250",
+    "name": "Life in Greens Soup 500ml",
+    "description": "Soft cream of greens and tender corn. Heat it over low heat. Suggested servings: 1.5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-251",
+    "name": "Life in Greens Soup 1lt",
+    "description": "Soft cream of greens and tender corn. Heat it over low heat. Suggested servings: 3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-252",
+    "name": "Soy Autumn Soup 500ml",
+    "description": "Explosion of vegetables with beans. Heat it over low heat. Suggested servings: 1.5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "CREPES AT HOME"
+  },
+  {
+    "id": "product-253",
+    "name": "Soy Autumn Soup 1lt",
+    "description": "Explosion of vegetables with beans. Heat it over low heat. Suggested servings: 3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "CREPES AT HOME"
+  }
+]

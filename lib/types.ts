@@ -1,4 +1,12 @@
 import rawProducts from './definitivosProductos.json'
+import enProducts from './menu-products/en.json'
+import esProducts from './menu-products/es.json'
+import frProducts from './menu-products/fr.json'
+import hiProducts from './menu-products/hi.json'
+import itProducts from './menu-products/it.json'
+import jaProducts from './menu-products/ja.json'
+import zhProducts from './menu-products/zh.json'
+import type { LanguageCode } from './menu-i18n'
 
 export interface MenuItem {
   id: string
@@ -91,6 +99,15 @@ export const defaultMenuStyle: MenuStyle = {
 }
 
 export const sampleMenuData: MenuCategory[] = buildMenuData(rawProducts as RawProduct[])
+export const menuDataByLanguage: Record<LanguageCode, MenuCategory[]> = {
+  es: buildMenuData(esProducts as RawProduct[]),
+  en: buildMenuData(enProducts as RawProduct[]),
+  fr: buildMenuData(frProducts as RawProduct[]),
+  it: buildMenuData(itProducts as RawProduct[]),
+  zh: buildMenuData(zhProducts as RawProduct[]),
+  ja: buildMenuData(jaProducts as RawProduct[]),
+  hi: buildMenuData(hiProducts as RawProduct[])
+}
 
 function buildMenuData(products: RawProduct[]): MenuCategory[] {
   const categories = new Map<string, MenuCategory>()

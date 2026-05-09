@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "Crepe de Nutella",
+    "description": "Crepe de Nutella con chantilly.",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-2",
+    "name": "Crepe Nutella Banano",
+    "description": "Crepe de Nutella con tajaditas de banano y crema chantilly.",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-3",
+    "name": "Baby Doll",
+    "description": "Crepe con banano fresco, helado de Vainilla, nueces, chocolate caliente y crema chantilly.",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-4",
+    "name": "Cleopatra",
+    "description": "Tajadas de banano y fresa, helado de Mora, crema chantilly y salsa de uva e inglesa.",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-5",
+    "name": "Mont Blanc",
+    "description": "Crepe de chocolate blanco con fresas y crema chantilly.",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-6",
+    "name": "Chocolate Fondue",
+    "description": "Crepe con chocolate sobre fresas y banano, helado de Vainilla y crema chantilly.",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "CREPES DE DULCE"
+  },
+  {
+    "id": "product-7",
+    "name": "Vainilla Chocoalmond (470 ml)",
+    "description": "Helado de Vainilla con almendras tostadas y fudge de chocolate.",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-8",
+    "name": "Maracuyá Stracciatella (470 ml)",
+    "description": "Pasión Tropical: trozos de chocolate oscuro y vetas de maracuyá.",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-9",
+    "name": "Lulada (470 ml)",
+    "description": "Helado de Lulo en agua.",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-10",
+    "name": "Yogurt de Guayaba (470 ml)",
+    "description": "Helado de Yogurt con vetas de guayaba.",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-11",
+    "name": "Dulce de Leche (470 ml)",
+    "description": "Dulce de Leche argentino con stracciatella.",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-12",
+    "name": "Yogurt Griego con Amarenas (470 ml)",
+    "description": "Helado de Yogurt Griego con cerezas amarenas italianas.",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-13",
+    "name": "Petalos de Rosa",
+    "description": "Helado de Pétalos de Rosa",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-14",
+    "name": "Mango Lassi",
+    "description": "Hecho con yogurt griego y mango de azúcar es un abrazo frutal y refrescante al paladar.",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "HELADOS DE TEMPORADA (470 ML)"
+  },
+  {
+    "id": "product-15",
+    "name": "Jugo de Mora 11 Oz",
+    "description": "Jugo de mora natural en agua o leche 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-16",
+    "name": "Jugo de Mango 11 Oz",
+    "description": "Jugo de mango natural en agua o leche 11 Oz",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-17",
+    "name": "Jugo de Fresa 11 Oz",
+    "description": "Jugo de fresa natural en agua o leche 11 Oz",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-18",
+    "name": "Jugo de Guanábana 11 Oz",
+    "description": "Jugo de guanábana natural en agua o leche 11 Oz",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-19",
+    "name": "Piña, Jengibre y Hierbabuena 11 Oz",
+    "description": "Batido con mezcla de frutas del campo 11 Oz",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-20",
+    "name": "Limonada Mango Biche 9 Oz",
+    "description": "Limonada de mango biche 9 Oz",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-21",
+    "name": "Limonada Natural 11 Oz",
+    "description": "Limonada natural 11 Oz",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-22",
+    "name": "Limonada de Coco 9 Oz",
+    "description": "Limonada con leche de coco y limón 9 Oz",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-23",
+    "name": "Limonada de Hierbabuena 9 Oz",
+    "description": "Limonada de hierbabuena 9 Oz",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-24",
+    "name": "Alegria 11 Oz",
+    "description": "Batido de mango, maracuyá y piña 11 Oz",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-25",
+    "name": "Bienestar 11 Oz",
+    "description": "Batidos de manzana, pera, feijoa y hierbabuena 11 Oz",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-26",
+    "name": "Jugo de Durazno 9 Oz",
+    "description": "Jugo natural de durazno en leche 9 Oz",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-27",
+    "name": "Jugo de Feijoa 11 Oz",
+    "description": "Jugo natural de feijoa en agua 11 Oz",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-28",
+    "name": "Jugo de Frambuesa",
+    "description": "Jugo natural de frambuesa en agua.",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-29",
+    "name": "Jugo Mandarina 11 Oz",
+    "description": "Jugo de mandarina 11 Oz",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "JUGOS NATURALES"
+  },
+  {
+    "id": "product-30",
+    "name": "Agua Siembra 477ml",
+    "description": "Agua Siembra 500ml.",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-31",
+    "name": "Coca-Cola Original 300 ml",
+    "description": "Gaseosa Coca-Cola Original 300ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-32",
+    "name": "Schweppes Ginger Ale 300ml",
+    "description": "Gaseosa Schweppes Ginger 300ml.",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-33",
+    "name": "Agua Manantial Sin Gas 500ml",
+    "description": "Agua Manantial 500ml.",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-34",
+    "name": "Coca-Cola ZERO 300 ml",
+    "description": "Gaseosa Coca-Cola sin azúcar 330ml.",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-35",
+    "name": "Agua Manantial Con Gas 300ml",
+    "description": "Agua Manantial con gas 300ml.",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "OTRAS BEBIDAS"
+  },
+  {
+    "id": "product-36",
+    "name": "Club Colombia 330ml",
+    "description": "Cerveza tipo Lager. % Alcohol: 4,7%. País de origen: Colombia",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "CERVEZAS"
+  },
+  {
+    "id": "product-37",
+    "name": "Stella Artois 330ml",
+    "description": "Cerveza tipo Lager.",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "CERVEZAS"
+  },
+  {
+    "id": "product-38",
+    "name": "Cerveza Monserrate 330ml",
+    "description": "Cerveza roja, afrutada y cargada de lúpulo. Con mucho cuerpo y aroma balanceado.",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "CERVEZAS"
+  },
+  {
+    "id": "product-39",
+    "name": "Sopa de Espinaca",
+    "description": "Sopa de espinaca del huerto a tu casa. Naturalmente deliciosa..",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-40",
+    "name": "Sopa Mexicana con Pollo",
+    "description": "Sabores de México: chile chipotle, crema agria, queso, aguacate, pollo, pico de gallo y tortilla mexicana.",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-41",
+    "name": "Sopa de Lentejas Pardinas",
+    "description": "Sopa con champiñones y portobellos, con un ligero toque de especias de la india.",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-42",
+    "name": "Sopa Covarachia",
+    "description": "Sopa donde el tomate, el maíz y el plátano entran a jugar para resaltar el valor de los sabores de nuestra tierra, con aguacate, crema agria y cilantro.",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-43",
+    "name": "Sopa del Sol",
+    "description": "Sopa de zapallo con un toque de queso de cabra y pesto, pan pita y cilantro.",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-44",
+    "name": "Sopa Vida en Verdes",
+    "description": "Crema suave de verdes y maicitos tiernos.",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "SOPAS"
+  },
+  {
+    "id": "product-45",
+    "name": "Pollo, Queso y Champiñones",
+    "description": "Crepe de pollo + queso + champiñón = delicia de siempre.",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-46",
+    "name": "Pollo al Curry",
+    "description": "Crepe de pollo en nuestra salsa curry.",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-47",
+    "name": "Pollo Trufa Mexicano",
+    "description": "Crepe con mezcla de sabores mexicanos, con huitlacoche, aguacate y salsa de queso.",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-48",
+    "name": "Pollo, Brócoli y Queso",
+    "description": "Crepe de pollo + brócoli + queso = sencillamente delicioso.",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-49",
+    "name": "Pollo Mexicano",
+    "description": "Pollo en salsa mexicana y chipotle, queso rallado, lechuga, crema agria, ají y pico de gallo. (Ligeramente picante)",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-50",
+    "name": "Pollo Thai",
+    "description": "Crepe de pechuga de pollo y champiñones portobello, con una mezcla de sabores orientales a base de curry y maracuyá.",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-51",
+    "name": "Pollo Rosarito",
+    "description": "Crepe de pollo en salsa mexicana, con chipotle, arcos de aguacate y frijolitos cuarentanos.",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-52",
+    "name": "Pollo Hindú",
+    "description": "Crepe de pollo al curry al estilo hindú, con maní, uvas pasas y chutney de mango.",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-53",
+    "name": "Pollo y Queso",
+    "description": "Crepe clásico de pollo en salsa y queso.",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-54",
+    "name": "Pollo y Champiñones",
+    "description": "Crepe de pollo + champiñones = delicia de siempre.",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-55",
+    "name": "Pollo Peruano",
+    "description": "Típica preparación del ají de gallina limeño, salsa de aceitunas y aceitunas moradas, rúgula y huevo. (Ligeramente picante).",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-56",
+    "name": "Crepe de Pollo al Ají Panka",
+    "description": "Crepe de pollo con todos los sabores del Perú. Con pure de frijol al cilantro, aguacate, rúgula, filamentos de pimenton y cebolla roja. (Ligeramente picante).",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-57",
+    "name": "Pollo, Alchachofa y Queso",
+    "description": "Crepe Pollo, Alchachofa y Salsa de Queso",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "CREPES DE POLLO"
+  },
+  {
+    "id": "product-58",
+    "name": "Boloñesa y Queso",
+    "description": "Crepe de boloñesa + queso = la forma más fácil de recordarnos.",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-59",
+    "name": "Boloñesa, Queso y Champiñones",
+    "description": "Crepe de boloñesa + queso + champiñón = buena mezcla",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-60",
+    "name": "Boloñesa, Jamón y Queso",
+    "description": "Crepe de boloñesa + jamón + queso = infalible",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-61",
+    "name": "Stroganoff",
+    "description": "Crepe con julianas de lomo y champiñones en su salsa.",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-62",
+    "name": "CR Ternera",
+    "description": "Crepe con ternera en salsa.",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-63",
+    "name": "Ternera y Champiñones",
+    "description": "Crepe de ternera + champiñones = para los que el pasado es presente.",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-64",
+    "name": "Mexicano",
+    "description": "Boloñesa, queso rallado, lechuga, salsa mexicana, crema agria, ají y pico de gallo.",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-65",
+    "name": "Lomo Árabe",
+    "description": "Crepe de lomo con especias del Medio Oriente y ensalada a su mejor estilo.",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-66",
+    "name": "Sombrero Vueltiao",
+    "description": "Crepe de carne desmechada, preparada con hogao sobre puré de plátano maduro, crema agria, aguacate y pico de gallo.",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-67",
+    "name": "Roastbeef",
+    "description": "Tajadas de roastbeef y queso, cebollas asadas, rúgula, mayonesa chipotle y chucrut de cebollas, armando una fantasía de sabor. (Ligeramente picante).",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-68",
+    "name": "Cochinita Pibil",
+    "description": "Preparación mexicana de cerdo desmechado, acompañado de tonos cítricos y un toque de aguacate, pico de gallo, cebolla encurtida y crema agria.",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-69",
+    "name": "Lomito Pimienta",
+    "description": "Crepe con julianas de lomo en salsa a la pimienta.",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "CREPES DE CARNE"
+  },
+  {
+    "id": "product-70",
+    "name": "Crepe de jamón y queso",
+    "description": "Crepe de jamón + queso = lo primero que probaste.",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-71",
+    "name": "Jamón, Queso y Champiñones",
+    "description": "Crepe de jamón + queso + champiñón = una delicia sin tiempo.",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-72",
+    "name": "Pavo Queso Holandés y Salsa Dijonnaise",
+    "description": "Crepe de pechuga de pavo + queso + dijonaisse = buen recuerdo.",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-73",
+    "name": "Sensación Colombia",
+    "description": "Crepe con carne desmechada, queso, huevo, crema agria y nuestro tradicional hogao.",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-74",
+    "name": "Sensación",
+    "description": "Jamón ahumado, queso tipo holandés y huevo. Pídalo también con cebolla y tomate.",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-75",
+    "name": "French Connection",
+    "description": "Crepe con jamón ahumado, queso ricotta y syrup.",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "CREPES CLÁSICOS"
+  },
+  {
+    "id": "product-76",
+    "name": "Calamares en Salsa de la Casa",
+    "description": "Crepe de calamares en nuestra salsa de la casa.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-77",
+    "name": "Calamares en Salsa Curry",
+    "description": "Crepe de calamares en nuestra salsa curry.",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-78",
+    "name": "Camarones en Salsa de la Casa",
+    "description": "Crepe de camarones en nuestra salsa de la casa.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-79",
+    "name": "Camarones al Ajillo",
+    "description": "Crepe de camarones en nuestra salsa al ajillo.",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-80",
+    "name": "Camarones en Salsa Curry",
+    "description": "Crepe de camarones en nuestra salsa curry.",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-81",
+    "name": "Camarones Rosarito",
+    "description": "Camarones en salsa mexicana con chipotle, arcos de aguacate, frijolitos cuarentanos.",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-82",
+    "name": "Palmitos de Cangrejo en Salsa de la casa",
+    "description": "Crepe de palmitos de cangrejo en nuestra salsa de la casa.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-83",
+    "name": "Palmitos de Cangrejo en Salsa Curry",
+    "description": "Crepe de palmitos de cangrejo en nuestra salsa curry.",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-84",
+    "name": "Salmón Roll",
+    "description": "Rollitos de salmón ahumado con rúgula, queso crema, mostaza, cebolla, aguacate y crujientes vegetales frescos. Acompañados de ensalada verde.",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-85",
+    "name": "Crepe Mar Encocado",
+    "description": "Pulpo, camarones, calamares y langostinos sobre quinua negra, bañados en salsa de coco y toques de coco crujiente.",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "CREPES DE FRUTOS DEL MAR"
+  },
+  {
+    "id": "product-86",
+    "name": "Poblana",
+    "description": "Variedad de quesos, aguacate, pico de gallo, salsa agria, lechuga y un delicioso toque mexicano de ají.",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-87",
+    "name": "Normanda",
+    "description": "Champiñones frescos, variedad de quesos y salsa de champiñones.",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-88",
+    "name": "Toscana",
+    "description": "Queso, tomate, albahaca, champiñones frescos, salsa de champiñones y napolitana.",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-89",
+    "name": "Caprino",
+    "description": "Champiñones salteados, tomates secos, tomates frescos, pesto, reducción de balsámico y mozzarella de búfala.",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-90",
+    "name": "Champiñones al Ajillo",
+    "description": "Crepe de champiñones en salsa ajillo con queso.",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-91",
+    "name": "Sicilia",
+    "description": "Crepe con mozzarella de búfala, tomates frescos, tomates secos y albahaca.",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-92",
+    "name": "Champiñones, Alcachofa y Queso",
+    "description": "Crepe con champiñones, alcachofa y queso.",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-93",
+    "name": "Romana",
+    "description": "Crepe con mozzarella de búfala, salsa napolitana con albahaca y queso parmesano.",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "CREPES VEGETARIANOS"
+  },
+  {
+    "id": "product-94",
+    "name": "Ensalada Mediterránea",
+    "description": "Ensalada con camarones y calamares, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-95",
+    "name": "Ensalada Florentina",
+    "description": "Mozzarella de búfala, variedad de lechugas orgánicas, albahaca fresca, tomates secos, frescos y cherry, champiñones, pesto, aguacate, aceitunas negras, vinagre balsámico y aceite de oliva.",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-96",
+    "name": "Ensalada Thai",
+    "description": "Pechuga de pavo con ajonjolí y albahaca, variedad de lechugas orgánicas, rúgula, apio, champiñones, pimentón, tomate cherry, cebollas crocantes y una vinagreta oriental.",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-97",
+    "name": "Ensalada Marroquí con Camarón",
+    "description": "Couscous preparado con especias, aguacate, chutney de mango, quinua tostada y ensalada verde con vinagreta marroquí.",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-98",
+    "name": "Ensalada César con pollo",
+    "description": "Clásica Ensalada César, crutones, tomates cherry, queso parmesano. Acompañada con pan de centeno.",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-99",
+    "name": "Ensalada César",
+    "description": "Ensalada César con lechuga, salsa césar, crutones y queso parmesano.",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-100",
+    "name": "Ensalada de la barra",
+    "description": "Ensalada: Arma tu ensalada y disfruta.",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-101",
+    "name": "Ensalada Valparaiso",
+    "description": "Filete de salmón ahumado con merkén, acompañado de quinua negra, kale con queso parmesano y grana padano, picadillo de tomate, aguacate y vinagreta árabe.",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-102",
+    "name": "Tuna Salad",
+    "description": "Atún ventresca, variedad de lechugas orgánicas, rúgula, pepino, albahaca, champiñones, apio, aguacate, tomate cherry, aceitunas negras, vinagreta de finas hierbas y aceite de oliva. Acompañado con pan árabe",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-103",
+    "name": "Ensalada Mediterránea Calamares",
+    "description": "Ensalada con calamares, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-104",
+    "name": "Ensalada Mediterránea Camarones",
+    "description": "Ensalada con camarones, pesto, lechuga, apio, champiñones, cebolla, aceitunas, balsámico y aceite de oliva.",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-105",
+    "name": "Ensalada Torina",
+    "description": "Mozzarella de búfala envuelta en jamón serrano con cebollas caramelizadas y pimienta torina, variedad de lechugas, rúgula, tomate cherry y vinagreta a base de mostaza Dijón. Acompañado con pan de centeno.",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-106",
+    "name": "Ensalada de Pollo Marroquí",
+    "description": "Couscous preparado con especias, aguacate, chutney de mango, quinua tostada y ensalada verde con vinagreta marroquí.",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-107",
+    "name": "Ensalada Portofino",
+    "description": "Queso feta, tomates secos, lechugas,rúgula, albahaca,aceitunas negras,tomate fresco y cherry,champiñones, cebolla roja,pesto y vinagreta finas hierbas.",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "ENSALADAS"
+  },
+  {
+    "id": "product-108",
+    "name": "Panne Cook Pollo al Curry",
+    "description": "Panne Cook de pan artesanal con pollo en salsa al curry.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-109",
+    "name": "Panne Cook Pollo",
+    "description": "Panne Cook de pan artesanal con nuestra tradicional salsa de pollo.",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-110",
+    "name": "Panne Cook Pollo, Queso y Champiñones",
+    "description": "Panne Cook de pan artesanal con pollo, salsa de champiñones y queso.",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-111",
+    "name": "Panne Cook Camarones en Salsa de la Casa",
+    "description": "Panne Cook de pan artesanal con camarones en salsa casa.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-112",
+    "name": "Panne Cook Calamares en Salsa de la Casa",
+    "description": "Panne Cook de pan artesanal con calamares en salsa de la casa.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-113",
+    "name": "Panne Cook Calamares en salsa Curry",
+    "description": "Panne Cook de pan artesanal con calamares en salsa al curry.",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-114",
+    "name": "Panne Cook Palmitos en Salsa Casa",
+    "description": "Panne Cook de pan artesanal con palmitos de cangrejo en salsa de la ca",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-115",
+    "name": "Panne cook Palmitos en salsa Curry",
+    "description": "Panne Cook de pan artesanal con palmitos de cangrejo en salsa al curry.",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-116",
+    "name": "Panne Cook Ternera",
+    "description": "Panne Cook de pan artesanal con salsa de ternera.",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-117",
+    "name": "Panne Cook Ternera y Champiñones",
+    "description": "Panne Cook de pan artesanal con salsa de ternera y salsa de champiñones.",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-118",
+    "name": "Panne Cook Stroganoff",
+    "description": "Panne Cook de pan artesanal con nuestra tradicional salsa stroganoff.",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-119",
+    "name": "Panne Cook Camarones al Ajillo",
+    "description": "Panne Cook de pan artesanal con camarones en salsa al ajillo.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-120",
+    "name": "Panne Cook Pollo, Alchachofa Queso",
+    "description": "Panne Cook Pollo, Alchachofa Queso",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-121",
+    "name": "Panne Cook Pollo Brocoli Queso",
+    "description": "Panne Cook Pollo Brocoli Queso",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-122",
+    "name": "Panne Cook Boloñesa Queso",
+    "description": "Panne Cook Boloñesa Queso",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-123",
+    "name": "Panne Cook Camarones en salsa Curry",
+    "description": "Panne Cook de pan artesanal con camarones en salsa al curry.",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "PANNE COOK"
+  },
+  {
+    "id": "product-124",
+    "name": "Pita de Pavo",
+    "description": "Pan árabe relleno de pechuga de pavo, variedad de quesos y salsa dijonnaise.",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-125",
+    "name": "Pita Mozzarella Pocket",
+    "description": "Queso, salsa napolitana y albahaca.",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-126",
+    "name": "Pita Siciliana",
+    "description": "Queso, salsa napolitana, tomates frescos, tomates secos, albahaca y aceite de oliva.",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-127",
+    "name": "Pita Doble Pocket",
+    "description": "Pan árabe relleno de jamón ahumado y variedad de quesos.",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-128",
+    "name": "Pita Capresa",
+    "description": "Pita con pan árabe relleno de mozzarella de búfala, tomate fresco, tomate seco, rúgula y pesto.",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-129",
+    "name": "Pita Griega",
+    "description": "Queso, salsa napolitana, alcachofas, aceitunas moradas, cebolla, tomate y especia",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-130",
+    "name": "Pita Popeye Pocket",
+    "description": "Pan árabe relleno de espinaca, jamón, cebolla, huevo, champiñones y tomate, gratinado con queso, acompañado con salsa amarilla y vinagreta verde.",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-131",
+    "name": "Pita Vegetariana",
+    "description": "Queso, salsa napolitana, champiñones, cebolla, tomate, pimentón y apio",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-132",
+    "name": "Pita de Pollo Árabe",
+    "description": "Pechuga de pollo al horno, lechuga, tahine, trocitos de aceitunas y cebollas encurtidas",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "PITAS"
+  },
+  {
+    "id": "product-133",
+    "name": "Waffle sencillo con helado",
+    "description": "Waffle. Pídelo con una de nuestras salsas: arequipe, chocolate, melocotón, salsa inglesa, caramelo o jalea de guayaba.",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-134",
+    "name": "Sencillo con Crema Chantilly",
+    "description": "Waffle. Pídelo con una de nuestras salsas: arequipe, chocolate, melocotón, salsa inglesa, caramelo o jalea de guayaba.",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-135",
+    "name": "Waffle Especial",
+    "description": "Waffle con helado y crema chantilly. Escoja hasta cuatro salsas de dulce.",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-136",
+    "name": "Waffle de Frutos del Bosque",
+    "description": "Waffle con frutos rojos, helado de Vainilla y crema chantilly.",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-137",
+    "name": "Waffle Mantequilla Syrup",
+    "description": "Waffle con mantequilla y syrup.",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-138",
+    "name": "Waffle Arequipe",
+    "description": "Con salsa de arequipe, helado de Vainilla y Arequipe con crema chantill",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-139",
+    "name": "Waffle Arequipe y Banano",
+    "description": "Tajadas de banano fresco con salsa de arequipe y chocolate, helado de Vainilla y Arequipe con crema chantilly.",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-140",
+    "name": "Waffle de Nutella",
+    "description": "Waffle con helado de Vainilla y crema chantilly.",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-141",
+    "name": "Waffle de Nutella y Banano",
+    "description": "Nutella y tajadas de banano fresco, helado de Vainilla Old Style y crema chantilly.",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-142",
+    "name": "Waffle D'Choclo",
+    "description": "Waffle de maíz, queso mozzarella y 7 cueros con suero costeño.",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-143",
+    "name": "Waffle miel",
+    "description": "Waffle con mantequilla y miel de Montes de María.",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "WAFFLES"
+  },
+  {
+    "id": "product-144",
+    "name": "Gofre Especial",
+    "description": "Waffle belga crujiente con helado de Vainilla y crema chantilly",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-145",
+    "name": "Gofre Chocolate Blanco",
+    "description": "Gofre: waffle belga crujiente con salsa de chocolate blanco.",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-146",
+    "name": "Gofre Mantequilla y Syrup",
+    "description": "Gofre: waffle belga crujiente con mantequilla y syrup.",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-147",
+    "name": "Gofre Frutos del Bosque",
+    "description": "Gofre: waffle belga crujiente con salsa de frutos del bosque.",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-148",
+    "name": "Gofre Arequipe",
+    "description": "Gofre: waffle belga crujiente con arequipe.",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-149",
+    "name": "Gofre Nutella",
+    "description": "Gofre: waffle belga crujiente con Nutella.",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-150",
+    "name": "Gofre Chocolate",
+    "description": "Gofre: waffle belga crujiente con salsa de chocolate.",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-151",
+    "name": "Gofre Caramelo",
+    "description": "Waffle belga crujiente con salsa de caramelo.",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "GOFRES"
+  },
+  {
+    "id": "product-152",
+    "name": "Tentación",
+    "description": "Bizcochuelo bañado con un toque de licor que exalta el sabor del helado de Vainilla, Café y Chocolate. Combina sutilmente con salsa de chocolate, nueces y crema chantilly.",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-153",
+    "name": "Copa Arequipe",
+    "description": "Nuestro delicioso helado de Arequipe, tajaditas de banano, salsa de arequipe, galleta mantequilla y crema chantilly.",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-154",
+    "name": "Banana Split",
+    "description": "Clásica combinación de helado de Vainilla, Fresa y Chocolate. Acompañado de crema chantilly, nueces, banano, salsa de chocolate y arequipe.",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-155",
+    "name": "Vainilla Hot Chocolate",
+    "description": "Helado de Vainilla Old Style, almendras tostadas entre crema chantilly y chocolate caliente con el que usted le dará gusto a su gusto.",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-156",
+    "name": "Suprema",
+    "description": "Helado de Vainilla y tajaditas de banano entre crema chantilly, bañadas con salsa de chocolate y arequipe, mini cono de galleta y nueces.",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-157",
+    "name": "Capricho de Maracuyá",
+    "description": "Helado de Yogurt de Maracuyá con coulis de maracuyá, fresas, melocotones y el crujiente de la galleta de encaje.",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-158",
+    "name": "Filosofía Acaramelada",
+    "description": "Helado de Vainilla y Caramelo, tajadas de banano, crocantes y crujientes macadamias y almendras se unen para darle sentido y sabor a la vida.",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-159",
+    "name": "Tiramisú",
+    "description": "Composición italiana de helado de Vainilla Old Style, bizcochuelo bañado con cogñac, entonado con salsas inglesa, chocolate y de caf",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-160",
+    "name": "Tarta de Chocolate y Fudge",
+    "description": "Fusión de helado de Chocolate y Café con fudge de chocolate, salsa inglesa y de chocolate, en una base de almendras tostadas y crocante italiano.",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-161",
+    "name": "Dulce Encanto",
+    "description": "Bizcochuelo bañado en salsa inglesa y arequipe, con helado Cocado, tartufino de chocolate y crujiente galleta de encaje.",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-162",
+    "name": "Dama Blanca",
+    "description": "Helado de Vainilla y Chocolate acompañado con salsa de chocolate, nueces y crema chantilly.",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-163",
+    "name": "Vesubio",
+    "description": "Clásica combinación italiana de helado de Fresa, Vainilla y Limon, bañado con salsa de uva y crema chantilly",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-164",
+    "name": "Festival",
+    "description": "Bizcochuelo acompañado de helados de Mora, Fresa, Maracuyá, Limón y Vainilla, con trocitos de banano, fresas frescas, salsa de uva y crema chantilly.",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-165",
+    "name": "Copa Melocotón",
+    "description": "Helado de Vainilla y Yogurt de Maracuyá con melocotones tajados, coulis de maracuyá, crema chantilly y crujiente galleta de encaje.",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-166",
+    "name": "Capri",
+    "description": "Helado de Vainilla sobre una galleta crujiente entre las salsas de arequipe y frambuesa con crema chantilly.",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-167",
+    "name": "Merengue Glazé",
+    "description": "Merengue y helado de Vainilla, juegan con la salsa de chocolate caliente, nueces y crema chantilly para proporcionar solo placer.",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-168",
+    "name": "Copa Brownie",
+    "description": "Helado de Brownie con salsa de caramelo y chocolate",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-169",
+    "name": "Banana Royal",
+    "description": "Helado de Vainilla y Chocolate, con fresa, banano, salsa de chocolate, crujiente galleta de encaje y crema chantilly.",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-170",
+    "name": "Helado Artesano 800 ml Vegano",
+    "description": "Helados hechos con leche de almendras y leche de coco.",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-171",
+    "name": "Helado Artesano Litro y Medio Vegano",
+    "description": "Helados hechos con leche de almendras y leche de coco.",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-172",
+    "name": "Vaso 1 sabor vegano",
+    "description": "Helado: elige tu sabor.",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-173",
+    "name": "Vaso 2 sabores veganos",
+    "description": "Helado: elige dos sabores.",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-174",
+    "name": "Copa Limeña",
+    "description": "Helado de Vainilla con salsa de arequipe, frutos del bosque, merengue, copos de guanábana y crema chantilly.",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-175",
+    "name": "Helado Arte-Sano 800 ml",
+    "description": "Helado: elige hasta dos sabores.",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-176",
+    "name": "Helado Arte-Sano 1,5lt",
+    "description": "Helado: elige hasta dos sabores.",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-177",
+    "name": "Vaso de Un Sabor de Helado",
+    "description": "Helado: elige tu sabor.",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-178",
+    "name": "Vaso de Dos Sabores de Helado",
+    "description": "Helado: elige dos sabores..",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-179",
+    "name": "Malteadas",
+    "description": "Malteada: elige tu sabor.",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-180",
+    "name": "Vaso de Tres Sabores de Helado",
+    "description": "Elige tres sabores.",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-181",
+    "name": "Conos x 10 unidades",
+    "description": "Conos de galleta.",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-182",
+    "name": "Conos x 4 unidades",
+    "description": "Conos de galleta.",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-183",
+    "name": "KIT Hel-ado Dulce Pequeño",
+    "description": "KIT Hel-ado Dulce Pequeño",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-184",
+    "name": "KIT Hel-ado Dulce Grande",
+    "description": "Disfruta tu helado favorito y diviértete con las salsas y las diferentes combinaciones. El kit contiene un Artesano de 1.5lt hasta dos sabores, galletas de mantequilla, 10 conos de galleta y una salsa.",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-185",
+    "name": "Artesano 800ml Chocolate Dubai",
+    "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-186",
+    "name": "Artesano 1.5l Chocolate Dubai",
+    "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-187",
+    "name": "Vaso 1 bola Chocolate Dubai",
+    "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-188",
+    "name": "Vaso 2 bolas Chocolate Dubai",
+    "description": "Helado de pistacho con kadaif y chocolate oscuro.",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "HELADOS"
+  },
+  {
+    "id": "product-189",
+    "name": "Mini Waffle Miel",
+    "description": "Mini Waffles con mantequilla y miel del de Montes de María.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-190",
+    "name": "Mini Waffle Tradicional",
+    "description": "Mini Waffles con mantequilla y syrup.",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-191",
+    "name": "Mini Waffles Arequipe",
+    "description": "Mini Waffles con helado de vainilla y crema chantilly.",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-192",
+    "name": "Mini Waffles Frutos del Bosque",
+    "description": "Mini Waffles con frutos rojos, helado de Vainilla y crema chantilly.",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-193",
+    "name": "Mini Waffles Nutella",
+    "description": "Mini Waffles con helado de Vainilla y crema chantilly.",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-194",
+    "name": "Mini Waffle D'Yuca",
+    "description": "Mini Waffles con mantequilla, panela orgánica molida y jalea de guayaba.",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-195",
+    "name": "Mini Waffle Chocolate",
+    "description": "Con helado de Vainilla y crema chantilly.",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-196",
+    "name": "Mini Waffles D'Yuca Doble",
+    "description": "Dos mini waffles con mantequilla, panela orgánica molida y jalea de guayaba.",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "MINI WAFFLES"
+  },
+  {
+    "id": "product-197",
+    "name": "Helado Piggy",
+    "description": "Helado Piggy",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "HELADOS INFANTILES"
+  },
+  {
+    "id": "product-198",
+    "name": "Samy",
+    "description": "Pingüino con helado de Vainilla",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "HELADOS INFANTILES"
+  },
+  {
+    "id": "product-199",
+    "name": "Libra - Café en Grano 500gr",
+    "description": "Café excelso 100% colombiano, tostado y empacado diariamente por Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "CAFÉ Y PLACER"
+  },
+  {
+    "id": "product-200",
+    "name": "Libra - Café Molido 500gr",
+    "description": "Café excelso 100% colombiano, tostado y empacado diariamente por Crepes & Waffles.",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "CAFÉ Y PLACER"
+  },
+  {
+    "id": "product-201",
+    "name": "Vino Tinto - AMORETINTO 750ml",
+    "description": "Vino tinto botella. Cepa: Merlot Origen: Chile.",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-202",
+    "name": "Vino Blanco - AMORETINTO 750ml",
+    "description": "Vino blanco botella. Cepa: Gewurstraminier Origen: Chile.",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-203",
+    "name": "Prosecco 750ml",
+    "description": "Vino prosecco botella. Cepa: Glera Origen: Italia.",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-204",
+    "name": "Vino Tinto 1/2 botella - AMORETINTO375ml",
+    "description": "Vino tinto media botella. Cepa: Merlot Origen: Chile.",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-205",
+    "name": "Vino Blanco 1/2 Botella -AMORETINTO375ml",
+    "description": "Vino blanco media botella. Cepa: Gewurstraminier Origen: Chile.",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-206",
+    "name": "Prosecco 1/2 Botella 375 ml",
+    "description": "Vino prosecco media botella. Cepa: Glera Origen: Italia.",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "VINOS"
+  },
+  {
+    "id": "product-207",
+    "name": "Salsa Frutos del Bosque 250ml",
+    "description": "Nuestra clásica mezcla de mora, fresa, frambuesa, agraz y arándanos.",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-208",
+    "name": "Masa Waffle 500ml",
+    "description": "Nuestra masa lista para pancakes o waffles.",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-209",
+    "name": "Salsa Arequipe 500ml",
+    "description": "Clásico arequipe para crear dulces momentos.",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-210",
+    "name": "Pesto 250ml",
+    "description": "Preparación a base de albahaca, aceite de oliva, queso parmesano y nueces.",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-211",
+    "name": "Hogao 250ml",
+    "description": "Ponle el sabor a Colombia.",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-212",
+    "name": "Salsa de la Casa 500ml",
+    "description": "Salsa a base de pimentones asados y tomate.",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-213",
+    "name": "Curry 500ml",
+    "description": "India con sus especias nos da todo su sabor. Úsalo con pollo, camarones o vegetales.",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-214",
+    "name": "Boloñesa 500ml",
+    "description": "Así sabe Italia, a boloñesa. Úsála con crepes o pasta.. Agrega parmesano.",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-215",
+    "name": "Napolitana 500ml",
+    "description": "Tomates preparados con los sabores de Italia.",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-216",
+    "name": "Salsa Champiñones 500ml",
+    "description": "Champiñones en su salsa para acompañar lo que más te guste.",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-217",
+    "name": "Sopa Covarachía 500ml",
+    "description": "Sopa mexicana",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-218",
+    "name": "Sopa Espinaca 500ml",
+    "description": "Sopa de espinaca.",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-219",
+    "name": "Sopa Cebolla 500ml",
+    "description": "Sopa de cebolla.",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-220",
+    "name": "Hogao 500ml",
+    "description": "Ponle el sabor a Colombia.",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-221",
+    "name": "Masa de Choclo 500ml",
+    "description": "Nuestra masa lista para pancakes o waffles.",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-222",
+    "name": "Masa de Yuca",
+    "description": "Nuestra masa lista para pancakes o waffles (Masa congelada).",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-223",
+    "name": "Vinagreta Mostaza 250ml",
+    "description": "Vinagreta donde la mostaza es protagonista. ¡Úsala para acompañar lo que mas te guste! Porciones sugeridas 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-224",
+    "name": "Vinagreta Balsámico 250ml",
+    "description": "Perfecta mezcla de vinagre balsámico, aceite de oliva y miel. Porciones sugeridas 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-225",
+    "name": "Vinagreta Oriental 250ml",
+    "description": "Vinagreta con una mezcla de vinagres, mostaza y un toque agridulce.",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-226",
+    "name": "Lomito Pimienta 500 ml",
+    "description": "Clásico lomo en salsa de pimienta del Putumayo.",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-227",
+    "name": "Salsa Mexicana 500 ml",
+    "description": "Salsa picante de tomates rojos y chiles chipotles",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-228",
+    "name": "Salsa Parmesana 500 ml",
+    "description": "Salsa a base de queso parmesano, crema de leche y pimienta negra.",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-229",
+    "name": "Stroganoff 500 ml",
+    "description": "Lomo en julianas y champiñones",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-230",
+    "name": "Pollo 500 ml",
+    "description": "Nuestra clásica salsa de pollo",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-231",
+    "name": "Pollo Thai 500 ml",
+    "description": "Pollo en una mezcla de sabores orientales a base de curry y maracuyá.",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-232",
+    "name": "Cochinita Pibil 500 ml",
+    "description": "Cerdo desmechado, marinado en cítricos y achiote. Cocina a fuego lento.",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-233",
+    "name": "Sopa de Ahuyama 500lt",
+    "description": "Sopa de ahuyama. ¡Caliéntala a fuego lento!",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-234",
+    "name": "Sopa de Lentejas 500ml",
+    "description": "Con champiñones y portobellos, lentejas beluga y un ligero toque de especias de la India.",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-235",
+    "name": "Jalea de Guayaba 500ml",
+    "description": "Salsa clásica jalea de guayaba para crear dulces momentos.",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-236",
+    "name": "Jalea de Guayaba 250ml",
+    "description": "Salsa clásica jalea de guayaba para crear dulces momentos.",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-237",
+    "name": "Coulis de Maracuyá 500 ml",
+    "description": "Salsa con extracto de maracuyá. Lo puedes usar en postres o en platos agridulces.",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-238",
+    "name": "Coulis de Maracuyá 250ml",
+    "description": "Salsa con extracto de maracuyá. Lo puedes usar en postres o en platos agridulces.",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-239",
+    "name": "Salsa de la Casa 1lt",
+    "description": "Salsa a base de pimentones asados y tomate",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-240",
+    "name": "Salsa Curry 1lt",
+    "description": "India con sus especias nos da todo su sabor. Úsalo con pollo, camarones o vegetales.",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-241",
+    "name": "Salsa Boloñesa 1lt",
+    "description": "Así sabe Italia, a boloñesa. Úsála con crepes o pasta.. Agrega parmesano.",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-242",
+    "name": "Salsa Napolitana 1lt",
+    "description": "Tomates preparados con los sabores de Italia",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-243",
+    "name": "Sopa Covarachía 1lt",
+    "description": "Sopa mexicana. ¡Caliéntala a fuego lento!",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-244",
+    "name": "Sopa Espinaca 1lt",
+    "description": "Sopa de espinaca. ¡Caliéntala a fuego lento!",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-245",
+    "name": "Sopa Cebolla 1lt",
+    "description": "Sopa de cebolla. ¡Caliéntala a fuego lento!",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-246",
+    "name": "Salsa Mexicana 1lt",
+    "description": "Salsa picante de tomates rojos y chiles chipotles",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-247",
+    "name": "Salsa Parmesana 1lt",
+    "description": "Salsa a base de queso parmesano, crema de leche y pimienta negra.",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-248",
+    "name": "Sopa de Ahuyama 1lt",
+    "description": "Sopa de ahuyama. ¡Caliéntala a fuego lento!",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-249",
+    "name": "Sopa de Lentejas 1lt",
+    "description": "Con champiñones y portobellos, lentejas beluga y un ligero toque de especias de la India.",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-250",
+    "name": "Sopa Vida en Verdes 500ml",
+    "description": "Crema suave de verdes y maicitos tiernos. Caliéntala a fuego lento. Porciones sugeridas: 1.5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-251",
+    "name": "Sopa Vida en Verdes 1lt",
+    "description": "Crema suave de verdes y maicitos tiernos. Caliéntala a fuego lento. Porciones sugeridas: 3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-252",
+    "name": "Sopa Soy Otoño 500ml",
+    "description": "Explosión de vegetales con frijolitos. Caliéntala a fuego lento. Porciones sugeridas: 1.5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "CREPES EN CASA"
+  },
+  {
+    "id": "product-253",
+    "name": "Sopa Soy Otoño 1lt",
+    "description": "Explosión de vegetales con frijolitos. Caliéntala a fuego lento. Porciones sugeridas: 3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "CREPES EN CASA"
+  }
+]

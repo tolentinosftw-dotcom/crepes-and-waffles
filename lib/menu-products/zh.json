@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "Nutella可丽饼",
+    "description": "Nutella可丽饼与香缇奶油。",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-2",
+    "name": "Nutella 香蕉可丽饼",
+    "description": "Nutella 薄饼配香蕉片和香缇奶油奶油。",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-3",
+    "name": "娃娃",
+    "description": "薄饼配新鲜香蕉、香草冰淇淋、核桃、热巧克力和香缇奶油奶油。",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-4",
+    "name": "克利奥帕特拉",
+    "description": "香蕉和草莓片、黑莓冰淇淋、香缇奶油奶油、葡萄和伍斯特沙司。",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-5",
+    "name": "勃朗峰",
+    "description": "白巧克力薄饼配草莓和香缇奶油奶油。",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-6",
+    "name": "巧克力火锅",
+    "description": "可丽饼配草莓和香蕉巧克力、香草冰淇淋和香缇奶油奶油。",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "甜薄饼"
+  },
+  {
+    "id": "product-7",
+    "name": "香草巧克力杏仁 (470 毫升)",
+    "description": "香草冰淇淋配烤杏仁和巧克力软糖。",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-8",
+    "name": "Stracciatella 百香果（470 毫升）",
+    "description": "热带激情：黑巧克力片和百香果叶脉。",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-9",
+    "name": "卢拉达（470 毫升）",
+    "description": "露洛冰淇淋在水中。",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-10",
+    "name": "番石榴酸奶（470 毫升）",
+    "description": "番石榴叶酸奶冰淇淋。",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-11",
+    "name": "牛奶汁 (470 毫升)",
+    "description": "阿根廷牛奶牛奶 (Dulce de Leche) 搭配 stracciatella。",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-12",
+    "name": "希腊酸奶加阿玛瑞纳斯 (470 毫升)",
+    "description": "希腊酸奶冰淇淋配意大利黄樱桃。",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-13",
+    "name": "玫瑰花瓣",
+    "description": "玫瑰花瓣冰淇淋",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-14",
+    "name": "芒果奶昔",
+    "description": "它由希腊酸奶和糖芒果制成，果香浓郁，口感清爽。",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "时令冰淇淋（470 毫升）"
+  },
+  {
+    "id": "product-15",
+    "name": "黑莓汁 11 盎司",
+    "description": "天然黑莓汁水或牛奶 11 盎司",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-16",
+    "name": "芒果汁 11 盎司",
+    "description": "天然芒果汁水或牛奶 11 盎司",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-17",
+    "name": "草莓汁 11 盎司",
+    "description": "天然草莓汁水或牛奶 11 盎司",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-18",
+    "name": "刺果番荔枝汁 11 盎司",
+    "description": "天然刺果番荔枝汁水或牛奶 11 盎司",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-19",
+    "name": "菠萝、生姜和薄荷 11 盎司",
+    "description": "新鲜水果混合冰沙 11 盎司",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-20",
+    "name": "芒果碧什柠檬水 9 盎司",
+    "description": "Biche 芒果柠檬水 9 盎司",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-21",
+    "name": "天然柠檬水 11 盎司",
+    "description": "天然柠檬水 11 盎司",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-22",
+    "name": "椰子柠檬水 9 盎司",
+    "description": "柠檬水加椰奶和柠檬 9 盎司",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-23",
+    "name": "薄荷柠檬水 9 盎司",
+    "description": "薄荷柠檬水 9 盎司",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-24",
+    "name": "欢乐 11 盎司",
+    "description": "芒果、百香果和菠萝冰沙 11 盎司",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-25",
+    "name": "健康 11 盎司",
+    "description": "苹果、梨、斐济果和薄荷冰沙 11 盎司",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-26",
+    "name": "桃汁 9 盎司",
+    "description": "天然桃汁牛奶 9 盎司",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-27",
+    "name": "费约果汁 11 盎司",
+    "description": "天然斐济果水果汁 11 盎司",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-28",
+    "name": "覆盆子汁",
+    "description": "天然覆盆子汁水。",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-29",
+    "name": "橘子汁 11 盎司",
+    "description": "橘子汁 11 盎司",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "天然果汁"
+  },
+  {
+    "id": "product-30",
+    "name": "播种水477ml",
+    "description": "播种水500毫升。",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-31",
+    "name": "可口可乐原味 300 毫升",
+    "description": "可口可乐原味软饮料 300 毫升。",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-32",
+    "name": "怡泉姜汁汽水 300ml",
+    "description": "怡泉生姜苏打水 300 毫升。",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-33",
+    "name": "静泉水 500ml",
+    "description": "矿泉水500毫升。",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-34",
+    "name": "可口可乐零 300 毫升",
+    "description": "可口可乐无糖汽水330ml。",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-35",
+    "name": "气泡矿泉水 300ml",
+    "description": "气泡泉水300毫升。",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "其他饮品"
+  },
+  {
+    "id": "product-36",
+    "name": "哥伦比亚俱乐部 330ml",
+    "description": "贮藏啤酒类型。酒精含量：4.7%。原产国：哥伦比亚",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "啤酒"
+  },
+  {
+    "id": "product-37",
+    "name": "时代啤酒 330ml",
+    "description": "贮藏啤酒类型。",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "啤酒"
+  },
+  {
+    "id": "product-38",
+    "name": "蒙塞拉特啤酒 330ml",
+    "description": "红啤酒，果香浓郁，富含啤酒花。香气浓郁而平衡。",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "啤酒"
+  },
+  {
+    "id": "product-39",
+    "name": "菠菜汤",
+    "description": "菠菜汤从花园到您家。自然好吃..",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-40",
+    "name": "墨西哥鸡肉汤",
+    "description": "墨西哥风味：墨西哥辣椒、酸奶油、奶酪、鳄梨、鸡肉、加洛酱和墨西哥玉米饼。",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-41",
+    "name": "帕丁扁豆汤",
+    "description": "蘑菇和波多贝罗汤，带有淡淡的印度香料味。",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-42",
+    "name": "科瓦拉奇亚汤",
+    "description": "汤中加入了番茄、玉米和香蕉，突出了我们土地风味的价值，并配有鳄梨、酸奶油和香菜。",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-43",
+    "name": "太阳汤",
+    "description": "南瓜汤加少许山羊奶酪和香蒜酱、皮塔饼面包和香菜。",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-44",
+    "name": "青菜汤里的生活",
+    "description": "绿色蔬菜和嫩玉米的软奶油。",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "汤类"
+  },
+  {
+    "id": "product-45",
+    "name": "鸡肉、奶酪和蘑菇",
+    "description": "鸡肉薄饼+奶酪+蘑菇=总是美味。",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-46",
+    "name": "咖喱鸡",
+    "description": "我们的咖喱酱鸡肉薄饼。",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-47",
+    "name": "墨西哥松露鸡",
+    "description": "混合墨西哥风味的可丽饼，配以 huitlacoche、鳄梨和奶酪酱。",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-48",
+    "name": "鸡肉、西兰花和奶酪",
+    "description": "鸡肉薄饼+西兰花+奶酪=简直美味。",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-49",
+    "name": "墨西哥鸡",
+    "description": "墨西哥鸡肉和辣椒酱、磨碎的奶酪、生菜、酸奶油、辣椒和加洛酱。 （微辣）",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-50",
+    "name": "泰式鸡",
+    "description": "鸡胸肉和波多贝罗蘑菇薄饼，混合了以咖喱和百香果为基础的东方风味。",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-51",
+    "name": "罗萨里托鸡",
+    "description": "墨西哥酱鸡肉薄饼，配墨西哥辣椒、牛油果拱门和四季豆。",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-52",
+    "name": "印度鸡",
+    "description": "印度风味咖喱鸡薄饼，配花生、葡萄干和芒果酸辣酱。",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-53",
+    "name": "鸡肉和奶酪",
+    "description": "经典的酱汁和奶酪鸡肉薄饼。",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-54",
+    "name": "鸡肉和蘑菇",
+    "description": "鸡肉薄饼+蘑菇=总是美味。",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-55",
+    "name": "秘鲁鸡",
+    "description": "典型的做法是 ají de gallina Lima、橄榄酱、紫橄榄、芝麻菜和鸡蛋。 （微辣）。",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-56",
+    "name": "鸡肉薄饼配辣椒潘卡",
+    "description": "鸡肉薄饼具有秘鲁的所有风味。配芫荽豆泥、鳄梨、芝麻菜、辣椒粉和红洋葱。 （微辣）。",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-57",
+    "name": "鸡肉、朝鲜蓟和奶酪",
+    "description": "鸡肉薄饼、朝鲜蓟和奶酪酱",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "鸡肉薄饼"
+  },
+  {
+    "id": "product-58",
+    "name": "肉酱和奶酪",
+    "description": "博洛尼亚薄饼+奶酪=记住我们的最简单方式。",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-59",
+    "name": "肉酱、奶酪和蘑菇",
+    "description": "博洛尼亚薄饼+奶酪+蘑菇=很好的组合",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-60",
+    "name": "肉酱、火腿和奶酪",
+    "description": "博洛尼亚薄饼+火腿+奶酪=万无一失",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-61",
+    "name": "斯特罗加诺夫",
+    "description": "可丽饼配切丝的里脊肉和蘑菇，配上酱汁。",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-62",
+    "name": "CR小牛肉",
+    "description": "可丽饼配酱汁牛肉。",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-63",
+    "name": "牛肉和蘑菇",
+    "description": "牛肉薄饼+蘑菇=过去的现在。",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-64",
+    "name": "墨西哥人",
+    "description": "肉酱、磨碎的奶酪、生菜、墨西哥酱、酸奶油、辣椒和加洛酱。",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-65",
+    "name": "阿拉伯腰肉",
+    "description": "腰部薄饼搭配中东香料和沙拉，风格最佳。",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-66",
+    "name": "维尔蒂奥帽子",
+    "description": "肉丝薄饼，用 Hogao 搭配成熟的香蕉泥、酸奶油、鳄梨和 pico de gallo 制成。",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-67",
+    "name": "烤牛肉",
+    "description": "烤牛肉片和奶酪、烤洋葱、芝麻菜、墨西哥辣椒蛋黄酱和洋葱酸菜，营造出梦幻般的风味。 （微辣）。",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-68",
+    "name": "科奇尼塔·皮比尔",
+    "description": "墨西哥式猪肉丝，搭配柑橘味和少许鳄梨、加洛酱、腌洋葱和酸奶油。",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-69",
+    "name": "佩珀·洛米托",
+    "description": "可丽饼配辣椒酱里脊肉丝。",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "肉薄饼"
+  },
+  {
+    "id": "product-70",
+    "name": "火腿奶酪薄饼",
+    "description": "火腿+奶酪薄饼=你尝试的第一件事。",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-71",
+    "name": "火腿、奶酪和蘑菇",
+    "description": "火腿+奶酪+蘑菇薄饼=永恒的喜悦。",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-72",
+    "name": "土耳其荷兰奶酪和第戎酱",
+    "description": "火鸡胸肉薄饼+奶酪+ Dijonaisse =美好的记忆。",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-73",
+    "name": "哥伦比亚轰动",
+    "description": "薄饼配肉丝、奶酪、鸡蛋、酸奶油和我们传统的 hogao。",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-74",
+    "name": "感觉",
+    "description": "熏火腿、荷兰奶酪和鸡蛋。还可以搭配洋葱和番茄一起点。",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-75",
+    "name": "法国连线",
+    "description": "可丽饼配烟熏火腿、乳清干酪和糖浆。",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "经典薄饼"
+  },
+  {
+    "id": "product-76",
+    "name": "酱汁鱿鱼",
+    "description": "鱿鱼可丽饼配我们家的酱汁。",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-77",
+    "name": "咖喱鱿鱼",
+    "description": "我们的咖喱酱中的鱿鱼可丽饼。",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-78",
+    "name": "酱汁虾",
+    "description": "我们家的酱汁虾薄饼。",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-79",
+    "name": "蒜蓉虾",
+    "description": "我们的蒜酱虾薄饼。",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-80",
+    "name": "咖喱虾",
+    "description": "我们的咖喱酱虾薄饼。",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-81",
+    "name": "罗萨里托虾",
+    "description": "墨西哥酱虾配墨西哥辣椒、牛油果拱门、四十豆。",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-82",
+    "name": "家常酱蟹掌",
+    "description": "蟹棕榈薄饼配我们家的酱汁。",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-83",
+    "name": "咖喱蟹掌",
+    "description": "蟹棕榈薄饼配我们的咖喱酱。",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-84",
+    "name": "三文鱼卷",
+    "description": "烟熏三文鱼卷配芝麻菜、奶油奶酪、芥末、洋葱、鳄梨和脆皮新鲜蔬菜。配上蔬菜沙拉。",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-85",
+    "name": "恩科卡多海绉",
+    "description": "章鱼、虾、鱿鱼和大虾放在黑藜麦上，沐浴在椰子酱和松脆的椰子中。",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "海果薄饼"
+  },
+  {
+    "id": "product-86",
+    "name": "波布拉纳",
+    "description": "各种奶酪、鳄梨、加洛酱、酸酱、生菜和美味的墨西哥辣椒。",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-87",
+    "name": "诺曼",
+    "description": "新鲜蘑菇、各种奶酪和蘑菇酱。",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-88",
+    "name": "托斯卡纳",
+    "description": "奶酪、番茄、罗勒、新鲜蘑菇、蘑菇和那不勒斯酱。",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-89",
+    "name": "山羊",
+    "description": "炒蘑菇、晒干的西红柿、新鲜西红柿、香蒜酱、香醋和水牛马苏里拉奶酪。",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-90",
+    "name": "大蒜蘑菇",
+    "description": "蒜酱蘑菇薄饼配奶酪。",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-91",
+    "name": "西西里岛",
+    "description": "可丽饼配水牛马苏里拉奶酪、新鲜西红柿、干西红柿和罗勒。",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-92",
+    "name": "蘑菇、朝鲜蓟和奶酪",
+    "description": "可丽饼配蘑菇、朝鲜蓟和奶酪。",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-93",
+    "name": "罗马",
+    "description": "薄饼配水牛马苏里拉奶酪、那不勒斯酱配罗勒和帕尔马干酪。",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "素食薄饼"
+  },
+  {
+    "id": "product-94",
+    "name": "地中海沙拉",
+    "description": "沙拉配虾和鱿鱼、香蒜酱、生菜、芹菜、蘑菇、洋葱、橄榄、香脂和橄榄油。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-95",
+    "name": "佛罗伦萨沙拉",
+    "description": "水牛奶酪、各种有机生菜、新鲜罗勒、干番茄、新鲜番茄和樱桃番茄、蘑菇、香蒜酱、鳄梨、黑橄榄、香醋和橄榄油。",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-96",
+    "name": "泰式沙拉",
+    "description": "火鸡胸肉配芝麻和罗勒、各种有机生菜、芝麻菜、芹菜、蘑菇、辣椒粉、樱桃番茄、脆洋葱和东方油醋汁。",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-97",
+    "name": "摩洛哥虾沙拉",
+    "description": "蒸粗麦粉由香料、鳄梨、芒果酸辣酱、烤藜麦和蔬菜沙拉搭配摩洛哥油醋汁制成。",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-98",
+    "name": "凯撒鸡肉沙拉",
+    "description": "经典凯撒沙拉、油煎面包块、樱桃番茄、帕尔马干酪。搭配黑麦面包。",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-99",
+    "name": "凯撒沙拉",
+    "description": "凯撒沙拉配生菜、凯撒酱、油煎面包块和帕尔马干酪。",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-100",
+    "name": "酒吧沙拉",
+    "description": "沙拉：准备好沙拉并享用。",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-101",
+    "name": "瓦尔帕莱索沙拉",
+    "description": "烟熏三文鱼片配梅尔肯，配以黑藜麦、羽衣甘蓝、帕尔马干酪和哥瑞纳帕达诺奶酪、切碎的番茄、鳄梨和阿拉伯油醋汁。",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-102",
+    "name": "金枪鱼沙拉",
+    "description": "腹金枪鱼、各种有机生菜、芝麻菜、黄瓜、罗勒、蘑菇、芹菜、鳄梨、樱桃番茄、黑橄榄、香草油醋汁和橄榄油。搭配阿拉伯面包",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-103",
+    "name": "地中海鱿鱼沙拉",
+    "description": "沙拉配鱿鱼、香蒜酱、生菜、芹菜、蘑菇、洋葱、橄榄、香脂和橄榄油。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-104",
+    "name": "地中海虾沙拉",
+    "description": "沙拉配虾、香蒜酱、生菜、芹菜、蘑菇、洋葱、橄榄、香脂和橄榄油。",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-105",
+    "name": "都灵沙拉",
+    "description": "水牛马苏里拉奶酪包裹在塞拉诺火腿中，配以焦糖洋葱和都灵辣椒、各种生菜、芝麻菜、樱桃番茄和第戎芥末油醋汁。搭配黑麦面包。",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-106",
+    "name": "摩洛哥鸡肉沙拉",
+    "description": "蒸粗麦粉由香料、鳄梨、芒果酸辣酱、烤藜麦和蔬菜沙拉搭配摩洛哥油醋汁制成。",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-107",
+    "name": "波托菲诺沙拉",
+    "description": "羊奶酪、干番茄、生菜、芝麻菜、罗勒、黑橄榄、新鲜番茄和樱桃番茄、蘑菇、红洋葱、香蒜酱和优质香草油醋汁。",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "沙拉"
+  },
+  {
+    "id": "product-108",
+    "name": "潘尼库克咖喱鸡",
+    "description": "Panne 厨师制作的手工面包配咖喱酱鸡肉。",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-109",
+    "name": "潘尼煮鸡",
+    "description": "Panne 用我们传统的鸡肉酱烹制手工面包。",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-110",
+    "name": "潘尼煮鸡肉、奶酪和蘑菇",
+    "description": "Panne 用鸡肉、蘑菇酱和奶酪烹制手工面包。",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-111",
+    "name": "帕内酱煮虾",
+    "description": "Panne 厨师制作手工面包和自制酱汁虾。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-112",
+    "name": "帕内用自制酱料烹制鱿鱼",
+    "description": "潘尼 (Panne) 厨师制作的手工面包配自制酱汁鱿鱼。",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-113",
+    "name": "潘尼煮鱿鱼咖喱酱",
+    "description": "Panne 厨师制作的手工面包配咖喱汁鱿鱼。",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-114",
+    "name": "潘尼库克卡萨酱棕榈心",
+    "description": "Panne Cook 制作手工面包，搭配当地酱汁蟹心",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-115",
+    "name": "潘尼用咖喱酱煮棕榈心",
+    "description": "Panne Cook 制作的手工面包配蟹心咖喱酱。",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-116",
+    "name": "潘尼库克小牛肉",
+    "description": "Panne 厨师制作的手工面包配牛肉酱。",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-117",
+    "name": "潘尼煮牛肉和蘑菇",
+    "description": "Panne Cook 手工面包配牛肉酱和蘑菇酱。",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-118",
+    "name": "潘妮·库克·斯特罗加诺夫",
+    "description": "Panne 用我们传统的沙拉酱烹制手工面包。",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-119",
+    "name": "潘尼煮大蒜虾",
+    "description": "Panne 厨师制作的手工面包配蒜酱虾。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-120",
+    "name": "潘尼库克鸡，朝鲜蓟奶酪",
+    "description": "潘尼库克鸡，朝鲜蓟奶酪",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-121",
+    "name": "潘尼库克鸡肉西兰花奶酪",
+    "description": "潘尼库克鸡肉西兰花奶酪",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-122",
+    "name": "潘尼库克博洛尼亚奶酪",
+    "description": "潘尼库克博洛尼亚奶酪",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-123",
+    "name": "潘尼咖喱虾",
+    "description": "Panne 厨师制作的手工面包配咖喱酱虾。",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "潘尼·库克"
+  },
+  {
+    "id": "product-124",
+    "name": "火鸡皮塔饼",
+    "description": "阿拉伯面包，里面塞满了火鸡胸肉、各种奶酪和第戎酱。",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-125",
+    "name": "皮塔马苏里拉口袋",
+    "description": "奶酪、那不勒斯酱和罗勒。",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-126",
+    "name": "西西里皮塔饼",
+    "description": "奶酪、那不勒斯酱、新鲜西红柿、干西红柿、罗勒和橄榄油。",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-127",
+    "name": "双袋皮塔饼",
+    "description": "阿拉伯面包，里面塞满了熏火腿和各种奶酪。",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-128",
+    "name": "皮塔卡普雷萨",
+    "description": "皮塔饼配阿拉伯面包，里面塞满了水牛奶酪、新鲜番茄、干番茄、芝麻菜和香蒜酱。",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-129",
+    "name": "希腊皮塔饼",
+    "description": "奶酪、那不勒斯酱、朝鲜蓟、紫橄榄、洋葱、番茄和香料",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-130",
+    "name": "大力水手口袋皮塔饼",
+    "description": "阿拉伯面包，里面塞满了菠菜、火腿、洋葱、鸡蛋、蘑菇和番茄，配上奶酪焗烤，配上黄酱和绿油醋汁。",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-131",
+    "name": "素食皮塔饼",
+    "description": "奶酪、那不勒斯酱、蘑菇、洋葱、番茄、辣椒粉和芹菜",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-132",
+    "name": "阿拉伯鸡肉皮塔饼",
+    "description": "烤鸡胸肉、生菜、芝麻酱、橄榄片和腌洋葱",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "皮塔斯"
+  },
+  {
+    "id": "product-133",
+    "name": "简单的华夫饼配冰淇淋",
+    "description": "华夫饼。搭配我们的一种酱汁：arequipe、巧克力、桃子、伍斯特酱、焦糖或番石榴果冻。",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-134",
+    "name": "简单搭配香缇奶油奶油",
+    "description": "华夫饼。搭配我们的一种酱汁：arequipe、巧克力、桃子、伍斯特酱、焦糖或番石榴果冻。",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-135",
+    "name": "特色华夫饼",
+    "description": "华夫饼配冰淇淋和香缇奶油奶油。最多选择四种甜酱。",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-136",
+    "name": "森林水果华夫饼",
+    "description": "华夫饼配红色浆果、香草冰淇淋和香缇奶油奶油。",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-137",
+    "name": "华夫饼黄油糖浆",
+    "description": "华夫饼加黄油和糖浆。",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-138",
+    "name": "阿雷基佩华夫饼",
+    "description": "配阿雷基佩酱、香草和阿雷基佩冰淇淋及尚蒂尔奶油",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-139",
+    "name": "阿雷基佩和香蕉华夫饼",
+    "description": "新鲜香蕉片配阿雷奎佩和巧克力酱，香草和阿雷奎佩冰淇淋搭配香缇奶油奶油。",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-140",
+    "name": "Nutella华夫饼",
+    "description": "华夫饼配香草冰淇淋和香缇奶油奶油。",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-141",
+    "name": "Nutella和香蕉华夫饼",
+    "description": "Nutella 酱和新鲜香蕉片、老式香草冰淇淋和香缇奶油奶油。",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-142",
+    "name": "巧克力华夫饼",
+    "description": "玉米华夫饼、马苏里拉奶酪和 7 种皮革与沿海乳清。",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-143",
+    "name": "蜂蜜华夫饼",
+    "description": "来自蒙特斯德玛丽亚的黄油和蜂蜜华夫饼。",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-144",
+    "name": "特色华夫饼",
+    "description": "脆皮比利时华夫饼配香草冰淇淋和香缇奶油奶油",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-145",
+    "name": "白巧克力华夫饼",
+    "description": "华夫饼：香脆的比利时华夫饼配白巧克力酱。",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-146",
+    "name": "华夫饼黄油和糖浆",
+    "description": "华夫饼：酥脆的比利时华夫饼，配黄油和糖浆。",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-147",
+    "name": "森林水果华夫饼",
+    "description": "华夫饼：脆皮比利时华夫饼配浆果酱。",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-148",
+    "name": "阿雷基佩华夫饼",
+    "description": "华夫饼：香脆的比利时华夫饼配上arequipe。",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-149",
+    "name": "Nutella华夫饼",
+    "description": "华夫饼：脆皮比利时华夫饼配Nutella。",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-150",
+    "name": "巧克力华夫饼",
+    "description": "华夫饼：香脆的比利时华夫饼配巧克力酱。",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-151",
+    "name": "焦糖华夫饼",
+    "description": "脆皮比利时华夫饼配焦糖酱。",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "华夫饼"
+  },
+  {
+    "id": "product-152",
+    "name": "诱惑",
+    "description": "海绵蛋糕沾有一丝利口酒，增强了香草、咖啡和巧克力冰淇淋的味道。与巧克力酱、核桃和香缇奶油奶油巧妙结合。",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-153",
+    "name": "阿雷基佩杯",
+    "description": "我们美味的 Arequipe 冰淇淋、香蕉片、arequipe 酱、黄油饼干和香缇奶油奶油。",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-154",
+    "name": "香蕉船",
+    "description": "香草、草莓和巧克力冰淇淋的经典组合。佐以香缇奶油奶油、核桃、香蕉、巧克力酱和arequipe。",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-155",
+    "name": "香草热巧克力",
+    "description": "老式香草冰淇淋，烤杏仁夹在香缇奶油奶油和热巧克力之间，满足您的口味。",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-156",
+    "name": "至尊",
+    "description": "香草冰淇淋和香蕉片夹在香缇奶油奶油之间，淋上巧克力和阿雷奎佩酱、迷你甜筒和坚果。",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-157",
+    "name": "百香果心血来潮",
+    "description": "百香果酸奶冰淇淋，配以百香果酱、草莓、桃子和脆脆的蕾丝饼干。",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-158",
+    "name": "焦糖哲学",
+    "description": "香草和焦糖冰淇淋、香蕉片、脆脆的澳洲坚果和杏仁结合在一起，赋予生活意义和风味。",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-159",
+    "name": "提拉米苏",
+    "description": "意大利老式香草冰淇淋、浸有干邑白兰地的海绵蛋糕、伍斯特郡、巧克力和咖啡酱的意大利组合物",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-160",
+    "name": "巧克力软糖蛋糕",
+    "description": "巧克力和咖啡冰淇淋与巧克力软糖、伍斯特郡和巧克力酱的融合，以烤杏仁和意大利脆饼为基础。",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-161",
+    "name": "甜美魅力",
+    "description": "海绵蛋糕浸入伍斯特酱和雷奎佩，搭配可卡多冰淇淋、巧克力松饼和松脆的蕾丝饼干。",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-162",
+    "name": "白女士",
+    "description": "香草和巧克力冰淇淋搭配巧克力酱、核桃和香缇奶油奶油。",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-163",
+    "name": "维苏威火山",
+    "description": "草莓、香草和柠檬冰淇淋的经典意大利组合，淋上葡萄酱和香缇奶油奶油",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-164",
+    "name": "节日",
+    "description": "海绵蛋糕搭配黑莓、草莓、百香果、柠檬和香草冰淇淋，配上香蕉片、新鲜草莓、葡萄酱和香缇奶油奶油。",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-165",
+    "name": "桃杯",
+    "description": "香草冰淇淋和百香果酸奶配桃片、百香果酱、香缇奶油奶油和脆皮蕾丝饼干。",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-166",
+    "name": "卡普里岛",
+    "description": "香草冰淇淋放在松脆的饼干上，中间是阿雷奎佩和覆盆子酱，还有香缇奶油奶油。",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-167",
+    "name": "酥皮釉",
+    "description": "蛋白酥皮和香草冰淇淋搭配热巧克力酱、核桃和香缇奶油奶油，给人带来无穷的乐趣。",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-168",
+    "name": "布朗尼杯",
+    "description": "布朗尼冰淇淋配焦糖和巧克力酱",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-169",
+    "name": "皇家香蕉",
+    "description": "香草和巧克力冰淇淋，配草莓、香蕉、巧克力酱、松脆蕾丝饼干和香缇奶油奶油。",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-170",
+    "name": "Artisan 纯素冰淇淋 800 毫升",
+    "description": "用杏仁奶和椰奶制成的冰淇淋。",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-171",
+    "name": "工匠冰淇淋升和半素食",
+    "description": "用杏仁奶和椰奶制成的冰淇淋。",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-172",
+    "name": "玻璃 1 素食口味",
+    "description": "冰淇淋：选择您的口味。",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-173",
+    "name": "玻璃杯 2 种素食口味",
+    "description": "冰淇淋：选择两种口味。",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-174",
+    "name": "利马杯",
+    "description": "香草冰淇淋配阿雷奎佩酱、浆果、蛋白酥皮、刺果番荔枝片和香缇奶油奶油。",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-175",
+    "name": "阿特萨诺冰淇淋 800 毫升",
+    "description": "冰淇淋：最多选择两种口味。",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-176",
+    "name": "Arte-Sano 冰淇淋 1.5 升",
+    "description": "冰淇淋：最多选择两种口味。",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-177",
+    "name": "一杯口味冰淇淋",
+    "description": "冰淇淋：选择您的口味。",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-178",
+    "name": "一杯两种口味的冰淇淋",
+    "description": "冰淇淋：选择两种口味。",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-179",
+    "name": "奶昔",
+    "description": "奶昔：选择您的口味。",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-180",
+    "name": "一杯三种口味的冰淇淋",
+    "description": "选择三种口味。",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-181",
+    "name": "锥体 x 10 单位",
+    "description": "华夫饼锥体。",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-182",
+    "name": "锥体 x 4 单位",
+    "description": "华夫饼锥体。",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-183",
+    "name": "小甜冰淇淋套装",
+    "description": "小甜冰淇淋套装",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-184",
+    "name": "大甜冰淇淋套装",
+    "description": "享受您最喜欢的冰淇淋，享受酱汁和不同组合的乐趣。该套件包含最多两种口味的 1.5 升 Artesano、脆饼饼干、10 个甜筒饼干和酱汁。",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-185",
+    "name": "Artisan 800ml 迪拜巧克力",
+    "description": "开心果冰淇淋配卡达伊夫和黑巧克力。",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-186",
+    "name": "Artisan 1.5l 迪拜巧克力",
+    "description": "开心果冰淇淋配卡达伊夫和黑巧克力。",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-187",
+    "name": "玻璃 1 球迪拜巧克力",
+    "description": "开心果冰淇淋配卡达伊夫和黑巧克力。",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-188",
+    "name": "装有 2 个迪拜巧克力球的玻璃杯",
+    "description": "开心果冰淇淋配卡达伊夫和黑巧克力。",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "冰淇淋"
+  },
+  {
+    "id": "product-189",
+    "name": "迷你蜂蜜华夫饼",
+    "description": "来自蒙特斯德玛丽亚的迷你华夫饼加黄油和蜂蜜。",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-190",
+    "name": "传统迷你华夫饼",
+    "description": "迷你华夫饼加黄油和糖浆。",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-191",
+    "name": "迷你华夫饼 Arequipe",
+    "description": "迷你华夫饼配香草冰淇淋和香缇奶油奶油。",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-192",
+    "name": "迷你森林水果华夫饼",
+    "description": "迷你华夫饼配红浆果、香草冰淇淋和香缇奶油奶油。",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-193",
+    "name": "迷你Nutella华夫饼",
+    "description": "迷你华夫饼配香草冰淇淋和香缇奶油奶油。",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-194",
+    "name": "迷你 D'Yuca 华夫饼",
+    "description": "迷你华夫饼配黄油、有机红糖和番石榴果冻。",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-195",
+    "name": "迷你巧克力华夫饼",
+    "description": "搭配香草冰淇淋和香缇奶油奶油。",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-196",
+    "name": "双 D'Yuca 迷你华夫饼",
+    "description": "两个迷你华夫饼，配黄油、有机红糖和番石榴果冻。",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "迷你华夫饼"
+  },
+  {
+    "id": "product-197",
+    "name": "小猪冰淇淋",
+    "description": "小猪冰淇淋",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "儿童冰淇淋"
+  },
+  {
+    "id": "product-198",
+    "name": "萨米",
+    "description": "企鹅配香草冰淇淋",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "儿童冰淇淋"
+  },
+  {
+    "id": "product-199",
+    "name": "天秤座 - 咖啡豆 500gr",
+    "description": "100% 哥伦比亚优质咖啡，由 Crepes & Waffles 每日烘焙和包装。",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "咖啡与乐趣"
+  },
+  {
+    "id": "product-200",
+    "name": "Libra - 咖啡粉 500gr",
+    "description": "100% 哥伦比亚优质咖啡，由 Crepes & Waffles 每日烘焙和包装。",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "咖啡与乐趣"
+  },
+  {
+    "id": "product-201",
+    "name": "红酒 - AMORETINTO 750ml",
+    "description": "红酒瓶。品种：梅洛 产地：智利。",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-202",
+    "name": "白葡萄酒 - AMORETINTO 750ml",
+    "description": "白葡萄酒瓶。菌株：Gewurstraminier 产地：智利。",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-203",
+    "name": "普罗塞克 750ml",
+    "description": "普罗塞克葡萄酒瓶。菌株：Glera 产地：意大利。",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-204",
+    "name": "红酒1/2瓶-AMORETINTO375ml",
+    "description": "半瓶红酒。品种：梅洛 产地：智利。",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-205",
+    "name": "白葡萄酒1/2瓶-AMORETINTO375ml",
+    "description": "半瓶白葡萄酒。菌株：Gewurstraminier 产地：智利。",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-206",
+    "name": "普罗塞克 1/2 瓶 375 毫升",
+    "description": "半瓶普罗塞克葡萄酒。菌株：Glera 产地：意大利。",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "葡萄酒"
+  },
+  {
+    "id": "product-207",
+    "name": "森林水果酱250ml",
+    "description": "我们的黑莓、草莓、覆盆子、黑莓和蓝莓的经典组合。",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-208",
+    "name": "华夫饼面团 500ml",
+    "description": "我们的面团准备好做煎饼或华夫饼。",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-209",
+    "name": "阿雷基佩酱 500ml",
+    "description": "经典的技巧，创造甜蜜时刻。",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-210",
+    "name": "香蒜酱 250ml",
+    "description": "以罗勒、橄榄油、帕尔马干酪和核桃为基础的制剂。",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-211",
+    "name": "好高250ml",
+    "description": "添加哥伦比亚风味。",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-212",
+    "name": "家常酱 500ml",
+    "description": "以烤辣椒和番茄为基础的酱汁。",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-213",
+    "name": "咖喱500ml",
+    "description": "印度的香料给了我们所有的味道。与鸡肉、虾或蔬菜一起使用。",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-214",
+    "name": "博洛尼亚肉酱 500ml",
+    "description": "这就是意大利的味道，就像博洛尼亚肉酱一样。与薄饼或意大利面一起使用。添加帕尔马干酪。",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-215",
+    "name": "那不勒斯 500ml",
+    "description": "采用意大利风味烹制的西红柿。",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-216",
+    "name": "蘑菇酱500ml",
+    "description": "酱汁中的蘑菇可搭配您最喜欢的任何食物。",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-217",
+    "name": "科瓦拉奇亚汤 500ml",
+    "description": "墨西哥汤",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-218",
+    "name": "菠菜汤500ml",
+    "description": "菠菜汤。",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-219",
+    "name": "洋葱汤500ml",
+    "description": "洋葱汤。",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-220",
+    "name": "好高500ml",
+    "description": "添加哥伦比亚风味。",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-221",
+    "name": "玉米面团500ml",
+    "description": "我们的面团准备好做煎饼或华夫饼。",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-222",
+    "name": "丝兰面团",
+    "description": "我们的面团已准备好用于煎饼或华夫饼（冷冻面团）。",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-223",
+    "name": "芥末油醋汁 250ml",
+    "description": "以芥末为主角的油醋汁。用它来陪伴你最喜欢的！建议份量 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-224",
+    "name": "香醋 250ml",
+    "description": "香醋、橄榄油和蜂蜜的完美混合物。建议份量 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-225",
+    "name": "东方油醋汁 250ml",
+    "description": "油醋汁混合了醋、芥末和酸甜的味道。",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-226",
+    "name": "洛米托辣椒 500 毫升",
+    "description": "普图马约辣椒酱的经典腰肉。",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-227",
+    "name": "墨西哥酱 500 毫升",
+    "description": "辣红番茄和辣椒酱",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-228",
+    "name": "帕尔马干酪酱 500 毫升",
+    "description": "以帕尔马干酪、浓奶油和黑胡椒为基础的酱汁。",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-229",
+    "name": "沙拉酱 500 毫升",
+    "description": "腰肉切丝和蘑菇",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-230",
+    "name": "鸡肉 500 毫升",
+    "description": "我们的经典鸡酱",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-231",
+    "name": "泰式鸡肉 500 毫升",
+    "description": "以咖喱和百香果为基础的东方风味混合鸡肉。",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-232",
+    "name": "Cochinita Pibil 500 毫升",
+    "description": "切碎的猪肉，用柑橘和红木腌制。用小火煮。",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-233",
+    "name": "阿胡山汤 500 升",
+    "description": "南瓜汤。用小火加热！",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-234",
+    "name": "扁豆汤 500ml",
+    "description": "配以蘑菇、波多贝罗、白鲸扁豆和淡淡的印度香料。",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-235",
+    "name": "番石榴果冻 500ml",
+    "description": "经典番石榴果冻酱，打造甜蜜时刻。",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-236",
+    "name": "番石榴果冻 250ml",
+    "description": "经典番石榴果冻酱，打造甜蜜时刻。",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-237",
+    "name": "百香果酱 500 毫升",
+    "description": "含有百香果提取物的酱汁。您可以将其用于甜点或糖醋菜肴中。",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-238",
+    "name": "百香果酱 250ml",
+    "description": "含有百香果提取物的酱汁。您可以将其用于甜点或糖醋菜肴中。",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-239",
+    "name": "家常酱 1 升",
+    "description": "以烤辣椒和番茄为基础的酱汁",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-240",
+    "name": "咖喱酱 1升",
+    "description": "印度的香料给了我们所有的味道。与鸡肉、虾或蔬菜一起使用。",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-241",
+    "name": "博洛尼亚酱 1升",
+    "description": "这就是意大利的味道，就像博洛尼亚肉酱一样。与薄饼或意大利面一起使用。添加帕尔马干酪。",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-242",
+    "name": "那不勒斯酱 1升",
+    "description": "意大利风味的西红柿",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-243",
+    "name": "科瓦拉奇亚汤 1 升",
+    "description": "墨西哥汤。用小火加热！",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-244",
+    "name": "菠菜汤 1升",
+    "description": "菠菜汤。用小火加热！",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-245",
+    "name": "洋葱汤 1升",
+    "description": "洋葱汤。用小火加热！",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-246",
+    "name": "墨西哥酱 1 升",
+    "description": "辣红番茄和辣椒酱",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-247",
+    "name": "帕尔马干酪酱 1 升",
+    "description": "以帕尔马干酪、浓奶油和黑胡椒为基础的酱汁。",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-248",
+    "name": "阿胡山汤 1lt",
+    "description": "南瓜汤。用小火加热！",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-249",
+    "name": "扁豆汤 1升",
+    "description": "配以蘑菇、波多贝罗、白鲸扁豆和淡淡的印度香料。",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-250",
+    "name": "生命绿叶汤 500ml",
+    "description": "绿色蔬菜和嫩玉米的软奶油。用小火加热。建议份量：1.5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-251",
+    "name": "生命绿叶汤 1 升",
+    "description": "绿色蔬菜和嫩玉米的软奶油。用小火加热。建议份量：3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-252",
+    "name": "黄豆秋汤500ml",
+    "description": "蔬菜与豆类的爆炸。用小火加热。建议份量：1.5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "在家做薄饼"
+  },
+  {
+    "id": "product-253",
+    "name": "黄豆秋汤 1lt",
+    "description": "蔬菜与豆类的爆炸。用小火加热。建议份量：3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "在家做薄饼"
+  }
+]

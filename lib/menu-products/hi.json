@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "product-1",
+    "name": "नुटेला क्रेप",
+    "description": "चैंटिली के साथ नुटेला क्रेप।",
+    "price": 16900,
+    "image": "data/images/crepe-de-nutella.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-2",
+    "name": "नुटेला बनाना क्रेप",
+    "description": "केले के स्लाइस और चान्तिली क्रीम के साथ नुटेला क्रेप।",
+    "price": 17400,
+    "image": "data/images/crepe-nutella-banano.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-3",
+    "name": "बच्ची गुड़िया",
+    "description": "ताजा केला, वेनिला आइसक्रीम, अखरोट, हॉट चॉकलेट और चान्तिली क्रीम के साथ क्रेप।",
+    "price": 15400,
+    "image": "data/images/baby-doll.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-4",
+    "name": "क्लियोपेट्रा",
+    "description": "केले और स्ट्रॉबेरी के स्लाइस, ब्लैकबेरी आइसक्रीम, चैंटिली क्रीम और अंगूर और वोस्टरशायर सॉस।",
+    "price": 14300,
+    "image": "data/images/cleopatra.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-5",
+    "name": "मोंट ब्लांक",
+    "description": "स्ट्रॉबेरी और चान्तिली क्रीम के साथ सफेद चॉकलेट क्रेप।",
+    "price": 17400,
+    "image": "data/images/mont-blanc.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-6",
+    "name": "चॉकलेट फोंड्यू",
+    "description": "स्ट्रॉबेरी और केले पर चॉकलेट के साथ क्रेप, वेनिला आइसक्रीम और चान्तिली क्रीम।",
+    "price": 14500,
+    "image": "data/images/chocolate-fondue.webp",
+    "category": "मीठे क्रेप्स"
+  },
+  {
+    "id": "product-7",
+    "name": "वेनिला चॉकोलमोंड (470 मिली)",
+    "description": "टोस्टेड बादाम और चॉकलेट फ़ज के साथ वेनिला आइसक्रीम।",
+    "price": 24800,
+    "image": "data/images/vainilla-chocoalmond-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-8",
+    "name": "स्ट्रैसीएटेला पैशन फ्रूट (470 मिली)",
+    "description": "उष्णकटिबंधीय जुनून: डार्क चॉकलेट के टुकड़े और जुनून फल की नसें।",
+    "price": 24800,
+    "image": "data/images/maracuy-stracciatella-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-9",
+    "name": "लुलाडा (470 मिली)",
+    "description": "पानी में लूलो आइसक्रीम.",
+    "price": 24800,
+    "image": "data/images/lulada-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-10",
+    "name": "अमरूद दही (470 मिली)",
+    "description": "अमरूद की नसों के साथ दही आइसक्रीम।",
+    "price": 24800,
+    "image": "data/images/yogurt-de-guayaba-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-11",
+    "name": "डल्से डे लेचे (470 मिली)",
+    "description": "स्ट्रैसिएटेला के साथ अर्जेंटीना डल्से डे लेचे।",
+    "price": 24800,
+    "image": "data/images/dulce-de-leche-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-12",
+    "name": "अमरेनास के साथ ग्रीक दही (470 मिली)",
+    "description": "इटैलियन पीली चेरी के साथ ग्रीक योगर्ट आइसक्रीम।",
+    "price": 24800,
+    "image": "data/images/yogurt-griego-con-amarenas-470-ml.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-13",
+    "name": "गुलाब की पंखुड़ियाँ",
+    "description": "गुलाब की पंखुड़ी वाली आइसक्रीम",
+    "price": 24800,
+    "image": "data/images/petalos-de-rosa.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-14",
+    "name": "आम की लस्सी",
+    "description": "ग्रीक दही और चीनी आम के साथ बनाया गया, यह एक फल है और तालू को ताज़गी देने वाला है।",
+    "price": 24800,
+    "image": "data/images/mango-lassi.webp",
+    "category": "मौसमी आइस क्रीम (470 एमएल)"
+  },
+  {
+    "id": "product-15",
+    "name": "ब्लैकबेरी जूस 11 ऑउंस",
+    "description": "पानी या दूध में प्राकृतिक ब्लैकबेरी का रस 11 आउंस",
+    "price": 7900,
+    "image": "data/images/jugo-de-mora-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-16",
+    "name": "आम का रस 11 आउंस",
+    "description": "पानी या दूध में प्राकृतिक आम का रस 11 आउंस",
+    "price": 7900,
+    "image": "data/images/jugo-de-mango-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-17",
+    "name": "स्ट्रॉबेरी जूस 11 ऑउंस",
+    "description": "पानी या दूध में प्राकृतिक स्ट्रॉबेरी का रस 11 आउंस",
+    "price": 8100,
+    "image": "data/images/jugo-de-fresa-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-18",
+    "name": "सॉरसोप जूस 11 ऑउंस",
+    "description": "पानी या दूध में प्राकृतिक खट्टा रस 11 आउंस",
+    "price": 8200,
+    "image": "data/images/jugo-de-guan-bana-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-19",
+    "name": "अनानास, अदरक और पुदीना 11 औंस",
+    "description": "ताजे फलों के मिश्रण वाली स्मूदी 11 ऑउंस",
+    "price": 9900,
+    "image": "data/images/pi-a-jengibre-y-hierbabuena-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-20",
+    "name": "मैंगो बिचे नींबू पानी 9 ऑउंस",
+    "description": "बिचे मैंगो लेमोनेड 9 ऑउंस",
+    "price": 9600,
+    "image": "data/images/limonada-mango-biche-9-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-21",
+    "name": "प्राकृतिक नींबू पानी 11 आउंस",
+    "description": "प्राकृतिक नींबू पानी 11 आउंस",
+    "price": 6500,
+    "image": "data/images/limonada-natural-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-22",
+    "name": "नारियल नींबू पानी 9 आउंस",
+    "description": "नारियल के दूध और नींबू के साथ नींबू पानी 9 आउंस",
+    "price": 11300,
+    "image": "data/images/limonada-de-coco-9-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-23",
+    "name": "पुदीना नींबू पानी 9 आउंस",
+    "description": "पुदीना नींबू पानी 9 आउंस",
+    "price": 7900,
+    "image": "data/images/limonada-de-hierbabuena-9-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-24",
+    "name": "जॉय 11 ऑउंस",
+    "description": "आम, पैशन फ्रूट और अनानास स्मूदी 11 ऑउंस",
+    "price": 10800,
+    "image": "data/images/alegria-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-25",
+    "name": "वेलनेस 11 ऑउंस",
+    "description": "सेब, नाशपाती, फीजोआ और पुदीना स्मूदी 11 ऑउंस",
+    "price": 10800,
+    "image": "data/images/bienestar-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-26",
+    "name": "आड़ू का रस 9 आउंस",
+    "description": "दूध में प्राकृतिक आड़ू का रस 9 आउंस",
+    "price": 8900,
+    "image": "data/images/jugo-de-durazno-9-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-27",
+    "name": "फीजोआ जूस 11 ऑउंस",
+    "description": "पानी में प्राकृतिक फीजोआ जूस 11 ऑउंस",
+    "price": 7400,
+    "image": "data/images/jugo-de-feijoa-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-28",
+    "name": "रास्पबेरी का रस",
+    "description": "पानी में प्राकृतिक रास्पबेरी का रस.",
+    "price": 9900,
+    "image": "data/images/jugo-de-frambuesa.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-29",
+    "name": "टेंजेरीन जूस 11 ऑउंस",
+    "description": "टेंजेरीन जूस 11 ऑउंस",
+    "price": 9900,
+    "image": "data/images/jugo-mandarina-11-oz.webp",
+    "category": "प्राकृतिक रस"
+  },
+  {
+    "id": "product-30",
+    "name": "बुआई का पानी 477 मि.ली",
+    "description": "बुआई का पानी 500 मि.ली.",
+    "price": 7400,
+    "image": "data/images/agua-siembra-477ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-31",
+    "name": "कोका-कोला ओरिजिनल 300 मिली",
+    "description": "कोका-कोला मूल शीतल पेय 300 मि.ली.",
+    "price": 6200,
+    "image": "data/images/coca-cola-original-300-ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-32",
+    "name": "श्वेपेप्स जिंजर एले 300 मि.ली",
+    "description": "श्वेपेप्स जिंजर सोडा 300 मि.ली.",
+    "price": 6700,
+    "image": "data/images/schweppes-ginger-ale-300ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-33",
+    "name": "स्टिल स्प्रिंग वॉटर 500 मि.ली",
+    "description": "झरने का पानी 500 मि.ली.",
+    "price": 7200,
+    "image": "data/images/agua-manantial-sin-gas-500ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-34",
+    "name": "कोका-कोला जीरो 300 मिली",
+    "description": "बिना चीनी का कोका-कोला सोडा 330 मि.ली.",
+    "price": 6200,
+    "image": "data/images/coca-cola-zero-300-ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-35",
+    "name": "स्पार्कलिंग स्प्रिंग वॉटर 300 मि.ली",
+    "description": "चमचमाता झरने का पानी 300 मि.ली.",
+    "price": 6900,
+    "image": "data/images/agua-manantial-con-gas-300ml.webp",
+    "category": "अन्य पेय"
+  },
+  {
+    "id": "product-36",
+    "name": "क्लब कोलम्बिया 330 मि.ली",
+    "description": "लेगर प्रकार की बियर। % अल्कोहल: 4.7%. मूल देश: कोलंबिया",
+    "price": 10400,
+    "image": "data/images/club-colombia-330ml.webp",
+    "category": "बियर"
+  },
+  {
+    "id": "product-37",
+    "name": "स्टेला आर्टोइस 330 मि.ली",
+    "description": "लेगर प्रकार की बियर।",
+    "price": 12900,
+    "image": "data/images/stella-artois-330ml.webp",
+    "category": "बियर"
+  },
+  {
+    "id": "product-38",
+    "name": "मोनसेरेट बीयर 330 मि.ली",
+    "description": "लाल बियर, फलयुक्त और हॉप्स से भरपूर। भरपूर और संतुलित सुगंध।",
+    "price": 12600,
+    "image": "data/images/cerveza-monserrate-330ml.webp",
+    "category": "बियर"
+  },
+  {
+    "id": "product-39",
+    "name": "पालक का सूप",
+    "description": "बगीचे से आपके घर तक पालक का सूप। स्वाभाविक रूप से स्वादिष्ट..",
+    "price": 13900,
+    "image": "data/images/sopa-de-espinaca.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-40",
+    "name": "चिकन के साथ मैक्सिकन सूप",
+    "description": "मेक्सिको के स्वाद: चिपोटल मिर्च, खट्टा क्रीम, पनीर, एवोकैडो, चिकन, पिको डी गैलो और मैक्सिकन टॉर्टिला।",
+    "price": 19900,
+    "image": "data/images/sopa-mexicana-con-pollo.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-41",
+    "name": "पारडीन दाल का सूप",
+    "description": "मशरूम और पोर्टोबेलोस के साथ सूप, भारतीय मसालों के हल्के स्पर्श के साथ।",
+    "price": 14800,
+    "image": "data/images/sopa-de-lentejas-pardinas.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-42",
+    "name": "कोवरैचिया सूप",
+    "description": "सूप जहां टमाटर, मक्का और केला हमारी भूमि के स्वादों के मूल्य को उजागर करने के लिए आते हैं, एवोकैडो, खट्टा क्रीम और सीताफल के साथ।",
+    "price": 15900,
+    "image": "data/images/sopa-covarachia.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-43",
+    "name": "सूर्य का सूप",
+    "description": "बकरी पनीर और पेस्टो, पीटा ब्रेड और सीलेंट्रो के स्पर्श के साथ कद्दू का सूप।",
+    "price": 14600,
+    "image": "data/images/sopa-del-sol.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-44",
+    "name": "ग्रीन्स सूप में जीवन",
+    "description": "साग और कोमल मकई की नरम क्रीम।",
+    "price": 13200,
+    "image": "data/images/sopa-vida-en-verdes.webp",
+    "category": "सूप"
+  },
+  {
+    "id": "product-45",
+    "name": "चिकन, पनीर और मशरूम",
+    "description": "चिकन क्रेप + पनीर + मशरूम = हमेशा स्वादिष्ट।",
+    "price": 29900,
+    "image": "data/images/pollo-queso-y-champi-ones.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-46",
+    "name": "चिकन करी",
+    "description": "हमारी करी सॉस में चिकन क्रेप।",
+    "price": 29900,
+    "image": "data/images/pollo-al-curry.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-47",
+    "name": "मैक्सिकन ट्रफल चिकन",
+    "description": "मैक्सिकन स्वादों के मिश्रण के साथ क्रेप, ह्यूट्लाकोचे, एवोकैडो और पनीर सॉस के साथ।",
+    "price": 32500,
+    "image": "data/images/pollo-trufa-mexicano.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-48",
+    "name": "चिकन, ब्रोकोली और पनीर",
+    "description": "चिकन क्रेप + ब्रोकोली + पनीर = बिल्कुल स्वादिष्ट।",
+    "price": 32600,
+    "image": "data/images/pollo-br-coli-y-queso.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-49",
+    "name": "मैक्सिकन चिकन",
+    "description": "मैक्सिकन और चिपोटल सॉस में चिकन, कसा हुआ पनीर, सलाद, खट्टा क्रीम, मिर्च और पिको डी गैलो। (थोड़ा मसालेदार)",
+    "price": 31300,
+    "image": "data/images/pollo-mexicano.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-50",
+    "name": "थाई चिकन",
+    "description": "चिकन ब्रेस्ट और पोर्टोबेलो मशरूम क्रेप, करी और पैशन फ्रूट पर आधारित प्राच्य स्वादों के मिश्रण के साथ।",
+    "price": 32400,
+    "image": "data/images/pollo-thai.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-51",
+    "name": "रोसारिटो चिकन",
+    "description": "मैक्सिकन सॉस में चिकन क्रेप, चिपोटल, एवोकैडो आर्चेस और फ्रेंच बीन्स के साथ।",
+    "price": 30800,
+    "image": "data/images/pollo-rosarito.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-52",
+    "name": "भारतीय चिकन",
+    "description": "मूंगफली, किशमिश और आम की चटनी के साथ भारतीय शैली की करी चिकन क्रेप।",
+    "price": 30600,
+    "image": "data/images/pollo-hind.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-53",
+    "name": "चिकन और पनीर",
+    "description": "सॉस और पनीर में क्लासिक चिकन क्रेप।",
+    "price": 26900,
+    "image": "data/images/pollo-y-queso.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-54",
+    "name": "चिकन और मशरूम",
+    "description": "चिकन क्रेप + मशरूम = हमेशा स्वादिष्ट।",
+    "price": 29900,
+    "image": "data/images/pollo-y-champi-ones.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-55",
+    "name": "पेरूवियन चिकन",
+    "description": "अजी डे गैलिना लीमा, जैतून सॉस और बैंगनी जैतून, अरुगुला और अंडे की विशिष्ट तैयारी। (थोड़ा मसालेदार).",
+    "price": 30900,
+    "image": "data/images/pollo-peruano.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-56",
+    "name": "चिली पैंका के साथ चिकन क्रेप",
+    "description": "पेरू के सभी स्वादों के साथ चिकन क्रेप। धनिया बीन प्यूरी, एवोकैडो, अरुगुला, पेपरिका फिलामेंट्स और लाल प्याज के साथ। (थोड़ा मसालेदार).",
+    "price": 31900,
+    "image": "data/images/crepe-de-pollo-al-aj-panka.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-57",
+    "name": "चिकन, आटिचोक और पनीर",
+    "description": "चिकन क्रेप, आटिचोक और पनीर सॉस",
+    "price": 33500,
+    "image": "data/images/pollo-alchachofa-y-queso.webp",
+    "category": "चिकन क्रेप्स"
+  },
+  {
+    "id": "product-58",
+    "name": "बोलोग्नीज़ और पनीर",
+    "description": "बोलोग्नीज़ क्रेप + चीज़ = हमें याद रखने का सबसे आसान तरीका।",
+    "price": 22300,
+    "image": "data/images/bolo-esa-y-queso.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-59",
+    "name": "बोलोग्नीज़, पनीर और मशरूम",
+    "description": "बोलोग्नीज़ क्रेप + पनीर + मशरूम = अच्छा मिश्रण",
+    "price": 24900,
+    "image": "data/images/bolo-esa-queso-y-champi-ones.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-60",
+    "name": "बोलोग्नीज़, हैम और पनीर",
+    "description": "बोलोग्नीज़ क्रेप + हैम + पनीर = अचूक",
+    "price": 25900,
+    "image": "data/images/bolo-esa-jam-n-y-queso.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-61",
+    "name": "स्ट्रोगानॉफ़",
+    "description": "उनके सॉस में कमर और मशरूम के जूलिएन स्ट्रिप्स के साथ क्रेप।",
+    "price": 35900,
+    "image": "data/images/stroganoff.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-62",
+    "name": "सीआर वील",
+    "description": "सॉस में गोमांस के साथ क्रेप.",
+    "price": 30200,
+    "image": "data/images/cr-ternera.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-63",
+    "name": "गोमांस और मशरूम",
+    "description": "बीफ़ क्रेप + मशरूम = जिसके लिए अतीत वर्तमान है।",
+    "price": 30800,
+    "image": "data/images/ternera-y-champi-ones.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-64",
+    "name": "मैक्सिकन",
+    "description": "बोलोग्नीज़, कसा हुआ पनीर, सलाद, मैक्सिकन सॉस, खट्टा क्रीम, मिर्च और पिको डी गैलो।",
+    "price": 27900,
+    "image": "data/images/mexicano.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-65",
+    "name": "अरबी कमर",
+    "description": "मध्य पूर्वी मसालों और सलाद के साथ लोइन क्रेप अपने बेहतरीन अंदाज में।",
+    "price": 40600,
+    "image": "data/images/lomo-rabe.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-66",
+    "name": "वुएल्तियाओ टोपी",
+    "description": "कटा हुआ मांस क्रेप, पके केले की प्यूरी, खट्टा क्रीम, एवोकैडो और पिको डी गैलो पर होगाओ के साथ तैयार किया गया।",
+    "price": 29900,
+    "image": "data/images/sombrero-vueltiao.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-67",
+    "name": "भुना हुआ मांस",
+    "description": "भुने हुए गोमांस और पनीर के टुकड़े, भुने हुए प्याज, अरुगुला, चिपोटल मेयोनेज़ और प्याज सॉकरक्राट, स्वाद की कल्पना पैदा करते हैं। (थोड़ा मसालेदार).",
+    "price": 34600,
+    "image": "data/images/roastbeef.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-68",
+    "name": "कोचीनिटा पिबिल",
+    "description": "कटा हुआ सूअर का मांस की मैक्सिकन तैयारी, साइट्रस टोन और एवोकैडो, पिको डी गैलो, मसालेदार प्याज और खट्टा क्रीम के स्पर्श के साथ।",
+    "price": 28500,
+    "image": "data/images/cochinita-pibil.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-69",
+    "name": "काली मिर्च लोमिटो",
+    "description": "काली मिर्च की चटनी में कमर के जूलिएन स्ट्रिप्स के साथ क्रेप।",
+    "price": 36900,
+    "image": "data/images/lomito-pimienta.webp",
+    "category": "मांस क्रेप्स"
+  },
+  {
+    "id": "product-70",
+    "name": "हैम और पनीर क्रेप",
+    "description": "हैम + चीज़ क्रेप = पहली चीज़ जो आपने आज़माई।",
+    "price": 19600,
+    "image": "data/images/crepe-de-jam-n-y-queso.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-71",
+    "name": "हैम, पनीर और मशरूम",
+    "description": "हैम + पनीर + मशरूम क्रेप = एक शाश्वत आनंद।",
+    "price": 23600,
+    "image": "data/images/jam-n-queso-y-champi-ones.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-72",
+    "name": "टर्की डच चीज़ और डिजोनाइस सॉस",
+    "description": "टर्की ब्रेस्ट क्रेप + चीज़ + डिजोनाइस = अच्छी याददाश्त।",
+    "price": 30900,
+    "image": "data/images/pavo-queso-holand-s-y-salsa-dijonnaise.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-73",
+    "name": "कोलम्बिया सनसनी",
+    "description": "कटा हुआ मांस, पनीर, अंडा, खट्टा क्रीम और हमारे पारंपरिक होगाओ के साथ क्रेप।",
+    "price": 27900,
+    "image": "data/images/sensaci-n-colombia.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-74",
+    "name": "अनुभूति",
+    "description": "स्मोक्ड हैम, डच पनीर और अंडा। इसे प्याज और टमाटर के साथ भी ऑर्डर करें.",
+    "price": 24900,
+    "image": "data/images/sensaci-n.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-75",
+    "name": "फ़्रेंच कनेक्शन",
+    "description": "स्मोक्ड हैम, रिकोटा चीज़ और सिरप के साथ क्रेप।",
+    "price": 21400,
+    "image": "data/images/french-connection.webp",
+    "category": "क्लासिक क्रेप्स"
+  },
+  {
+    "id": "product-76",
+    "name": "हाउस सॉस में कैलामारी",
+    "description": "हमारे घरेलू सॉस में कैलामारी क्रेप।",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-de-la-casa.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-77",
+    "name": "करी सॉस में कैलामारी",
+    "description": "हमारी करी सॉस में कैलामारी क्रेप।",
+    "price": 34500,
+    "image": "data/images/calamares-en-salsa-curry.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-78",
+    "name": "हाउस सॉस में झींगा",
+    "description": "हमारे घरेलू सॉस में झींगा क्रेप।",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-de-la-casa.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-79",
+    "name": "लहसुन झींगा",
+    "description": "हमारे लहसुन सॉस में झींगा क्रेप।",
+    "price": 39900,
+    "image": "data/images/camarones-al-ajillo.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-80",
+    "name": "करी सॉस में झींगा",
+    "description": "हमारी करी सॉस में झींगा क्रेप।",
+    "price": 39900,
+    "image": "data/images/camarones-en-salsa-curry.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-81",
+    "name": "रोसारिटो झींगा",
+    "description": "चिपोटल, एवोकैडो आर्चेस, फोर्टिनोस बीन्स के साथ मैक्सिकन सॉस में झींगा।",
+    "price": 40800,
+    "image": "data/images/camarones-rosarito.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-82",
+    "name": "हाउस सॉस में केकड़ा हथेलियाँ",
+    "description": "हमारे घर की चटनी में केकड़ा पाम क्रेप।",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-de-la-casa.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-83",
+    "name": "करी सॉस में केकड़े की हथेलियाँ",
+    "description": "हमारी करी सॉस में क्रैब पाम क्रेप।",
+    "price": 31300,
+    "image": "data/images/palmitos-de-cangrejo-en-salsa-curry.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-84",
+    "name": "सामन रोल",
+    "description": "अरुगुला, क्रीम चीज़, सरसों, प्याज, एवोकैडो और कुरकुरी ताजी सब्जियों के साथ स्मोक्ड सैल्मन रोल। हरी सलाद के साथ.",
+    "price": 41500,
+    "image": "data/images/salm-n-roll.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-85",
+    "name": "एन्कोकैडो सी क्रेप",
+    "description": "काले क्विनोआ पर ऑक्टोपस, झींगा, स्क्विड और झींगे, नारियल की चटनी में नहाए हुए और कुरकुरे नारियल का स्पर्श।",
+    "price": 40900,
+    "image": "data/images/crepe-mar-encocado.webp",
+    "category": "समुद्री फल क्रेप्स"
+  },
+  {
+    "id": "product-86",
+    "name": "पोबलाना",
+    "description": "विभिन्न प्रकार के पनीर, एवोकैडो, पिको डी गैलो, खट्टी चटनी, सलाद और मिर्च का स्वादिष्ट मैक्सिकन स्पर्श।",
+    "price": 24900,
+    "image": "data/images/poblana.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-87",
+    "name": "नॉर्मन",
+    "description": "ताज़ा मशरूम, विभिन्न प्रकार की चीज़ और मशरूम सॉस।",
+    "price": 25900,
+    "image": "data/images/normanda.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-88",
+    "name": "टस्कनी",
+    "description": "पनीर, टमाटर, तुलसी, ताज़ा मशरूम, मशरूम और नीपोलिटन सॉस।",
+    "price": 24900,
+    "image": "data/images/toscana.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-89",
+    "name": "बकरी",
+    "description": "भुने हुए मशरूम, धूप में सुखाए हुए टमाटर, ताज़ा टमाटर, पेस्टो, बाल्समिक रिडक्शन और बफ़ेलो मोज़ेरेला।",
+    "price": 28900,
+    "image": "data/images/caprino.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-90",
+    "name": "लहसुन मशरूम",
+    "description": "पनीर के साथ लहसुन की चटनी में मशरूम क्रेप।",
+    "price": 21900,
+    "image": "data/images/champi-ones-al-ajillo.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-91",
+    "name": "सिसिली",
+    "description": "भैंस मोज़ेरेला, ताज़ा टमाटर, सूखे टमाटर और तुलसी के साथ क्रेप।",
+    "price": 24300,
+    "image": "data/images/sicilia.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-92",
+    "name": "मशरूम, आटिचोक और पनीर",
+    "description": "मशरूम, आटिचोक और पनीर के साथ क्रेप।",
+    "price": 26900,
+    "image": "data/images/champi-ones-alcachofa-y-queso.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-93",
+    "name": "रोमन",
+    "description": "भैंस मोज़ेरेला के साथ क्रेप, तुलसी और परमेसन चीज़ के साथ नीपोलिटन सॉस।",
+    "price": 21900,
+    "image": "data/images/romana.webp",
+    "category": "शाकाहारी क्रेप्स"
+  },
+  {
+    "id": "product-94",
+    "name": "भूमध्यसागरीय सलाद",
+    "description": "झींगा और स्क्विड, पेस्टो, सलाद, अजवाइन, मशरूम, प्याज, जैतून, बाल्समिक और जैतून का तेल के साथ सलाद।",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-95",
+    "name": "फ्लोरेंटाइन सलाद",
+    "description": "बफ़ेलो मोत्ज़ारेला, विभिन्न प्रकार के जैविक सलाद, ताज़ा तुलसी, सूखे, ताज़ा और चेरी टमाटर, मशरूम, पेस्टो, एवोकैडो, काले जैतून, बाल्समिक सिरका और जैतून का तेल।",
+    "price": 35500,
+    "image": "data/images/ensalada-florentina.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-96",
+    "name": "थाई सलाद",
+    "description": "तिल और तुलसी के साथ टर्की ब्रेस्ट, विभिन्न प्रकार के ऑर्गेनिक लेट्यूस, अरुगुला, अजवाइन, मशरूम, पेपरिका, चेरी टमाटर, कुरकुरा प्याज और एक ओरिएंटल विनैग्रेट।",
+    "price": 36200,
+    "image": "data/images/ensalada-thai.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-97",
+    "name": "झींगा के साथ मोरक्कन सलाद",
+    "description": "मसालों, एवोकैडो, आम की चटनी, टोस्टेड क्विनोआ और मोरक्कन विनैग्रेट के साथ हरे सलाद से तैयार कूसकूस।",
+    "price": 41900,
+    "image": "data/images/ensalada-marroqu-con-camar-n.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-98",
+    "name": "चिकन के साथ सीज़र सलाद",
+    "description": "क्लासिक सीज़र सलाद, क्राउटन, चेरी टमाटर, परमेसन चीज़। राई की रोटी के साथ।",
+    "price": 29500,
+    "image": "data/images/ensalada-c-sar-con-pollo.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-99",
+    "name": "सीज़र सलाद",
+    "description": "लेट्यूस, सीज़र सॉस, क्राउटन और परमेसन चीज़ के साथ सीज़र सलाद।",
+    "price": 17600,
+    "image": "data/images/ensalada-c-sar.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-100",
+    "name": "बार सलाद",
+    "description": "सलाद: अपना सलाद इकट्ठा करें और आनंद लें।",
+    "price": 18400,
+    "image": "data/images/ensalada-de-la-barra.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-101",
+    "name": "वलपराइसो सलाद",
+    "description": "मर्केन के साथ स्मोक्ड सैल्मन फ़िलेट, काले क्विनोआ के साथ, परमेसन चीज़ और ग्रेना पैडानो के साथ केल, कटा हुआ टमाटर, एवोकैडो और अरबी विनैग्रेट।",
+    "price": 42800,
+    "image": "data/images/ensalada-valparaiso.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-102",
+    "name": "टूना सलाद",
+    "description": "बेली ट्यूना, विभिन्न प्रकार के जैविक सलाद, अरुगुला, ककड़ी, तुलसी, मशरूम, अजवाइन, एवोकैडो, चेरी टमाटर, काले जैतून, जड़ी बूटी विनैग्रेट और जैतून का तेल। साथ में अरबी रोटी",
+    "price": 40900,
+    "image": "data/images/tuna-salad.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-103",
+    "name": "भूमध्यसागरीय कैलामारी सलाद",
+    "description": "स्क्विड, पेस्टो, सलाद, अजवाइन, मशरूम, प्याज, जैतून, बाल्समिक और जैतून के तेल के साथ सलाद।",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-calamares.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-104",
+    "name": "भूमध्यसागरीय झींगा सलाद",
+    "description": "झींगा, पेस्टो, सलाद, अजवाइन, मशरूम, प्याज, जैतून, बाल्समिक और जैतून के तेल के साथ सलाद।",
+    "price": 41800,
+    "image": "data/images/ensalada-mediterr-nea-camarones.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-105",
+    "name": "टोरिना सलाद",
+    "description": "कारमेलाइज़्ड प्याज और टोरिनो काली मिर्च, विभिन्न प्रकार के लेट्यूस, अरुगुला, चेरी टमाटर और डिजॉन सरसों-आधारित विनिगेट के साथ सेरानो हैम में लपेटा हुआ बफ़ेलो मोज़ेरेला। राई की रोटी के साथ।",
+    "price": 38500,
+    "image": "data/images/ensalada-torina.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-106",
+    "name": "मोरक्कन चिकन सलाद",
+    "description": "मसालों, एवोकैडो, आम की चटनी, टोस्टेड क्विनोआ और मोरक्कन विनैग्रेट के साथ हरे सलाद से तैयार कूसकूस।",
+    "price": 29200,
+    "image": "data/images/ensalada-de-pollo-marroqu.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-107",
+    "name": "पोर्टोफिनो सलाद",
+    "description": "फ़ेटा चीज़, सूखे टमाटर, सलाद, अरुगुला, तुलसी, काले जैतून, ताज़ा और चेरी टमाटर, मशरूम, लाल प्याज, पेस्टो और बढ़िया जड़ी-बूटियाँ विनैग्रेट।",
+    "price": 39900,
+    "image": "data/images/ensalada-portofino.webp",
+    "category": "सलाद"
+  },
+  {
+    "id": "product-108",
+    "name": "पन्ने कुक चिकन करी",
+    "description": "पन्ने करी सॉस में चिकन के साथ कारीगर ब्रेड पकाएं।",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-al-curry.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-109",
+    "name": "पन्ने कुक चिकन",
+    "description": "हमारे पारंपरिक चिकन सॉस के साथ कारीगर ब्रेड का पन्ने कुक।",
+    "price": 27900,
+    "image": "data/images/panne-cook-pollo.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-110",
+    "name": "पन्ने कुक चिकन, पनीर और मशरूम",
+    "description": "पन्ने चिकन, मशरूम सॉस और पनीर के साथ कारीगर ब्रेड पकाएं।",
+    "price": 34900,
+    "image": "data/images/panne-cook-pollo-queso-y-champi-ones.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-111",
+    "name": "पन्ने कुक झींगा इन हाउस सॉस",
+    "description": "पन्ने घर की बनी चटनी में झींगा के साथ कारीगर ब्रेड पकाएँ।",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-de-la-casa.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-112",
+    "name": "पन्ने कुक कैलामारी इन हाउस सॉस",
+    "description": "पन्ने हाउस सॉस में स्क्विड के साथ कारीगर रोटी पकाना।",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-de-la-casa.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-113",
+    "name": "पन्ने कैलामारी को करी सॉस में पकाएं",
+    "description": "पन्ने करी सॉस में स्क्विड के साथ कारीगर ब्रेड पकाएँ।",
+    "price": 39700,
+    "image": "data/images/panne-cook-calamares-en-salsa-curry.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-114",
+    "name": "पन्ने ने कासा सॉस में हार्ट्स ऑफ पाम को पकाया",
+    "description": "पन्ने स्थानीय सॉस में केकड़े के दिल के साथ कारीगर की रोटी पकाना",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-casa.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-115",
+    "name": "पन्ने करी सॉस में हार्ट्स ऑफ पाम पकाते हैं",
+    "description": "पन्ने करी सॉस में केकड़े के दिल के साथ कारीगर ब्रेड पकाएं।",
+    "price": 34900,
+    "image": "data/images/panne-cook-palmitos-en-salsa-curry.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-116",
+    "name": "पन्ने कुक वील",
+    "description": "पन्ने बीफ़ सॉस के साथ कारीगर ब्रेड पकाएँ।",
+    "price": 34200,
+    "image": "data/images/panne-cook-ternera.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-117",
+    "name": "पन्ने कुक बीफ और मशरूम",
+    "description": "पन्ने बीफ सॉस और मशरूम सॉस के साथ कारीगर ब्रेड पकाएं।",
+    "price": 34600,
+    "image": "data/images/panne-cook-ternera-y-champi-ones.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-118",
+    "name": "पन्ने कुक स्ट्रोगानॉफ़",
+    "description": "हमारे पारंपरिक स्ट्रैगनॉफ़ सॉस के साथ कारीगर ब्रेड का पन्ने कुक।",
+    "price": 43900,
+    "image": "data/images/panne-cook-stroganoff.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-119",
+    "name": "पन्ने कुक लहसुन झींगा",
+    "description": "पन्ने लहसुन की चटनी में झींगा के साथ कारीगर रोटी पकाना।",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-al-ajillo.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-120",
+    "name": "पन्ने कुक चिकन, आटिचोक चीज़",
+    "description": "पन्ने कुक चिकन, आटिचोक चीज़",
+    "price": 37200,
+    "image": "data/images/panne-cook-pollo-alchachofa-queso.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-121",
+    "name": "पन्ने कुक चिकन ब्रोकोली चीज़",
+    "description": "पन्ने कुक चिकन ब्रोकोली चीज़",
+    "price": 36900,
+    "image": "data/images/panne-cook-pollo-brocoli-queso.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-122",
+    "name": "पन्ने कुक बोलोग्नीज़ चीज़",
+    "description": "पन्ने कुक बोलोग्नीज़ चीज़",
+    "price": 27800,
+    "image": "data/images/panne-cook-bolo-esa-queso.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-123",
+    "name": "पन्ने झींगा को करी सॉस में पकाएं",
+    "description": "पन्ने करी सॉस में झींगा के साथ कारीगर ब्रेड पकाएं।",
+    "price": 44900,
+    "image": "data/images/panne-cook-camarones-en-salsa-curry.webp",
+    "category": "पैने कुक"
+  },
+  {
+    "id": "product-124",
+    "name": "टर्की पिटा",
+    "description": "टर्की ब्रेस्ट, विभिन्न प्रकार की चीज़ों और डिजॉनीज़ सॉस से भरी अरबी ब्रेड।",
+    "price": 30800,
+    "image": "data/images/pita-de-pavo.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-125",
+    "name": "पिटा मोत्ज़ारेला पॉकेट",
+    "description": "पनीर, नीपोलिटन सॉस और तुलसी।",
+    "price": 15900,
+    "image": "data/images/pita-mozzarella-pocket.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-126",
+    "name": "सिसिली पिटा",
+    "description": "पनीर, नीपोलिटन सॉस, ताज़ा टमाटर, सूखे टमाटर, तुलसी और जैतून का तेल।",
+    "price": 26900,
+    "image": "data/images/pita-siciliana.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-127",
+    "name": "डबल पॉकेट पीटा",
+    "description": "स्मोक्ड हैम और विभिन्न प्रकार की चीज़ों से भरी हुई अरबी ब्रेड।",
+    "price": 24200,
+    "image": "data/images/pita-doble-pocket.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-128",
+    "name": "पिटा कैप्रेसा",
+    "description": "भैंस मोत्ज़ारेला, ताजा टमाटर, सूखे टमाटर, अरुगुला और पेस्टो से भरी अरबी ब्रेड के साथ पीटा।",
+    "price": 26900,
+    "image": "data/images/pita-capresa.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-129",
+    "name": "ग्रीक पिटा",
+    "description": "पनीर, नीपोलिटन सॉस, आटिचोक, बैंगनी जैतून, प्याज, टमाटर और मसाले",
+    "price": 26900,
+    "image": "data/images/pita-griega.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-130",
+    "name": "पिटा पोपेय पॉकेट",
+    "description": "पालक, हैम, प्याज, अंडा, मशरूम और टमाटर से भरी हुई अरबी ब्रेड, पनीर के साथ ग्रैटिन, पीली चटनी और हरी विनैग्रेट के साथ।",
+    "price": 22900,
+    "image": "data/images/pita-popeye-pocket.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-131",
+    "name": "शाकाहारी पिटा",
+    "description": "पनीर, नीपोलिटन सॉस, मशरूम, प्याज, टमाटर, लाल शिमला मिर्च और अजवाइन",
+    "price": 24800,
+    "image": "data/images/pita-vegetariana.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-132",
+    "name": "अरबी चिकन पीटा",
+    "description": "बेक्ड चिकन ब्रेस्ट, सलाद, ताहिनी, जैतून के टुकड़े और मसालेदार प्याज",
+    "price": 27900,
+    "image": "data/images/pita-de-pollo-rabe.webp",
+    "category": "पिटास"
+  },
+  {
+    "id": "product-133",
+    "name": "आइसक्रीम के साथ सरल वफ़ल",
+    "description": "वफ़ल. इसे हमारे सॉस में से किसी एक के साथ ऑर्डर करें: अरेक्विप, चॉकलेट, आड़ू, वॉर्सेस्टरशायर सॉस, कारमेल या अमरूद जेली।",
+    "price": 15300,
+    "image": "data/images/waffle-sencillo-con-helado.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-134",
+    "name": "चैन्टिली क्रीम के साथ सरल",
+    "description": "वफ़ल. इसे हमारे सॉस में से किसी एक के साथ ऑर्डर करें: अरेक्विप, चॉकलेट, आड़ू, वॉर्सेस्टरशायर सॉस, कारमेल या अमरूद जेली।",
+    "price": 13900,
+    "image": "data/images/sencillo-con-crema-chantilly.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-135",
+    "name": "विशेष वफ़ल",
+    "description": "आइसक्रीम और चान्तिली क्रीम के साथ वफ़ल। अधिकतम चार मीठी सॉस चुनें।",
+    "price": 17900,
+    "image": "data/images/waffle-especial.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-136",
+    "name": "वन फल वफ़ल",
+    "description": "लाल जामुन, वेनिला आइसक्रीम और चान्तिली क्रीम के साथ वफ़ल।",
+    "price": 15300,
+    "image": "data/images/waffle-de-frutos-del-bosque.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-137",
+    "name": "वफ़ल बटर सिरप",
+    "description": "मक्खन और सिरप के साथ वफ़ल।",
+    "price": 10200,
+    "image": "data/images/waffle-mantequilla-syrup.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-138",
+    "name": "अरेक्विप वफ़ल",
+    "description": "अरेक्विप सॉस, वेनिला और चैन्टिल क्रीम के साथ अरेक्विप आइसक्रीम के साथ",
+    "price": 14300,
+    "image": "data/images/waffle-arequipe.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-139",
+    "name": "अरेक्विप और बनाना वफ़ल",
+    "description": "अरेक्विप और चॉकलेट सॉस के साथ ताजा केले के टुकड़े, चैन्टिली क्रीम के साथ वेनिला और अरेक्विप आइसक्रीम।",
+    "price": 14900,
+    "image": "data/images/waffle-arequipe-y-banano.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-140",
+    "name": "नुटेला वफ़ल",
+    "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ वफ़ल।",
+    "price": 17600,
+    "image": "data/images/waffle-de-nutella.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-141",
+    "name": "नुटेला और केला वफ़ल",
+    "description": "नुटेला और ताज़ा केले के टुकड़े, पुरानी शैली की वेनिला आइसक्रीम और चान्तिली क्रीम।",
+    "price": 17900,
+    "image": "data/images/waffle-de-nutella-y-banano.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-142",
+    "name": "वफ़ल डी'चोकलो",
+    "description": "कॉर्न वफ़ल, मोज़ेरेला चीज़ और कोस्टल व्हे के साथ 7 लेदर।",
+    "price": 15900,
+    "image": "data/images/waffle-d-choclo.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-143",
+    "name": "शहद वफ़ल",
+    "description": "मोंटेस डी मारिया से मक्खन और शहद के साथ वफ़ल।",
+    "price": 10200,
+    "image": "data/images/waffle-miel.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-144",
+    "name": "विशेष वफ़ल",
+    "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ क्रिस्पी बेल्जियन वफ़ल",
+    "price": 18700,
+    "image": "data/images/gofre-especial.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-145",
+    "name": "सफेद चॉकलेट वफ़ल",
+    "description": "वफ़ल: सफ़ेद चॉकलेट सॉस के साथ कुरकुरा बेल्जियन वफ़ल।",
+    "price": 12500,
+    "image": "data/images/gofre-chocolate-blanco.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-146",
+    "name": "वफ़ल मक्खन और सिरप",
+    "description": "वफ़ल: मक्खन और सिरप के साथ कुरकुरा बेल्जियम वफ़ल।",
+    "price": 9900,
+    "image": "data/images/gofre-mantequilla-y-syrup.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-147",
+    "name": "वन फल वफ़ल",
+    "description": "वफ़ल: बेरी सॉस के साथ कुरकुरा बेल्जियन वफ़ल।",
+    "price": 14500,
+    "image": "data/images/gofre-frutos-del-bosque.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-148",
+    "name": "अरेक्विप वफ़ल",
+    "description": "वफ़ल: अरेक्विप के साथ कुरकुरा बेल्जियन वफ़ल।",
+    "price": 11800,
+    "image": "data/images/gofre-arequipe.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-149",
+    "name": "नुटेला वफ़ल",
+    "description": "वफ़ल: नुटेला के साथ कुरकुरा बेल्जियम वफ़ल।",
+    "price": 14900,
+    "image": "data/images/gofre-nutella.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-150",
+    "name": "चॉकलेट वफ़ल",
+    "description": "वफ़ल: चॉकलेट सॉस के साथ कुरकुरा बेल्जियम वफ़ल।",
+    "price": 11500,
+    "image": "data/images/gofre-chocolate.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-151",
+    "name": "कारमेल वफ़ल",
+    "description": "कारमेल सॉस के साथ क्रिस्पी बेल्जियन वफ़ल।",
+    "price": 8400,
+    "image": "data/images/gofre-caramelo.webp",
+    "category": "वफ़ल"
+  },
+  {
+    "id": "product-152",
+    "name": "प्रलोभन",
+    "description": "स्पंज केक को लिकर के स्पर्श से नहलाया गया है जो वेनिला, कॉफी और चॉकलेट आइसक्रीम के स्वाद को बढ़ाता है। चॉकलेट सॉस, अखरोट और चान्तिली क्रीम के साथ सूक्ष्मता से मेल खाता है।",
+    "price": 16900,
+    "image": "data/images/tentaci-n.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-153",
+    "name": "अरेक्विप कप",
+    "description": "हमारी स्वादिष्ट अरेक्विप आइसक्रीम, केले के स्लाइस, अरेक्विप सॉस, बटर कुकी और चान्तिली क्रीम।",
+    "price": 14500,
+    "image": "data/images/copa-arequipe.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-154",
+    "name": "केले का विभाजन",
+    "description": "वेनिला, स्ट्रॉबेरी और चॉकलेट आइसक्रीम का क्लासिक संयोजन। चान्तिली क्रीम, अखरोट, केला, चॉकलेट सॉस और अरेक्विप के साथ।",
+    "price": 17500,
+    "image": "data/images/banana-split.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-155",
+    "name": "वेनिला हॉट चॉकलेट",
+    "description": "पुराने स्टाइल की वेनिला आइसक्रीम, चैंटिली क्रीम और हॉट चॉकलेट के बीच टोस्टेड बादाम जिसके साथ आप अपने स्वाद को संतुष्ट करेंगे।",
+    "price": 14900,
+    "image": "data/images/vainilla-hot-chocolate.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-156",
+    "name": "सर्वोच्च",
+    "description": "चैन्टिली क्रीम के बीच वेनिला आइसक्रीम और केले के स्लाइस, चॉकलेट और अरेक्विप सॉस, मिनी कुकी कोन और नट्स से नहाए हुए।",
+    "price": 15300,
+    "image": "data/images/suprema.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-157",
+    "name": "पैशन फ्रूट व्हिम",
+    "description": "पैशन फ्रूट योगर्ट आइसक्रीम पैशन फ्रूट कौलिस, स्ट्रॉबेरी, आड़ू और लेस कुकी के क्रंच के साथ।",
+    "price": 15300,
+    "image": "data/images/capricho-de-maracuy.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-158",
+    "name": "कारमेल दर्शन",
+    "description": "वेनिला और कारमेल आइसक्रीम, केले के टुकड़े, कुरकुरे और कुरकुरे मैकाडामिया और बादाम जीवन को अर्थ और स्वाद देने के लिए एक साथ आते हैं।",
+    "price": 11900,
+    "image": "data/images/filosof-a-acaramelada.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-159",
+    "name": "तिरामिसु",
+    "description": "पुरानी शैली की वेनिला आइसक्रीम की इतालवी संरचना, कॉन्यैक से नहाया हुआ स्पंज केक, वॉर्सेस्टरशायर, चॉकलेट और कॉफी सॉस के साथ टोन किया गया",
+    "price": 14800,
+    "image": "data/images/tiramis.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-160",
+    "name": "चॉकलेट और फ़ज केक",
+    "description": "टोस्टेड बादाम और इटैलियन क्रंच के आधार पर चॉकलेट फ़ज, वॉर्सेस्टरशायर और चॉकलेट सॉस के साथ चॉकलेट और कॉफ़ी आइसक्रीम का फ्यूज़न।",
+    "price": 15400,
+    "image": "data/images/tarta-de-chocolate-y-fudge.webp",
+    "category": "आइसक्रीम"
+  },
+  {
+    "id": "product-161",
+    "name": "मधुर आकर्षण",
+    "description": "कोकाडो आइसक्रीम, चॉकलेट टार्टुफिनो और कुरकुरे लेस कुकी के साथ वॉर्सेस्टरशायर सॉस और अरेक्विप में नहाया हुआ स्पंज केक।",
+    "price": 15400,
+    "image": "data/images/dulce-encanto.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-162",
+    "name": "सफ़ेद औरत",
+    "description": "चॉकलेट सॉस, अखरोट और चान्तिली क्रीम के साथ वेनिला और चॉकलेट आइसक्रीम।",
+    "price": 11900,
+    "image": "data/images/dama-blanca.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-163",
+    "name": "वेसुवियस",
+    "description": "स्ट्रॉबेरी, वेनिला और नींबू आइसक्रीम का क्लासिक इतालवी संयोजन, अंगूर की चटनी और चान्तिली क्रीम से नहाया हुआ",
+    "price": 11900,
+    "image": "data/images/vesubio.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-164",
+    "name": "उत्सव",
+    "description": "स्पंज केक के साथ ब्लैकबेरी, स्ट्रॉबेरी, पैशन फ्रूट, नींबू और वेनिला आइसक्रीम, केले के टुकड़े, ताजी स्ट्रॉबेरी, अंगूर की चटनी और चान्तिली क्रीम।",
+    "price": 22300,
+    "image": "data/images/festival.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-165",
+    "name": "पीच कप",
+    "description": "कटे हुए आड़ू, पैशन फ्रूट कौलिस, चैंटिली क्रीम और क्रिस्पी लेस कुकी के साथ वेनिला आइसक्रीम और पैशन फ्रूट दही।",
+    "price": 15300,
+    "image": "data/images/copa-melocot-n.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-166",
+    "name": "कैपरी",
+    "description": "चान्तिली क्रीम के साथ अरेक्विप और रास्पबेरी सॉस के बीच कुरकुरे कुकी पर वेनिला आइसक्रीम।",
+    "price": 12100,
+    "image": "data/images/capri.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-167",
+    "name": "मेरिंग्यू ग्लेज़",
+    "description": "मेरिंग्यू और वेनिला आइसक्रीम गर्म चॉकलेट सॉस, अखरोट और चैंटिली क्रीम के साथ खेलने से आनंद के अलावा कुछ नहीं मिलता है।",
+    "price": 16200,
+    "image": "data/images/merengue-glaz.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-168",
+    "name": "ब्राउनी कप",
+    "description": "कारमेल और चॉकलेट सॉस के साथ ब्राउनी आइसक्रीम",
+    "price": 12900,
+    "image": "data/images/copa-brownie.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-169",
+    "name": "केला रॉयल",
+    "description": "वेनिला और चॉकलेट आइसक्रीम, स्ट्रॉबेरी, केला, चॉकलेट सॉस, कुरकुरे लेस कुकी और चान्तिली क्रीम के साथ।",
+    "price": 14200,
+    "image": "data/images/banana-royal.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-170",
+    "name": "कारीगर आइसक्रीम 800 मिली शाकाहारी",
+    "description": "बादाम के दूध और नारियल के दूध से बनी आइसक्रीम।",
+    "price": 42900,
+    "image": "data/images/helado-artesano-800-ml-vegano.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-171",
+    "name": "कारीगर आइसक्रीम लीटर और आधा शाकाहारी",
+    "description": "बादाम के दूध और नारियल के दूध से बनी आइसक्रीम।",
+    "price": 54900,
+    "image": "data/images/helado-artesano-litro-y-medio-vegano.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-172",
+    "name": "ग्लास 1 शाकाहारी स्वाद",
+    "description": "आइसक्रीम: अपना स्वाद चुनें।",
+    "price": 9300,
+    "image": "data/images/vaso-1-sabor-vegano.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-173",
+    "name": "ग्लास 2 शाकाहारी स्वाद",
+    "description": "आइसक्रीम: दो स्वाद चुनें।",
+    "price": 11400,
+    "image": "data/images/vaso-2-sabores-veganos.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-174",
+    "name": "लीमा कप",
+    "description": "अरेक्विप सॉस, बेरी, मेरिंग्यू, सॉरसॉप फ्लेक्स और चान्तिली क्रीम के साथ वेनिला आइसक्रीम।",
+    "price": 16400,
+    "image": "data/images/copa-lime-a.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-175",
+    "name": "आर्टे-सानो आइसक्रीम 800 मिली",
+    "description": "आइसक्रीम: अधिकतम दो स्वाद चुनें।",
+    "price": 32900,
+    "image": "data/images/helado-arte-sano-800-ml.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-176",
+    "name": "आर्टे-सानो आइसक्रीम 1.5 लीटर",
+    "description": "आइसक्रीम: अधिकतम दो स्वाद चुनें।",
+    "price": 44900,
+    "image": "data/images/helado-arte-sano-1-5lt.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-177",
+    "name": "आइसक्रीम के स्वाद का गिलास",
+    "description": "आइसक्रीम: अपना स्वाद चुनें।",
+    "price": 7500,
+    "image": "data/images/vaso-de-un-sabor-de-helado.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-178",
+    "name": "दो फ्लेवर की आइसक्रीम का गिलास",
+    "description": "आइसक्रीम: दो स्वाद चुनें।",
+    "price": 9900,
+    "image": "data/images/vaso-de-dos-sabores-de-helado.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-179",
+    "name": "मिल्कशेक",
+    "description": "मिल्कशेक: अपना स्वाद चुनें।",
+    "price": 15500,
+    "image": "data/images/malteadas.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-180",
+    "name": "तीन फ्लेवर की आइसक्रीम का गिलास",
+    "description": "तीन स्वाद चुनें.",
+    "price": 12800,
+    "image": "data/images/vaso-de-tres-sabores-de-helado.webp",
+    "category": "आइसक्रीम"
+  },
+  {
+    "id": "product-181",
+    "name": "शंकु x 10 इकाइयाँ",
+    "description": "वफ़ल शंकु.",
+    "price": 9800,
+    "image": "data/images/conos-x-10-unidades.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-182",
+    "name": "शंकु x 4 इकाइयाँ",
+    "description": "वफ़ल शंकु.",
+    "price": 7900,
+    "image": "data/images/conos-x-4-unidades.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-183",
+    "name": "छोटी मीठी आइसक्रीम किट",
+    "description": "छोटी मीठी आइसक्रीम किट",
+    "price": 46100,
+    "image": "data/images/kit-hel-ado-dulce-peque-o.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-184",
+    "name": "बड़ी मीठी आइसक्रीम किट",
+    "description": "अपनी पसंदीदा आइसक्रीम का आनंद लें और सॉस और विभिन्न संयोजनों का आनंद लें। किट में दो फ्लेवर तक 1.5 लीटर आर्टेसानो, शॉर्टब्रेड कुकीज़, 10 कुकी कोन और एक सॉस शामिल है।",
+    "price": 68100,
+    "image": "data/images/kit-hel-ado-dulce-grande.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-185",
+    "name": "कारीगर 800 मिलीलीटर दुबई चॉकलेट",
+    "description": "कड़ाइफ़ और डार्क चॉकलेट के साथ पिस्ता आइसक्रीम।",
+    "price": 45900,
+    "image": "data/images/artesano-800ml-chocolate-dubai.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-186",
+    "name": "कारीगर 1.5एल चॉकलेट दुबई",
+    "description": "कड़ाइफ़ और डार्क चॉकलेट के साथ पिस्ता आइसक्रीम।",
+    "price": 57900,
+    "image": "data/images/artesano-1-5l-chocolate-dubai.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-187",
+    "name": "ग्लास 1 बॉल दुबई चॉकलेट",
+    "description": "कड़ाइफ़ और डार्क चॉकलेट के साथ पिस्ता आइसक्रीम।",
+    "price": 9500,
+    "image": "data/images/vaso-1-bola-chocolate-dubai.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-188",
+    "name": "2 दुबई चॉकलेट बॉल्स के साथ ग्लास",
+    "description": "कड़ाइफ़ और डार्क चॉकलेट के साथ पिस्ता आइसक्रीम।",
+    "price": 11900,
+    "image": "data/images/vaso-2-bolas-chocolate-dubai.webp",
+    "category": "आइस क्रीम"
+  },
+  {
+    "id": "product-189",
+    "name": "मिनी हनी वफ़ल",
+    "description": "मोंटेस डी मारिया से मक्खन और शहद के साथ मिनी वफ़ल।",
+    "price": 10200,
+    "image": "data/images/mini-waffle-miel.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-190",
+    "name": "पारंपरिक मिनी वफ़ल",
+    "description": "मक्खन और सिरप के साथ मिनी वफ़ल।",
+    "price": 10200,
+    "image": "data/images/mini-waffle-tradicional.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-191",
+    "name": "मिनी वफ़ल अरेक्विप",
+    "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ मिनी वफ़ल।",
+    "price": 14300,
+    "image": "data/images/mini-waffles-arequipe.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-192",
+    "name": "मिनी वन फल वफ़ल",
+    "description": "लाल जामुन, वेनिला आइसक्रीम और चान्तिली क्रीम के साथ मिनी वफ़ल।",
+    "price": 15300,
+    "image": "data/images/mini-waffles-frutos-del-bosque.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-193",
+    "name": "मिनी नुटेला वफ़ल",
+    "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ मिनी वफ़ल।",
+    "price": 17600,
+    "image": "data/images/mini-waffles-nutella.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-194",
+    "name": "मिनी डी'युका वफ़ल",
+    "description": "मक्खन, पिसी हुई जैविक ब्राउन शुगर और अमरूद जेली के साथ मिनी वफ़ल।",
+    "price": 8900,
+    "image": "data/images/mini-waffle-d-yuca.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-195",
+    "name": "मिनी चॉकलेट वफ़ल",
+    "description": "वेनिला आइसक्रीम और चान्तिली क्रीम के साथ।",
+    "price": 14300,
+    "image": "data/images/mini-waffle-chocolate.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-196",
+    "name": "डबल डी'युका मिनी वफ़ल",
+    "description": "मक्खन, पिसी हुई जैविक ब्राउन शुगर और अमरूद जेली के साथ दो मिनी वफ़ल।",
+    "price": 15600,
+    "image": "data/images/mini-waffles-d-yuca-doble.webp",
+    "category": "मिनी वफ़ल"
+  },
+  {
+    "id": "product-197",
+    "name": "पिग्गी आइसक्रीम",
+    "description": "पिग्गी आइसक्रीम",
+    "price": 9800,
+    "image": "data/images/helado-piggy.webp",
+    "category": "बच्चों की आइसक्रीम"
+  },
+  {
+    "id": "product-198",
+    "name": "सैमी",
+    "description": "वेनिला आइसक्रीम के साथ पेंगुइन",
+    "price": 9600,
+    "image": "data/images/samy.webp",
+    "category": "बच्चों की आइसक्रीम"
+  },
+  {
+    "id": "product-199",
+    "name": "तुला - कॉफी बीन्स 500 ग्राम",
+    "description": "100% कोलम्बियाई उत्कृष्ट कॉफी, क्रेप्स और वफ़ल द्वारा प्रतिदिन भूनी और पैक की जाती है।",
+    "price": 39800,
+    "image": "data/images/libra-caf-en-grano-500gr.webp",
+    "category": "कॉफ़ी और आनंद"
+  },
+  {
+    "id": "product-200",
+    "name": "तुला - ग्राउंड कॉफ़ी 500 ग्राम",
+    "description": "100% कोलम्बियाई उत्कृष्ट कॉफी, क्रेप्स और वफ़ल द्वारा प्रतिदिन भूनी और पैक की जाती है।",
+    "price": 39800,
+    "image": "data/images/libra-caf-molido-500gr.webp",
+    "category": "कॉफ़ी और आनंद"
+  },
+  {
+    "id": "product-201",
+    "name": "रेड वाइन - अमोरेटिन्टो 750 मि.ली",
+    "description": "रेड वाइन की बोतल. तनाव: मर्लोट उत्पत्ति: चिली।",
+    "price": 102500,
+    "image": "data/images/vino-tinto-amoretinto-750ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-202",
+    "name": "व्हाइट वाइन - अमोरेटिन्टो 750 मि.ली",
+    "description": "सफेद शराब की बोतल. तनाव: गेवुरस्ट्रामिनियर उत्पत्ति: चिली।",
+    "price": 102500,
+    "image": "data/images/vino-blanco-amoretinto-750ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-203",
+    "name": "प्रोसेको 750 मि.ली",
+    "description": "प्रोसेको शराब की बोतल. प्रजाति: ग्लेरा उत्पत्ति: इटली।",
+    "price": 110500,
+    "image": "data/images/prosecco-750ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-204",
+    "name": "रेड वाइन 1/2 बोतल - AMORETINTO375ml",
+    "description": "आधी बोतल रेड वाइन. तनाव: मर्लोट उत्पत्ति: चिली।",
+    "price": 65500,
+    "image": "data/images/vino-tinto-1-2-botella-amoretinto375ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-205",
+    "name": "व्हाइट वाइन 1/2 बोतल -AMORETINTO375ml",
+    "description": "आधी बोतल सफेद शराब. तनाव: गेवुरस्ट्रामिनियर उत्पत्ति: चिली।",
+    "price": 65500,
+    "image": "data/images/vino-blanco-1-2-botella-amoretinto375ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-206",
+    "name": "प्रोसेको 1/2 बोतल 375 मिली",
+    "description": "आधी बोतल प्रोसेको वाइन। प्रजाति: ग्लेरा उत्पत्ति: इटली।",
+    "price": 80000,
+    "image": "data/images/prosecco-1-2-botella-375-ml.webp",
+    "category": "मदिरा"
+  },
+  {
+    "id": "product-207",
+    "name": "वन फल सॉस 250 मि.ली",
+    "description": "ब्लैकबेरी, स्ट्रॉबेरी, रास्पबेरी, ब्लैकबेरी और ब्लूबेरी का हमारा क्लासिक मिश्रण।",
+    "price": 15800,
+    "image": "data/images/salsa-frutos-del-bosque-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-208",
+    "name": "वफ़ल आटा 500 मि.ली",
+    "description": "हमारा आटा पैनकेक या वफ़ल के लिए तैयार है.",
+    "price": 13400,
+    "image": "data/images/masa-waffle-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-209",
+    "name": "अरेक्विप सॉस 500 मि.ली",
+    "description": "मधुर क्षण बनाने के लिए क्लासिक उपकरण।",
+    "price": 20000,
+    "image": "data/images/salsa-arequipe-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-210",
+    "name": "पेस्टो 250 मि.ली",
+    "description": "तुलसी, जैतून का तेल, परमेसन चीज़ और अखरोट पर आधारित तैयारी।",
+    "price": 24000,
+    "image": "data/images/pesto-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-211",
+    "name": "होगाओ 250 मि.ली",
+    "description": "कोलम्बिया का स्वाद जोड़ें।",
+    "price": 10900,
+    "image": "data/images/hogao-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-212",
+    "name": "हाउस सॉस 500 मि.ली",
+    "description": "भुनी हुई मिर्च और टमाटर पर आधारित सॉस।",
+    "price": 30800,
+    "image": "data/images/salsa-de-la-casa-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-213",
+    "name": "करी 500 मि.ली",
+    "description": "भारत अपने मसालों से हमें अपना सारा स्वाद देता है। इसे चिकन, झींगा या सब्जियों के साथ प्रयोग करें।",
+    "price": 24900,
+    "image": "data/images/curry-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-214",
+    "name": "बोलोग्नीज़ 500 मि.ली",
+    "description": "इटली का स्वाद बोलोग्नीज़ जैसा है। इसे क्रेप्स या पास्ता के साथ प्रयोग करें। परमेसन डालें।",
+    "price": 25700,
+    "image": "data/images/bolo-esa-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-215",
+    "name": "नियपोलिटन 500 मि.ली",
+    "description": "इटली के स्वाद से तैयार टमाटर.",
+    "price": 17900,
+    "image": "data/images/napolitana-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-216",
+    "name": "मशरूम सॉस 500 मि.ली",
+    "description": "जो भी आपको सबसे ज्यादा पसंद हो, उसके साथ सॉस में मशरूम डालें।",
+    "price": 25000,
+    "image": "data/images/salsa-champi-ones-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-217",
+    "name": "कोवरैचिया सूप 500 मि.ली",
+    "description": "मैक्सिकन सूप",
+    "price": 14900,
+    "image": "data/images/sopa-covarach-a-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-218",
+    "name": "पालक का सूप 500 मि.ली",
+    "description": "पालक का सूप.",
+    "price": 14900,
+    "image": "data/images/sopa-espinaca-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-219",
+    "name": "प्याज का सूप 500 मि.ली",
+    "description": "प्याज का सूप.",
+    "price": 16200,
+    "image": "data/images/sopa-cebolla-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-220",
+    "name": "होगाओ 500 मि.ली",
+    "description": "कोलम्बिया का स्वाद जोड़ें।",
+    "price": 16900,
+    "image": "data/images/hogao-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-221",
+    "name": "मक्के का आटा 500 मि.ली",
+    "description": "हमारा आटा पैनकेक या वफ़ल के लिए तैयार है.",
+    "price": 24800,
+    "image": "data/images/masa-de-choclo-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-222",
+    "name": "युक्का आटा",
+    "description": "हमारा आटा पैनकेक या वफ़ल (जमे हुए आटे) के लिए तैयार है।",
+    "price": 26800,
+    "image": "data/images/masa-de-yuca.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-223",
+    "name": "सरसों विनैग्रेट 250 मि.ली",
+    "description": "विनैग्रेट जहां सरसों नायक है। जो आपको सबसे अधिक पसंद है उसके साथ इसका उपयोग करें! सुझाई गई सर्विंग्स 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-mostaza-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-224",
+    "name": "बाल्सेमिक विनैग्रेट 250 मि.ली",
+    "description": "बाल्समिक सिरका, जैतून का तेल और शहद का सही मिश्रण। सुझाई गई सर्विंग्स 3.",
+    "price": 23300,
+    "image": "data/images/vinagreta-bals-mico-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-225",
+    "name": "ओरिएंटल विनैग्रेट 250 मि.ली",
+    "description": "सिरका, सरसों और मीठे और खट्टे स्वाद के मिश्रण के साथ विनैग्रेट।",
+    "price": 23300,
+    "image": "data/images/vinagreta-oriental-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-226",
+    "name": "काली मिर्च लोमिटो 500 मि.ली",
+    "description": "पुटुमायो काली मिर्च सॉस में क्लासिक कमर।",
+    "price": 56000,
+    "image": "data/images/lomito-pimienta-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-227",
+    "name": "मैक्सिकन सॉस 500 मि.ली",
+    "description": "मसालेदार लाल टमाटर और चिपोटल काली मिर्च की चटनी",
+    "price": 17900,
+    "image": "data/images/salsa-mexicana-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-228",
+    "name": "परमेसन सॉस 500 मि.ली",
+    "description": "परमेसन चीज़, हैवी क्रीम और काली मिर्च पर आधारित सॉस।",
+    "price": 30800,
+    "image": "data/images/salsa-parmesana-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-229",
+    "name": "स्ट्रोगानॉफ 500 मिली",
+    "description": "जूलिएन स्ट्रिप्स और मशरूम में कमर",
+    "price": 49900,
+    "image": "data/images/stroganoff-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-230",
+    "name": "चिकन 500 मि.ली",
+    "description": "हमारी क्लासिक चिकन सॉस",
+    "price": 38500,
+    "image": "data/images/pollo-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-231",
+    "name": "थाई चिकन 500 मि.ली",
+    "description": "करी और पैशन फ्रूट पर आधारित ओरिएंटल स्वादों के मिश्रण में चिकन।",
+    "price": 38900,
+    "image": "data/images/pollo-thai-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-232",
+    "name": "कोचीनिटा पिबिल 500 मिली",
+    "description": "कटा हुआ सूअर का मांस, साइट्रस और एनाट्टो में मैरीनेट किया हुआ। धीमी आंच पर पकाएं.",
+    "price": 37900,
+    "image": "data/images/cochinita-pibil-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-233",
+    "name": "अहुयामा सूप 500lt",
+    "description": "कद्दू का सूप. इसे धीमी आंच पर गर्म करें!",
+    "price": 15900,
+    "image": "data/images/sopa-de-ahuyama-500lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-234",
+    "name": "दाल का सूप 500 मि.ली",
+    "description": "मशरूम और पोर्टोबेलोस, बेलुगा दाल और भारतीय मसालों के हल्के स्पर्श के साथ।",
+    "price": 19300,
+    "image": "data/images/sopa-de-lentejas-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-235",
+    "name": "अमरूद जेली 500 मि.ली",
+    "description": "मधुर क्षण बनाने के लिए क्लासिक अमरूद जेली सॉस।",
+    "price": 25900,
+    "image": "data/images/jalea-de-guayaba-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-236",
+    "name": "अमरूद जेली 250 मि.ली",
+    "description": "मधुर क्षण बनाने के लिए क्लासिक अमरूद जेली सॉस।",
+    "price": 15900,
+    "image": "data/images/jalea-de-guayaba-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-237",
+    "name": "पैशन फ्रूट कौलिस 500 मि.ली",
+    "description": "पैशन फ्रूट अर्क के साथ सॉस। आप इसे मिठाई या खट्टे-मीठे व्यंजनों में उपयोग कर सकते हैं।",
+    "price": 24000,
+    "image": "data/images/coulis-de-maracuy-500-ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-238",
+    "name": "पैशन फ्रूट कौलिस 250 मि.ली",
+    "description": "पैशन फ्रूट अर्क के साथ सॉस। आप इसे मिठाई या खट्टे-मीठे व्यंजनों में उपयोग कर सकते हैं।",
+    "price": 18000,
+    "image": "data/images/coulis-de-maracuy-250ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-239",
+    "name": "हाउस सॉस 1lt",
+    "description": "भुनी हुई मिर्च और टमाटर पर आधारित सॉस",
+    "price": 48000,
+    "image": "data/images/salsa-de-la-casa-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-240",
+    "name": "करी सॉस 1 लीटर",
+    "description": "भारत अपने मसालों से हमें अपना सारा स्वाद देता है। इसे चिकन, झींगा या सब्जियों के साथ प्रयोग करें।",
+    "price": 40000,
+    "image": "data/images/salsa-curry-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-241",
+    "name": "बोलोग्नीज़ सॉस 1 लीटर",
+    "description": "इटली का स्वाद बोलोग्नीज़ जैसा है। इसे क्रेप्स या पास्ता के साथ प्रयोग करें। परमेसन डालें।",
+    "price": 40000,
+    "image": "data/images/salsa-bolo-esa-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-242",
+    "name": "नियपोलिटन सॉस 1lt",
+    "description": "इटली के स्वाद से तैयार टमाटर",
+    "price": 30000,
+    "image": "data/images/salsa-napolitana-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-243",
+    "name": "कोवरैचिया सूप 1lt",
+    "description": "मैक्सिकन सूप. इसे धीमी आंच पर गर्म करें!",
+    "price": 20500,
+    "image": "data/images/sopa-covarach-a-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-244",
+    "name": "पालक का सूप 1 लीटर",
+    "description": "पालक का सूप. इसे धीमी आंच पर गर्म करें!",
+    "price": 20500,
+    "image": "data/images/sopa-espinaca-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-245",
+    "name": "प्याज का सूप 1 लीटर",
+    "description": "प्याज का सूप. इसे धीमी आंच पर गर्म करें!",
+    "price": 25000,
+    "image": "data/images/sopa-cebolla-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-246",
+    "name": "मैक्सिकन सॉस 1 लीटर",
+    "description": "मसालेदार लाल टमाटर और चिपोटल काली मिर्च की चटनी",
+    "price": 30000,
+    "image": "data/images/salsa-mexicana-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-247",
+    "name": "परमेसन सॉस 1 लीटर",
+    "description": "परमेसन चीज़, हैवी क्रीम और काली मिर्च पर आधारित सॉस।",
+    "price": 52500,
+    "image": "data/images/salsa-parmesana-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-248",
+    "name": "अहुयामा सूप 1 लीटर",
+    "description": "कद्दू का सूप. इसे धीमी आंच पर गर्म करें!",
+    "price": 18900,
+    "image": "data/images/sopa-de-ahuyama-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-249",
+    "name": "दाल का सूप 1 लीटर",
+    "description": "मशरूम और पोर्टोबेलोस, बेलुगा दाल और भारतीय मसालों के हल्के स्पर्श के साथ।",
+    "price": 32800,
+    "image": "data/images/sopa-de-lentejas-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-250",
+    "name": "लाइफ इन ग्रीन्स सूप 500 मि.ली",
+    "description": "साग और कोमल मकई की नरम क्रीम। इसे धीमी आंच पर गर्म करें. सुझाई गई सर्विंग्स: 1.5",
+    "price": 18000,
+    "image": "data/images/sopa-vida-en-verdes-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-251",
+    "name": "ग्रीन्स सूप में जीवन 1lt",
+    "description": "साग और कोमल मकई की नरम क्रीम। इसे धीमी आंच पर गर्म करें. सुझाई गई सर्विंग्स: 3",
+    "price": 30000,
+    "image": "data/images/sopa-vida-en-verdes-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-252",
+    "name": "सोया शरद ऋतु सूप 500 मि.ली",
+    "description": "बीन्स के साथ सब्जियों का विस्फोट. इसे धीमी आंच पर गर्म करें. सुझाई गई सर्विंग्स: 1.5",
+    "price": 15900,
+    "image": "data/images/sopa-soy-oto-o-500ml.webp",
+    "category": "घर पर क्रेप्स"
+  },
+  {
+    "id": "product-253",
+    "name": "सोया शरद ऋतु सूप 1lt",
+    "description": "बीन्स के साथ सब्जियों का विस्फोट. इसे धीमी आंच पर गर्म करें. सुझाई गई सर्विंग्स: 3",
+    "price": 26200,
+    "image": "data/images/sopa-soy-oto-o-1lt.webp",
+    "category": "घर पर क्रेप्स"
+  }
+]
